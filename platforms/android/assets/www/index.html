@@ -1,0 +1,188 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Page Title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=0.5">
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.icons.min.css" />
+        <link rel="stylesheet" href="css/myTheme1.css" />
+        <link rel="stylesheet" href="css/custom.css" />
+
+
+        <script src="js/jquery-2.1.3.min.js"></script>
+        <script src="js/jquery.mobile-1.4.5.min.js"></script>
+
+        <!-- Cordova magically appears -->
+        <script type="text/javascript" src="cordova.js"></script>
+
+        <script type="text/javascript" src="js/secret.js"></script>
+        <script type="text/javascript" src="js/foursq.js"></script>
+
+        <script>
+            var myPosition = {};
+
+            document.addEventListener("deviceready", onDeviceReady, false);
+
+            $(document).on("pagecreate", "#rec1", function() {
+                $("#recbutt").on("tap", function() {
+                    toggleRecord();
+                });
+            });
+            // $(document).on("pagecreate","#page1",function(){
+            //   $("div").on("swipeleft",function(){
+            //     alert("You swiped left!");
+            //   });
+            // });
+
+            // $(document).on("pagecreate","#rec1",function(){
+            // });
+            
+            function onDeviceReady() {
+                alert('ready!');
+                toggleRecord();
+
+                navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
+                login2FourSquare();
+                // getContacts();
+            }
+
+            function onContactsSuccess(contacts) {
+                alert('Found ' + contacts.length + ' contacts.');
+            }
+
+            function onContactsError(contactError) {
+                alert('onError!');
+            }
+
+            function onGeoError(error) {
+                alert('Sorry, location is broken!');
+            }
+
+            function onGeoSuccess(position) {
+                // set global;
+                myPosition = position;
+                alert('Latitude: '          + position.coords.latitude          + '\n' +
+                      'Longitude: '         + position.coords.longitude         + '\n' +
+                      'Altitude: '          + position.coords.altitude          + '\n' +
+                      'Accuracy: '          + position.coords.accuracy          + '\n' +
+                      'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+                      'Heading: '           + position.coords.heading           + '\n' +
+                      'Speed: '             + position.coords.speed             + '\n' +
+                      'Timestamp: '         + position.timestamp                + '\n');
+            }
+
+            var recordState = 0;
+
+            function toggleRecord() {
+                switch(recordState){
+                    case 0: {
+                        $("#recbutt").css('background', 'green');
+                        recordState = 1;
+                        break;
+                    }
+                    case 1: {
+                        $("#recbutt").css('background', 'red');
+                        recordState = 0;
+                        break;
+                    }
+                }
+            }
+
+            // not in use at the moment
+            function getContacts() {
+                var contactFindOptions = new ContactFindOptions();
+                contactFindOptions.filter = "John";
+                contactFindOptions.multiple = true;
+                contactFindOptions.desiredFields = [navigator.contacts.fieldType.id];
+                
+                var searchFields = [navigator.contacts.fieldType.displayName, navigator.contacts.fieldType.name];
+                navigator.contacts.find(searchFields, onContactsSuccess, onContactsError, contactFindOptions);
+            }
+
+
+        </script>
+
+
+
+    </head>
+
+    <body>
+
+          <!-- Record 1 -->
+          <div data-role="page" data-dialog="false" id="rec1">
+
+            <div data-role="header" data-id="headerbar" data-position="fixed">
+                <div data-role="navbar">
+                    <h1 class="ui-title" />
+                    Where I'm At
+                    </h1>
+<!--                     <ul>
+                        <li><a href="#home">Home</a></li>
+                    </ul>
+ -->                </div>
+            </div>
+
+            <div role="main" class="ui-content center">
+                <p>
+                    <div id="recbutt" class="circle center"></div>
+                    <p>
+                    <a href="#" class="mylocation" id="myloc">@ Brad's yo</a></div>
+                    </p>
+                    <div id="relocate" class="ui-btn">Relocate</div>
+                </p>
+            </div>
+
+            <div data-role="footer"><h4>Footer</h4></div>
+            <!-- end record1 -->
+
+
+            <!-- footer -->
+            <div data-role="footer" data-position="fixed">
+            </div>
+        </div> 
+
+        <!-- page 1 
+        <div data-role="page" data-dialog="true" id="page1">
+            <div data-role="header">
+                <div data-role="navbar">
+                  <ul>
+                    <li><a href="#page1">Home</a></li>
+                    <li><a href="#page2">Page Two</a></li>
+                    <li><a href="#page3">Dialog</a></li>
+                  </ul>
+                </div>
+            </div>
+            <div role="main" class="ui-content">
+                Page 1 Content<br />
+                <a href="#page2">Link to Page 2</a>
+            </div>
+            <div data-role="footer">Page 1 Footer</div>
+        </div>
+        -->
+
+        <!-- page 2
+        <div data-role="page" id="page2">
+            <div data-role="header">Page 2 Header</div>
+            <div role="main" class="ui-content">
+                Page 2 Content
+                <a href="#page3" class="ui-btn">Go to Page Three</a>
+                <a href="#page1" data-transition="flip">Link to Page 1</a> 
+            </div>
+            <div data-role="footer">Page 2 Footer</div>
+        </div>
+        -->
+
+        <!-- page 3
+        <div data-role="page" data-dialog="true" id="page3">
+          <div data-role="header">
+            <h1>Dialog Header</h1>
+          </div>
+
+          <div data-role="main" class="ui-content">
+            <p>Hi</p>
+            <a href="#page1">Go to Page 1</a>
+          </div>
+          -->
+
+    </body>
+</html>

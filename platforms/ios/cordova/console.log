@@ -1,0 +1,1612 @@
+2015-02-24 02:22:35.059 Where Im At[61206:1694257] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/21805931-B5C9-40B3-876C-71E996FFD23A/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:22:35.188 Where Im At[61206:1694257] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:22:35.189 Where Im At[61206:1694257] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:22:35.191 Where Im At[61206:1694257] Unlimited access to network resources
+2015-02-24 02:22:35.193 Where Im At[61206:1694257] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:22:35.469 Where Im At[61206:1694257] [CDVTimer][file] 3.377020ms
+2015-02-24 02:22:35.469 Where Im At[61206:1694257] [CDVTimer][TotalPluginStartup] 3.686011ms
+2015-02-24 02:22:35.509 Where Im At[61206:1694257] Resetting plugins due to page load.
+2015-02-24 02:22:35.760 Where Im At[61206:1694257] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/562B4D5A-982F-4069-AAE3-47169A7DBADB/Where%20Im%20At.app/www/index.html
+2015-02-24 02:29:09.897 Where Im At[61464:1697374] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/78339463-0979-4211-AAD8-8589724AF7D7/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:29:10.089 Where Im At[61464:1697374] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:29:10.090 Where Im At[61464:1697374] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:29:10.092 Where Im At[61464:1697374] Unlimited access to network resources
+2015-02-24 02:29:10.110 Where Im At[61464:1697374] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:29:10.365 Where Im At[61464:1697374] [CDVTimer][file] 26.090026ms
+2015-02-24 02:29:10.365 Where Im At[61464:1697374] [CDVTimer][TotalPluginStartup] 26.430011ms
+2015-02-24 02:29:10.443 Where Im At[61464:1697374] Resetting plugins due to page load.
+2015-02-24 02:29:10.715 Where Im At[61464:1697374] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/61EC8872-BFB0-408F-A0D7-2B129D38AB49/Where%20Im%20At.app/www/index.html
+2015-02-24 02:34:36.117 Where Im At[61700:1699371] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1B397C96-13ED-4F63-8694-53D4D16E8DA2/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:34:36.693 Where Im At[61700:1699371] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:34:36.694 Where Im At[61700:1699371] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:34:36.696 Where Im At[61700:1699371] Unlimited access to network resources
+2015-02-24 02:34:36.717 Where Im At[61700:1699371] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:34:36.990 Where Im At[61700:1699371] [CDVTimer][file] 23.853004ms
+2015-02-24 02:34:36.990 Where Im At[61700:1699371] [CDVTimer][TotalPluginStartup] 24.278998ms
+2015-02-24 02:34:37.075 Where Im At[61700:1699371] Resetting plugins due to page load.
+2015-02-24 02:34:37.319 Where Im At[61700:1699371] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C5138630-9735-46EE-B496-24E47F518893/Where%20Im%20At.app/www/index.html
+2015-02-24 02:41:01.319 Where Im At[61938:1701705] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/46ECCF11-7163-4AE3-947B-5C93AC9626D7/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:41:01.562 Where Im At[61938:1701705] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:41:01.563 Where Im At[61938:1701705] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:41:01.564 Where Im At[61938:1701705] Unlimited access to network resources
+2015-02-24 02:41:01.581 Where Im At[61938:1701705] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:41:01.835 Where Im At[61938:1701705] [CDVTimer][file] 22.899032ms
+2015-02-24 02:41:01.835 Where Im At[61938:1701705] [CDVTimer][TotalPluginStartup] 23.320973ms
+2015-02-24 02:41:01.923 Where Im At[61938:1701705] Resetting plugins due to page load.
+2015-02-24 02:41:02.122 Where Im At[61938:1701705] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A55DEDC2-5557-415C-B99F-3C737FE70FEA/Where%20Im%20At.app/www/index.html
+2015-02-24 02:42:46.965 Where Im At[62160:1702691] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4D736CC5-A794-4A84-A9ED-8A6BF56E703A/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:42:47.118 Where Im At[62160:1702691] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:42:47.119 Where Im At[62160:1702691] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:42:47.120 Where Im At[62160:1702691] Unlimited access to network resources
+2015-02-24 02:42:47.136 Where Im At[62160:1702691] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:42:47.357 Where Im At[62160:1702691] [CDVTimer][file] 8.774996ms
+2015-02-24 02:42:47.358 Where Im At[62160:1702691] [CDVTimer][TotalPluginStartup] 9.225965ms
+2015-02-24 02:42:47.438 Where Im At[62160:1702691] Resetting plugins due to page load.
+2015-02-24 02:42:47.649 Where Im At[62160:1702691] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/AB581AB7-53A0-4BCC-AF43-123D80C1E6AA/Where%20Im%20At.app/www/index.html
+2015-02-24 02:44:22.847 Where Im At[62383:1703708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/7F4A3201-5E37-4046-8120-9A6285ED031D/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:44:23.008 Where Im At[62383:1703708] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:44:23.009 Where Im At[62383:1703708] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:44:23.011 Where Im At[62383:1703708] Unlimited access to network resources
+2015-02-24 02:44:23.013 Where Im At[62383:1703708] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:44:23.227 Where Im At[62383:1703708] [CDVTimer][file] 2.606034ms
+2015-02-24 02:44:23.227 Where Im At[62383:1703708] [CDVTimer][TotalPluginStartup] 2.810001ms
+2015-02-24 02:44:23.287 Where Im At[62383:1703708] Resetting plugins due to page load.
+2015-02-24 02:44:23.608 Where Im At[62383:1703708] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/EB17A7CC-93E9-4534-85AD-BED6CCC8F3FE/Where%20Im%20At.app/www/index.html
+2015-02-24 02:46:36.251 Where Im At[62610:1705280] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/67A453DD-507D-4602-85A0-A52011D6D9DB/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:46:36.419 Where Im At[62610:1705280] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:46:36.420 Where Im At[62610:1705280] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:46:36.421 Where Im At[62610:1705280] Unlimited access to network resources
+2015-02-24 02:46:36.423 Where Im At[62610:1705280] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:46:36.801 Where Im At[62610:1705280] [CDVTimer][file] 2.754033ms
+2015-02-24 02:46:36.801 Where Im At[62610:1705280] [CDVTimer][TotalPluginStartup] 2.933025ms
+2015-02-24 02:46:36.854 Where Im At[62610:1705280] Resetting plugins due to page load.
+2015-02-24 02:46:37.111 Where Im At[62610:1705280] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C98CB3C2-4857-47B0-949D-7C353E8A3C42/Where%20Im%20At.app/www/index.html
+2015-02-24 02:47:24.837 Where Im At[62831:1706092] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/50DB9E5D-B6BA-4C64-B003-F2B9E655A493/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:47:24.940 Where Im At[62831:1706092] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:47:24.940 Where Im At[62831:1706092] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:47:24.942 Where Im At[62831:1706092] Unlimited access to network resources
+2015-02-24 02:47:24.944 Where Im At[62831:1706092] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:47:25.168 Where Im At[62831:1706092] [CDVTimer][file] 3.150046ms
+2015-02-24 02:47:25.168 Where Im At[62831:1706092] [CDVTimer][TotalPluginStartup] 3.377974ms
+2015-02-24 02:47:25.241 Where Im At[62831:1706092] Resetting plugins due to page load.
+2015-02-24 02:47:25.551 Where Im At[62831:1706092] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/8D3EC58B-78A0-40E0-AF15-501815E5AB38/Where%20Im%20At.app/www/index.html
+2015-02-24 02:49:42.708 Where Im At[63058:1707961] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/7706D743-37F8-46CF-B69F-E1546EFC9585/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:49:42.891 Where Im At[63058:1707961] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:49:42.892 Where Im At[63058:1707961] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:49:42.894 Where Im At[63058:1707961] Unlimited access to network resources
+2015-02-24 02:49:42.896 Where Im At[63058:1707961] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:49:43.149 Where Im At[63058:1707961] [CDVTimer][file] 2.553999ms
+2015-02-24 02:49:43.149 Where Im At[63058:1707961] [CDVTimer][TotalPluginStartup] 2.770007ms
+2015-02-24 02:49:43.209 Where Im At[63058:1707961] Resetting plugins due to page load.
+2015-02-24 02:49:43.520 Where Im At[63058:1707961] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/74F0CD57-FA62-493B-929F-38A671C0AF5C/Where%20Im%20At.app/www/index.html
+2015-02-24 02:50:28.262 Where Im At[63281:1708710] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E4C0F078-7A02-4F42-A94D-E5684F357461/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:50:28.428 Where Im At[63281:1708710] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:50:28.429 Where Im At[63281:1708710] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:50:28.430 Where Im At[63281:1708710] Unlimited access to network resources
+2015-02-24 02:50:28.432 Where Im At[63281:1708710] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:50:28.649 Where Im At[63281:1708710] [CDVTimer][file] 3.280044ms
+2015-02-24 02:50:28.649 Where Im At[63281:1708710] [CDVTimer][TotalPluginStartup] 3.598988ms
+2015-02-24 02:50:28.713 Where Im At[63281:1708710] Resetting plugins due to page load.
+2015-02-24 02:50:43.652 Where Im At[63281:1708710] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/E9DDE9D5-7759-4A21-B141-F9196AA1C656/Where%20Im%20At.app/www/index.html
+2015-02-24 02:51:12.809 Where Im At[63502:1709441] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/CDF637B6-EEA0-43FC-8B3B-4809E8884A3C/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:51:12.919 Where Im At[63502:1709441] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:51:12.920 Where Im At[63502:1709441] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:51:12.922 Where Im At[63502:1709441] Unlimited access to network resources
+2015-02-24 02:51:12.925 Where Im At[63502:1709441] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:51:13.185 Where Im At[63502:1709441] [CDVTimer][file] 2.481997ms
+2015-02-24 02:51:13.185 Where Im At[63502:1709441] [CDVTimer][TotalPluginStartup] 2.667010ms
+2015-02-24 02:51:13.254 Where Im At[63502:1709441] Resetting plugins due to page load.
+2015-02-24 02:51:13.551 Where Im At[63502:1709441] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/0C6C0195-DE3D-410B-87C6-154BD07AFEF0/Where%20Im%20At.app/www/index.html
+2015-02-24 02:51:42.231 Where Im At[63724:1710130] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/42B32D3C-F6F8-4966-86A3-E9CC86D8976C/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:51:42.453 Where Im At[63724:1710130] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:51:42.454 Where Im At[63724:1710130] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:51:42.455 Where Im At[63724:1710130] Unlimited access to network resources
+2015-02-24 02:51:42.458 Where Im At[63724:1710130] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:51:42.700 Where Im At[63724:1710130] [CDVTimer][file] 2.569020ms
+2015-02-24 02:51:42.700 Where Im At[63724:1710130] [CDVTimer][TotalPluginStartup] 2.746999ms
+2015-02-24 02:51:42.755 Where Im At[63724:1710130] Resetting plugins due to page load.
+2015-02-24 02:51:44.603 Where Im At[63724:1710130] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/6EA0950C-DA30-4186-8B9A-07C9DA9358F0/Where%20Im%20At.app/www/index.html
+2015-02-24 02:52:27.002 Where Im At[63946:1710909] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1AD361D3-6609-46B3-9AE4-A5F0BF5A389F/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:52:27.121 Where Im At[63946:1710909] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:52:27.121 Where Im At[63946:1710909] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:52:27.123 Where Im At[63946:1710909] Unlimited access to network resources
+2015-02-24 02:52:27.125 Where Im At[63946:1710909] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:52:27.381 Where Im At[63946:1710909] [CDVTimer][file] 2.842963ms
+2015-02-24 02:52:27.381 Where Im At[63946:1710909] [CDVTimer][TotalPluginStartup] 3.103971ms
+2015-02-24 02:52:27.441 Where Im At[63946:1710909] Resetting plugins due to page load.
+2015-02-24 02:52:27.675 Where Im At[63946:1710909] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/97AADE9E-BE18-426E-8BE4-A640F8C29EB4/Where%20Im%20At.app/www/index.html
+2015-02-24 02:53:11.249 Where Im At[64167:1711755] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1CFAD7D0-0E17-4618-8724-FC6AC375EAA4/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:53:11.423 Where Im At[64167:1711755] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:53:11.423 Where Im At[64167:1711755] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:53:11.425 Where Im At[64167:1711755] Unlimited access to network resources
+2015-02-24 02:53:11.427 Where Im At[64167:1711755] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:53:11.645 Where Im At[64167:1711755] [CDVTimer][file] 2.403975ms
+2015-02-24 02:53:11.645 Where Im At[64167:1711755] [CDVTimer][TotalPluginStartup] 2.578974ms
+2015-02-24 02:53:11.706 Where Im At[64167:1711755] Resetting plugins due to page load.
+2015-02-24 02:53:11.955 Where Im At[64167:1711755] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/B9B57968-F673-41D2-AF71-6EA41CCDFBD9/Where%20Im%20At.app/www/index.html
+2015-02-24 02:53:48.298 Where Im At[64389:1712446] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/A8FD0CBE-2AB1-4A98-BF56-0C619EC3AC79/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:53:48.406 Where Im At[64389:1712446] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:53:48.407 Where Im At[64389:1712446] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:53:48.409 Where Im At[64389:1712446] Unlimited access to network resources
+2015-02-24 02:53:48.412 Where Im At[64389:1712446] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:53:48.632 Where Im At[64389:1712446] [CDVTimer][file] 4.122019ms
+2015-02-24 02:53:48.633 Where Im At[64389:1712446] [CDVTimer][TotalPluginStartup] 4.395962ms
+2015-02-24 02:53:48.721 Where Im At[64389:1712446] Resetting plugins due to page load.
+2015-02-24 02:53:51.317 Where Im At[64389:1712446] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D8EAC5AB-B3A6-4B57-BC67-4B400484CE1A/Where%20Im%20At.app/www/index.html
+2015-02-24 02:54:09.972 Where Im At[64610:1713158] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/95C04FE1-644F-44D9-9D5F-258B8F281706/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:54:10.121 Where Im At[64610:1713158] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:54:10.122 Where Im At[64610:1713158] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:54:10.123 Where Im At[64610:1713158] Unlimited access to network resources
+2015-02-24 02:54:10.126 Where Im At[64610:1713158] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:54:10.387 Where Im At[64610:1713158] [CDVTimer][file] 3.570020ms
+2015-02-24 02:54:10.387 Where Im At[64610:1713158] [CDVTimer][TotalPluginStartup] 3.845036ms
+2015-02-24 02:54:10.453 Where Im At[64610:1713158] Resetting plugins due to page load.
+2015-02-24 02:54:10.749 Where Im At[64610:1713158] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/AAC1603D-BCB6-4B09-9D05-401E3AF02EAF/Where%20Im%20At.app/www/index.html
+2015-02-24 02:58:32.540 Where Im At[64835:1715426] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/40209B01-F34D-4B5C-966B-4BC1B861A09A/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:58:32.683 Where Im At[64835:1715426] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:58:32.684 Where Im At[64835:1715426] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:58:32.685 Where Im At[64835:1715426] Unlimited access to network resources
+2015-02-24 02:58:32.711 Where Im At[64835:1715426] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:58:32.940 Where Im At[64835:1715426] [CDVTimer][file] 15.138984ms
+2015-02-24 02:58:32.940 Where Im At[64835:1715426] [CDVTimer][TotalPluginStartup] 15.455008ms
+2015-02-24 02:58:33.017 Where Im At[64835:1715426] Resetting plugins due to page load.
+2015-02-24 02:58:33.270 Where Im At[64835:1715426] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A82F4CCC-5598-4ECF-AD7C-2828AE22CCCF/Where%20Im%20At.app/www/index.html
+2015-02-24 02:58:53.459 Where Im At[65055:1716033] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D70C63A6-D480-4206-B62E-2E5D49C4A5C2/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:58:53.592 Where Im At[65055:1716033] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:58:53.593 Where Im At[65055:1716033] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:58:53.594 Where Im At[65055:1716033] Unlimited access to network resources
+2015-02-24 02:58:53.611 Where Im At[65055:1716033] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:58:53.831 Where Im At[65055:1716033] [CDVTimer][file] 7.182002ms
+2015-02-24 02:58:53.831 Where Im At[65055:1716033] [CDVTimer][TotalPluginStartup] 7.368982ms
+2015-02-24 02:58:53.912 Where Im At[65055:1716033] Resetting plugins due to page load.
+2015-02-24 02:58:54.235 Where Im At[65055:1716033] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A9D61AF2-C225-4951-94A6-552654A0B9A3/Where%20Im%20At.app/www/index.html
+2015-02-24 02:59:13.736 Where Im At[65276:1716690] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/BCF85073-05AE-48E3-9EEC-4AA28284118A/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:59:13.895 Where Im At[65276:1716690] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:59:13.896 Where Im At[65276:1716690] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:59:13.898 Where Im At[65276:1716690] Unlimited access to network resources
+2015-02-24 02:59:13.920 Where Im At[65276:1716690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:59:14.183 Where Im At[65276:1716690] [CDVTimer][file] 17.637968ms
+2015-02-24 02:59:14.184 Where Im At[65276:1716690] [CDVTimer][TotalPluginStartup] 17.958999ms
+2015-02-24 02:59:14.261 Where Im At[65276:1716690] Resetting plugins due to page load.
+2015-02-24 02:59:14.508 Where Im At[65276:1716690] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3B4E2858-71F9-4A1C-868D-71D0D9D34FD9/Where%20Im%20At.app/www/index.html
+2015-02-24 02:59:58.562 Where Im At[65499:1717433] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/332F262A-1781-4C00-812F-1C385CCC2018/Library/Cookies/Cookies.binarycookies
+2015-02-24 02:59:58.645 Where Im At[65499:1717433] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 02:59:58.646 Where Im At[65499:1717433] Multi-tasking -> Device: YES, App: YES
+2015-02-24 02:59:58.648 Where Im At[65499:1717433] Unlimited access to network resources
+2015-02-24 02:59:58.650 Where Im At[65499:1717433] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 02:59:58.870 Where Im At[65499:1717433] [CDVTimer][file] 3.169954ms
+2015-02-24 02:59:58.870 Where Im At[65499:1717433] [CDVTimer][TotalPluginStartup] 3.576994ms
+2015-02-24 02:59:58.927 Where Im At[65499:1717433] Resetting plugins due to page load.
+2015-02-24 02:59:59.189 Where Im At[65499:1717433] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D05FAC27-9224-40CB-B2B1-FE374A785E45/Where%20Im%20At.app/www/index.html
+2015-02-24 03:00:37.351 Where Im At[65720:1718142] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0305B487-CA8A-455B-8392-96803C1AE4C2/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:00:37.466 Where Im At[65720:1718142] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:00:37.466 Where Im At[65720:1718142] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:00:37.468 Where Im At[65720:1718142] Unlimited access to network resources
+2015-02-24 03:00:37.470 Where Im At[65720:1718142] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:00:37.702 Where Im At[65720:1718142] [CDVTimer][file] 23.997009ms
+2015-02-24 03:00:37.702 Where Im At[65720:1718142] [CDVTimer][TotalPluginStartup] 24.170041ms
+2015-02-24 03:00:37.772 Where Im At[65720:1718142] Resetting plugins due to page load.
+2015-02-24 03:00:38.048 Where Im At[65720:1718142] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C3AE9901-B9B4-4B3D-AD2C-CBD599425294/Where%20Im%20At.app/www/index.html
+2015-02-24 03:02:11.578 Where Im At[65946:1719442] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/B8EC05F3-B58B-4419-A022-E9F57173929C/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:02:11.726 Where Im At[65946:1719442] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:02:11.727 Where Im At[65946:1719442] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:02:11.728 Where Im At[65946:1719442] Unlimited access to network resources
+2015-02-24 03:02:11.747 Where Im At[65946:1719442] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:02:11.984 Where Im At[65946:1719442] [CDVTimer][file] 15.591025ms
+2015-02-24 03:02:11.985 Where Im At[65946:1719442] [CDVTimer][TotalPluginStartup] 15.911043ms
+2015-02-24 03:02:12.061 Where Im At[65946:1719442] Resetting plugins due to page load.
+2015-02-24 03:02:12.334 Where Im At[65946:1719442] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/63E16217-C511-4338-A581-5BA230E11F01/Where%20Im%20At.app/www/index.html
+2015-02-24 03:02:46.975 Where Im At[66167:1720159] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/59D921E6-8542-4965-ACBB-36207B846D2D/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:02:47.080 Where Im At[66167:1720159] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:02:47.081 Where Im At[66167:1720159] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:02:47.083 Where Im At[66167:1720159] Unlimited access to network resources
+2015-02-24 03:02:47.085 Where Im At[66167:1720159] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:02:47.338 Where Im At[66167:1720159] [CDVTimer][file] 2.496004ms
+2015-02-24 03:02:47.338 Where Im At[66167:1720159] [CDVTimer][TotalPluginStartup] 2.680004ms
+2015-02-24 03:02:47.396 Where Im At[66167:1720159] Resetting plugins due to page load.
+2015-02-24 03:02:47.700 Where Im At[66167:1720159] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1947DAA3-FEC6-4470-9097-90F9AB39DAAA/Where%20Im%20At.app/www/index.html
+2015-02-24 03:03:57.354 Where Im At[66392:1721126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/B7FE3778-3B5C-46C4-BED7-4EA45B0A215A/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:03:57.524 Where Im At[66392:1721126] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:03:57.525 Where Im At[66392:1721126] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:03:57.527 Where Im At[66392:1721126] Unlimited access to network resources
+2015-02-24 03:03:57.530 Where Im At[66392:1721126] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:03:57.825 Where Im At[66392:1721126] [CDVTimer][file] 2.556026ms
+2015-02-24 03:03:57.825 Where Im At[66392:1721126] [CDVTimer][TotalPluginStartup] 2.740979ms
+2015-02-24 03:03:57.902 Where Im At[66392:1721126] Resetting plugins due to page load.
+2015-02-24 03:03:58.277 Where Im At[66392:1721126] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3D6FE43F-417F-43F6-A354-5BACDA82B16B/Where%20Im%20At.app/www/index.html
+2015-02-24 03:03:58.450 Where Im At[66392:1721126] THREAD WARNING: ['File'] took '130.434814' ms. Plugin should use a background thread.
+2015-02-24 03:04:53.230 Where Im At[66613:1721935] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4B078BAF-10B9-4137-8239-F16FFA9286BC/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:04:53.410 Where Im At[66613:1721935] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:04:53.410 Where Im At[66613:1721935] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:04:53.412 Where Im At[66613:1721935] Unlimited access to network resources
+2015-02-24 03:04:53.414 Where Im At[66613:1721935] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:04:53.664 Where Im At[66613:1721935] [CDVTimer][file] 3.247976ms
+2015-02-24 03:04:53.665 Where Im At[66613:1721935] [CDVTimer][TotalPluginStartup] 3.441036ms
+2015-02-24 03:04:53.728 Where Im At[66613:1721935] Resetting plugins due to page load.
+2015-02-24 03:04:54.021 Where Im At[66613:1721935] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FBADAE25-0E82-498F-9CB4-60985AFAAC8B/Where%20Im%20At.app/www/index.html
+2015-02-24 03:05:38.292 Where Im At[66836:1722837] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D2171794-64C8-4D81-A3AF-4ED1691EC103/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:05:38.461 Where Im At[66836:1722837] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:05:38.462 Where Im At[66836:1722837] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:05:38.464 Where Im At[66836:1722837] Unlimited access to network resources
+2015-02-24 03:05:38.466 Where Im At[66836:1722837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:05:38.690 Where Im At[66836:1722837] [CDVTimer][file] 3.066003ms
+2015-02-24 03:05:38.690 Where Im At[66836:1722837] [CDVTimer][TotalPluginStartup] 3.248990ms
+2015-02-24 03:05:38.756 Where Im At[66836:1722837] Resetting plugins due to page load.
+2015-02-24 03:05:39.067 Where Im At[66836:1722837] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/F597F76A-1113-4D7B-8A09-A9745375FC2E/Where%20Im%20At.app/www/index.html
+2015-02-24 03:06:20.966 Where Im At[67059:1723598] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1ADBA2A7-9C5B-4E30-8C00-5B6985128CD1/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:06:21.073 Where Im At[67059:1723598] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:06:21.073 Where Im At[67059:1723598] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:06:21.075 Where Im At[67059:1723598] Unlimited access to network resources
+2015-02-24 03:06:21.078 Where Im At[67059:1723598] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:06:21.311 Where Im At[67059:1723598] [CDVTimer][file] 4.326046ms
+2015-02-24 03:06:21.312 Where Im At[67059:1723598] [CDVTimer][TotalPluginStartup] 4.601002ms
+2015-02-24 03:06:21.375 Where Im At[67059:1723598] Resetting plugins due to page load.
+2015-02-24 03:06:21.662 Where Im At[67059:1723598] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FDF9C1DD-578A-4F5D-BBE8-1A513F8B0C8F/Where%20Im%20At.app/www/index.html
+2015-02-24 03:08:23.565 Where Im At[67285:1725057] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0443E757-AB87-486F-8E5F-339818D5767E/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:08:23.713 Where Im At[67285:1725057] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:08:23.714 Where Im At[67285:1725057] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:08:23.716 Where Im At[67285:1725057] Unlimited access to network resources
+2015-02-24 03:08:23.718 Where Im At[67285:1725057] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:08:23.976 Where Im At[67285:1725057] [CDVTimer][file] 2.802014ms
+2015-02-24 03:08:23.977 Where Im At[67285:1725057] [CDVTimer][TotalPluginStartup] 2.999008ms
+2015-02-24 03:08:24.046 Where Im At[67285:1725057] Resetting plugins due to page load.
+2015-02-24 03:08:24.350 Where Im At[67285:1725057] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/5242BB7E-CBF1-47A1-B096-9DE51A23C348/Where%20Im%20At.app/www/index.html
+2015-02-24 03:11:15.350 Where Im At[67511:1726790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4373DA2D-1F2B-4A81-B3BD-077100D213BD/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:11:15.500 Where Im At[67511:1726790] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:11:15.500 Where Im At[67511:1726790] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:11:15.503 Where Im At[67511:1726790] Unlimited access to network resources
+2015-02-24 03:11:15.506 Where Im At[67511:1726790] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:11:15.746 Where Im At[67511:1726790] [CDVTimer][file] 2.315044ms
+2015-02-24 03:11:15.747 Where Im At[67511:1726790] [CDVTimer][TotalPluginStartup] 2.504051ms
+2015-02-24 03:11:15.796 Where Im At[67511:1726790] Resetting plugins due to page load.
+2015-02-24 03:11:16.007 Where Im At[67511:1726790] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/34203AC7-4D8C-427D-B6CA-4A9D2C3D867C/Where%20Im%20At.app/www/index.html
+2015-02-24 03:11:49.324 Where Im At[67732:1727556] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/173C49CD-3FC6-468D-AC4F-F003A6CA8BD4/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:11:49.449 Where Im At[67732:1727556] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:11:49.449 Where Im At[67732:1727556] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:11:49.452 Where Im At[67732:1727556] Unlimited access to network resources
+2015-02-24 03:11:49.454 Where Im At[67732:1727556] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:11:49.674 Where Im At[67732:1727556] [CDVTimer][file] 3.605962ms
+2015-02-24 03:11:49.675 Where Im At[67732:1727556] [CDVTimer][TotalPluginStartup] 3.889978ms
+2015-02-24 03:11:49.753 Where Im At[67732:1727556] Resetting plugins due to page load.
+2015-02-24 03:11:50.056 Where Im At[67732:1727556] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/4059464A-D540-4C35-BE45-7AF6B6FC380E/Where%20Im%20At.app/www/index.html
+2015-02-24 03:12:45.964 Where Im At[67955:1728497] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/F7C488CD-A849-41B8-A498-FDF6F76006A7/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:12:46.137 Where Im At[67955:1728497] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:12:46.138 Where Im At[67955:1728497] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:12:46.139 Where Im At[67955:1728497] Unlimited access to network resources
+2015-02-24 03:12:46.142 Where Im At[67955:1728497] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:12:46.406 Where Im At[67955:1728497] [CDVTimer][file] 2.925992ms
+2015-02-24 03:12:46.406 Where Im At[67955:1728497] [CDVTimer][TotalPluginStartup] 3.179967ms
+2015-02-24 03:12:46.469 Where Im At[67955:1728497] Resetting plugins due to page load.
+2015-02-24 03:12:46.773 Where Im At[67955:1728497] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/AE9208F0-D2D1-4467-9E0C-9AA85CB1EB57/Where%20Im%20At.app/www/index.html
+2015-02-24 03:13:19.211 Where Im At[67955:1728518] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-02-24 03:14:12.624 Where Im At[68182:1729868] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/37840BB9-7612-401D-BCC7-81F66871863A/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:14:12.816 Where Im At[68182:1729868] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:14:12.816 Where Im At[68182:1729868] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:14:12.818 Where Im At[68182:1729868] Unlimited access to network resources
+2015-02-24 03:14:12.821 Where Im At[68182:1729868] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:14:13.068 Where Im At[68182:1729868] [CDVTimer][file] 3.566980ms
+2015-02-24 03:14:13.069 Where Im At[68182:1729868] [CDVTimer][TotalPluginStartup] 3.809035ms
+2015-02-24 03:14:13.129 Where Im At[68182:1729868] Resetting plugins due to page load.
+2015-02-24 03:14:13.384 Where Im At[68182:1729868] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/83639555-19E0-406E-86A3-4455997A4EEC/Where%20Im%20At.app/www/index.html
+2015-02-24 03:15:14.819 Where Im At[68403:1730825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/38425EA1-FA54-4D1E-9EDB-F7101BEFE0CB/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:15:14.924 Where Im At[68403:1730825] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:15:14.925 Where Im At[68403:1730825] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:15:14.927 Where Im At[68403:1730825] Unlimited access to network resources
+2015-02-24 03:15:14.930 Where Im At[68403:1730825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:15:15.162 Where Im At[68403:1730825] [CDVTimer][file] 3.752947ms
+2015-02-24 03:15:15.163 Where Im At[68403:1730825] [CDVTimer][TotalPluginStartup] 4.037023ms
+2015-02-24 03:15:15.224 Where Im At[68403:1730825] Resetting plugins due to page load.
+2015-02-24 03:15:15.509 Where Im At[68403:1730825] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1E31E8D3-7725-4C57-B7E9-738CA61B992A/Where%20Im%20At.app/www/index.html
+2015-02-24 03:16:25.706 Where Im At[68628:1731918] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/A9B27579-D658-4EE7-9B26-A5031CBC4296/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:16:25.872 Where Im At[68628:1731918] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:16:25.873 Where Im At[68628:1731918] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:16:25.876 Where Im At[68628:1731918] Unlimited access to network resources
+2015-02-24 03:16:25.878 Where Im At[68628:1731918] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:16:26.171 Where Im At[68628:1731918] [CDVTimer][file] 2.484977ms
+2015-02-24 03:16:26.171 Where Im At[68628:1731918] [CDVTimer][TotalPluginStartup] 2.662003ms
+2015-02-24 03:16:26.236 Where Im At[68628:1731918] Resetting plugins due to page load.
+2015-02-24 03:16:26.475 Where Im At[68628:1731918] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/F088898A-F55E-47B4-A94F-90D0C30710EE/Where%20Im%20At.app/www/index.html
+2015-02-24 03:16:57.756 Where Im At[68849:1732621] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/86D2EC3D-0EBC-4FCA-A96A-2713F51138B0/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:16:57.912 Where Im At[68849:1732621] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:16:57.913 Where Im At[68849:1732621] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:16:57.915 Where Im At[68849:1732621] Unlimited access to network resources
+2015-02-24 03:16:57.918 Where Im At[68849:1732621] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:16:58.289 Where Im At[68849:1732621] [CDVTimer][file] 2.721012ms
+2015-02-24 03:16:58.289 Where Im At[68849:1732621] [CDVTimer][TotalPluginStartup] 2.911985ms
+2015-02-24 03:16:58.350 Where Im At[68849:1732621] Resetting plugins due to page load.
+2015-02-24 03:16:58.664 Where Im At[68849:1732621] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D30C0286-F923-46CE-B5FE-C8F6730F8DF1/Where%20Im%20At.app/www/index.html
+2015-02-24 03:19:19.912 Where Im At[69075:1733736] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/9E6AEC20-C8F7-4345-B644-760DF4FEC6F8/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:19:20.018 Where Im At[69075:1733736] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:19:20.019 Where Im At[69075:1733736] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:19:20.021 Where Im At[69075:1733736] Unlimited access to network resources
+2015-02-24 03:19:20.023 Where Im At[69075:1733736] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:19:20.259 Where Im At[69075:1733736] [CDVTimer][file] 3.970027ms
+2015-02-24 03:19:20.260 Where Im At[69075:1733736] [CDVTimer][TotalPluginStartup] 4.308999ms
+2015-02-24 03:19:20.324 Where Im At[69075:1733736] Resetting plugins due to page load.
+2015-02-24 03:19:20.623 Where Im At[69075:1733736] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D14C193A-D078-46E6-AD00-A7FF561F8F26/Where%20Im%20At.app/www/index.html
+2015-02-24 03:21:18.943 Where Im At[69304:1735141] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0176440B-B2F5-4F63-B780-C361A75ACD1C/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:21:19.047 Where Im At[69304:1735141] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:21:19.047 Where Im At[69304:1735141] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:21:19.049 Where Im At[69304:1735141] Unlimited access to network resources
+2015-02-24 03:21:19.052 Where Im At[69304:1735141] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:21:19.289 Where Im At[69304:1735141] [CDVTimer][file] 4.079044ms
+2015-02-24 03:21:19.289 Where Im At[69304:1735141] [CDVTimer][TotalPluginStartup] 4.366040ms
+2015-02-24 03:21:19.352 Where Im At[69304:1735141] Resetting plugins due to page load.
+2015-02-24 03:21:19.632 Where Im At[69304:1735141] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/84205B78-62FE-458A-A723-749207D5955A/Where%20Im%20At.app/www/index.html
+2015-02-24 03:23:00.531 Where Im At[69533:1736660] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/5FA86466-FC34-4BAB-8B74-DD45FC63F8B5/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:23:00.678 Where Im At[69533:1736660] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:23:00.678 Where Im At[69533:1736660] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:23:00.680 Where Im At[69533:1736660] Unlimited access to network resources
+2015-02-24 03:23:00.682 Where Im At[69533:1736660] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:23:00.927 Where Im At[69533:1736660] [CDVTimer][file] 2.554953ms
+2015-02-24 03:23:00.927 Where Im At[69533:1736660] [CDVTimer][TotalPluginStartup] 2.741992ms
+2015-02-24 03:23:00.985 Where Im At[69533:1736660] Resetting plugins due to page load.
+2015-02-24 03:23:01.307 Where Im At[69533:1736660] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3F71C046-19B7-4978-8119-33B66049D1EE/Where%20Im%20At.app/www/index.html
+2015-02-24 03:24:10.137 Where Im At[69756:1737495] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/8E5263AE-EC92-49C7-BAEE-AD92C3FB73F9/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:24:10.239 Where Im At[69756:1737495] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:24:10.239 Where Im At[69756:1737495] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:24:10.241 Where Im At[69756:1737495] Unlimited access to network resources
+2015-02-24 03:24:10.243 Where Im At[69756:1737495] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:24:10.454 Where Im At[69756:1737495] [CDVTimer][file] 2.752006ms
+2015-02-24 03:24:10.454 Where Im At[69756:1737495] [CDVTimer][TotalPluginStartup] 3.000975ms
+2015-02-24 03:24:10.522 Where Im At[69756:1737495] Resetting plugins due to page load.
+2015-02-24 03:24:10.852 Where Im At[69756:1737495] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FA886068-2E5C-40AA-B92F-3ADCB2D8E403/Where%20Im%20At.app/www/index.html
+2015-02-24 03:25:21.174 Where Im At[69980:1738359] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/78F0672A-68A3-489D-A90C-F6956B504F36/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:25:21.285 Where Im At[69980:1738359] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:25:21.285 Where Im At[69980:1738359] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:25:21.287 Where Im At[69980:1738359] Unlimited access to network resources
+2015-02-24 03:25:21.290 Where Im At[69980:1738359] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:25:21.530 Where Im At[69980:1738359] [CDVTimer][file] 4.004955ms
+2015-02-24 03:25:21.531 Where Im At[69980:1738359] [CDVTimer][TotalPluginStartup] 4.279971ms
+2015-02-24 03:25:21.591 Where Im At[69980:1738359] Resetting plugins due to page load.
+2015-02-24 03:25:21.892 Where Im At[69980:1738359] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FE72B95C-74DA-471B-A1F4-879106E68F21/Where%20Im%20At.app/www/index.html
+2015-02-24 03:26:55.013 Where Im At[70203:1739683] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4CACE83F-E58A-4EFE-9BD6-3DE66F33CC09/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:26:55.124 Where Im At[70203:1739683] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:26:55.124 Where Im At[70203:1739683] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:26:55.126 Where Im At[70203:1739683] Unlimited access to network resources
+2015-02-24 03:26:55.128 Where Im At[70203:1739683] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:26:55.358 Where Im At[70203:1739683] [CDVTimer][file] 3.616989ms
+2015-02-24 03:26:55.358 Where Im At[70203:1739683] [CDVTimer][TotalPluginStartup] 3.823996ms
+2015-02-24 03:26:55.428 Where Im At[70203:1739683] Resetting plugins due to page load.
+2015-02-24 03:26:55.710 Where Im At[70203:1739683] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/577819A1-B71B-4D7A-A890-8854062CC5AA/Where%20Im%20At.app/www/index.html
+2015-02-24 03:28:31.628 Where Im At[70428:1741065] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1440B1C5-DEE3-4F9C-9E11-4B6D16ECD18A/Library/Cookies/Cookies.binarycookies
+2015-02-24 03:28:31.793 Where Im At[70428:1741065] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 03:28:31.794 Where Im At[70428:1741065] Multi-tasking -> Device: YES, App: YES
+2015-02-24 03:28:31.795 Where Im At[70428:1741065] Unlimited access to network resources
+2015-02-24 03:28:31.798 Where Im At[70428:1741065] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 03:28:32.244 Where Im At[70428:1741065] [CDVTimer][file] 3.039002ms
+2015-02-24 03:28:32.244 Where Im At[70428:1741065] [CDVTimer][TotalPluginStartup] 3.215969ms
+2015-02-24 03:28:32.311 Where Im At[70428:1741065] Resetting plugins due to page load.
+2015-02-24 03:28:32.549 Where Im At[70428:1741065] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/0A7E4D28-2753-4C35-B1FC-51E5029070CE/Where%20Im%20At.app/www/index.html
+2015-02-24 11:26:46.888 Where Im At[70892:1763051] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/AD331240-0D05-4B64-8D35-BA1A364AD59C/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:26:47.150 Where Im At[70892:1763051] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:26:47.151 Where Im At[70892:1763051] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:26:47.153 Where Im At[70892:1763051] Unlimited access to network resources
+2015-02-24 11:26:47.175 Where Im At[70892:1763051] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:26:47.484 Where Im At[70892:1763051] [CDVTimer][file] 36.049962ms
+2015-02-24 11:26:47.484 Where Im At[70892:1763051] [CDVTimer][TotalPluginStartup] 36.241949ms
+2015-02-24 11:26:47.613 Where Im At[70892:1763051] Resetting plugins due to page load.
+2015-02-24 11:26:47.899 Where Im At[70892:1763051] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/CB2CE079-9AA0-4159-A642-C063CF953A1F/Where%20Im%20At.app/www/index.html
+2015-02-24 11:31:23.026 Where Im At[71113:1764907] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/AB084398-E3FE-4BF7-9ADC-D10DC45C1706/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:31:23.187 Where Im At[71113:1764907] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:31:23.187 Where Im At[71113:1764907] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:31:23.189 Where Im At[71113:1764907] Unlimited access to network resources
+2015-02-24 11:31:23.192 Where Im At[71113:1764907] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:31:23.465 Where Im At[71113:1764907] [CDVTimer][file] 2.409995ms
+2015-02-24 11:31:23.465 Where Im At[71113:1764907] [CDVTimer][TotalPluginStartup] 2.595007ms
+2015-02-24 11:31:23.517 Where Im At[71113:1764907] Resetting plugins due to page load.
+2015-02-24 11:31:23.737 Where Im At[71113:1764907] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/35FB398E-FF9D-4B06-9E89-7E890096E825/Where%20Im%20At.app/www/index.html
+2015-02-24 11:32:37.750 Where Im At[71335:1766048] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4FC32ECF-0CF2-4B38-B0D2-DDFB2C1D04CC/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:32:37.897 Where Im At[71335:1766048] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:32:37.897 Where Im At[71335:1766048] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:32:37.900 Where Im At[71335:1766048] Unlimited access to network resources
+2015-02-24 11:32:37.903 Where Im At[71335:1766048] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:32:38.169 Where Im At[71335:1766048] [CDVTimer][file] 2.695024ms
+2015-02-24 11:32:38.169 Where Im At[71335:1766048] [CDVTimer][TotalPluginStartup] 2.923012ms
+2015-02-24 11:32:38.230 Where Im At[71335:1766048] Resetting plugins due to page load.
+2015-02-24 11:32:38.539 Where Im At[71335:1766048] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/68CA38B0-65E9-4E58-B5F4-35A72EB68C5C/Where%20Im%20At.app/www/index.html
+2015-02-24 11:33:58.958 Where Im At[71556:1767067] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/BD48EFD7-E219-4122-B5DC-4D05B36A17F1/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:33:59.091 Where Im At[71556:1767067] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:33:59.091 Where Im At[71556:1767067] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:33:59.093 Where Im At[71556:1767067] Unlimited access to network resources
+2015-02-24 11:33:59.096 Where Im At[71556:1767067] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:33:59.334 Where Im At[71556:1767067] [CDVTimer][file] 3.311038ms
+2015-02-24 11:33:59.334 Where Im At[71556:1767067] [CDVTimer][TotalPluginStartup] 3.504992ms
+2015-02-24 11:33:59.399 Where Im At[71556:1767067] Resetting plugins due to page load.
+2015-02-24 11:33:59.720 Where Im At[71556:1767067] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/8146A241-DEFF-43D3-9718-A340352EEACA/Where%20Im%20At.app/www/index.html
+2015-02-24 11:36:56.721 Where Im At[71783:1768667] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/46A7F63A-F5E1-4BCC-BC76-3FD266A2FCCB/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:36:56.866 Where Im At[71783:1768667] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:36:56.867 Where Im At[71783:1768667] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:36:56.870 Where Im At[71783:1768667] Unlimited access to network resources
+2015-02-24 11:36:56.873 Where Im At[71783:1768667] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:36:57.130 Where Im At[71783:1768667] [CDVTimer][file] 2.662003ms
+2015-02-24 11:36:57.130 Where Im At[71783:1768667] [CDVTimer][TotalPluginStartup] 2.918005ms
+2015-02-24 11:36:57.186 Where Im At[71783:1768667] Resetting plugins due to page load.
+2015-02-24 11:36:57.423 Where Im At[71783:1768667] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/622B7B22-64ED-4A3D-975B-F16B0B77C06E/Where%20Im%20At.app/www/index.html
+2015-02-24 11:37:38.173 Where Im At[72004:1769589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/DCE26A37-9D91-4B55-ADB3-8542C490525F/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:37:38.272 Where Im At[72004:1769589] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:37:38.272 Where Im At[72004:1769589] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:37:38.274 Where Im At[72004:1769589] Unlimited access to network resources
+2015-02-24 11:37:38.277 Where Im At[72004:1769589] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:37:38.542 Where Im At[72004:1769589] [CDVTimer][file] 2.919018ms
+2015-02-24 11:37:38.542 Where Im At[72004:1769589] [CDVTimer][TotalPluginStartup] 3.108025ms
+2015-02-24 11:37:38.604 Where Im At[72004:1769589] Resetting plugins due to page load.
+2015-02-24 11:37:38.922 Where Im At[72004:1769589] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/36BDF0D0-BB2F-450D-A492-D4882FED7492/Where%20Im%20At.app/www/index.html
+2015-02-24 11:38:43.570 Where Im At[72227:1770657] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/AC85606A-8498-4E43-A5B9-25E29DC15B26/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:38:43.672 Where Im At[72227:1770657] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:38:43.673 Where Im At[72227:1770657] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:38:43.675 Where Im At[72227:1770657] Unlimited access to network resources
+2015-02-24 11:38:43.677 Where Im At[72227:1770657] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:38:43.896 Where Im At[72227:1770657] [CDVTimer][file] 2.649009ms
+2015-02-24 11:38:43.896 Where Im At[72227:1770657] [CDVTimer][TotalPluginStartup] 2.828002ms
+2015-02-24 11:38:43.955 Where Im At[72227:1770657] Resetting plugins due to page load.
+2015-02-24 11:38:44.304 Where Im At[72227:1770657] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/406580E9-8B98-44B3-8FA8-6B3A9D8FC271/Where%20Im%20At.app/www/index.html
+2015-02-24 11:39:23.043 Where Im At[72448:1771591] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/51868FF6-207A-436B-A2B2-E12A47D229F7/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:39:23.200 Where Im At[72448:1771591] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:39:23.200 Where Im At[72448:1771591] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:39:23.202 Where Im At[72448:1771591] Unlimited access to network resources
+2015-02-24 11:39:23.205 Where Im At[72448:1771591] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:39:23.491 Where Im At[72448:1771591] [CDVTimer][file] 3.165007ms
+2015-02-24 11:39:23.491 Where Im At[72448:1771591] [CDVTimer][TotalPluginStartup] 3.364980ms
+2015-02-24 11:39:23.552 Where Im At[72448:1771591] Resetting plugins due to page load.
+2015-02-24 11:39:23.842 Where Im At[72448:1771591] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/2B2BF5D2-F5F4-4652-B859-97F8A47291EA/Where%20Im%20At.app/www/index.html
+2015-02-24 11:40:12.033 Where Im At[72675:1772653] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/F15EF21A-F05C-40EE-9B5A-7910AAE9C887/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:40:12.168 Where Im At[72675:1772653] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:40:12.168 Where Im At[72675:1772653] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:40:12.170 Where Im At[72675:1772653] Unlimited access to network resources
+2015-02-24 11:40:12.173 Where Im At[72675:1772653] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:40:12.440 Where Im At[72675:1772653] [CDVTimer][file] 3.563046ms
+2015-02-24 11:40:12.440 Where Im At[72675:1772653] [CDVTimer][TotalPluginStartup] 3.777027ms
+2015-02-24 11:40:12.502 Where Im At[72675:1772653] Resetting plugins due to page load.
+2015-02-24 11:40:12.747 Where Im At[72675:1772653] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1064B780-D599-417C-89B6-28E5C7E1F9ED/Where%20Im%20At.app/www/index.html
+2015-02-24 11:40:39.134 Where Im At[72898:1773459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/47A18F90-8B4A-409B-A80D-4E91F0E06C35/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:40:39.249 Where Im At[72898:1773459] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:40:39.250 Where Im At[72898:1773459] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:40:39.252 Where Im At[72898:1773459] Unlimited access to network resources
+2015-02-24 11:40:39.254 Where Im At[72898:1773459] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:40:39.521 Where Im At[72898:1773459] [CDVTimer][file] 2.538025ms
+2015-02-24 11:40:39.521 Where Im At[72898:1773459] [CDVTimer][TotalPluginStartup] 2.728999ms
+2015-02-24 11:40:39.587 Where Im At[72898:1773459] Resetting plugins due to page load.
+2015-02-24 11:40:39.904 Where Im At[72898:1773459] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/26AA3EC2-7CDD-4626-B06D-E3BA1EB9684A/Where%20Im%20At.app/www/index.html
+2015-02-24 11:41:36.076 Where Im At[73120:1774329] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/314D0356-470F-43E5-9DB4-26C15FDF6018/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:41:36.219 Where Im At[73120:1774329] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:41:36.219 Where Im At[73120:1774329] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:41:36.221 Where Im At[73120:1774329] Unlimited access to network resources
+2015-02-24 11:41:36.224 Where Im At[73120:1774329] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:41:36.609 Where Im At[73120:1774329] [CDVTimer][file] 3.436983ms
+2015-02-24 11:41:36.610 Where Im At[73120:1774329] [CDVTimer][TotalPluginStartup] 3.625035ms
+2015-02-24 11:41:36.676 Where Im At[73120:1774329] Resetting plugins due to page load.
+2015-02-24 11:41:36.939 Where Im At[73120:1774329] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/61D630FD-AE73-4567-8223-A54FFFF1BAA9/Where%20Im%20At.app/www/index.html
+2015-02-24 11:42:09.517 Where Im At[73341:1775058] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/15670B38-7701-4435-A094-A8362BA5260E/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:42:09.710 Where Im At[73341:1775058] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:42:09.711 Where Im At[73341:1775058] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:42:09.713 Where Im At[73341:1775058] Unlimited access to network resources
+2015-02-24 11:42:09.715 Where Im At[73341:1775058] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:42:09.973 Where Im At[73341:1775058] [CDVTimer][file] 2.791047ms
+2015-02-24 11:42:09.973 Where Im At[73341:1775058] [CDVTimer][TotalPluginStartup] 3.051996ms
+2015-02-24 11:42:10.038 Where Im At[73341:1775058] Resetting plugins due to page load.
+2015-02-24 11:42:10.346 Where Im At[73341:1775058] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3A5A8E26-48C7-49A1-8704-A08C303D2820/Where%20Im%20At.app/www/index.html
+2015-02-24 11:42:47.935 Where Im At[73562:1775985] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0339CFC4-C839-4EC9-B1A8-840AD355A2EC/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:42:48.092 Where Im At[73562:1775985] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:42:48.092 Where Im At[73562:1775985] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:42:48.094 Where Im At[73562:1775985] Unlimited access to network resources
+2015-02-24 11:42:48.097 Where Im At[73562:1775985] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:42:48.468 Where Im At[73562:1775985] [CDVTimer][file] 2.915978ms
+2015-02-24 11:42:48.468 Where Im At[73562:1775985] [CDVTimer][TotalPluginStartup] 3.120005ms
+2015-02-24 11:42:48.528 Where Im At[73562:1775985] Resetting plugins due to page load.
+2015-02-24 11:42:48.994 Where Im At[73562:1775985] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/CC8ED70F-AA99-4FBB-9D48-0C6BE7C50414/Where%20Im%20At.app/www/index.html
+2015-02-24 11:43:20.043 Where Im At[73786:1776932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/F8EC22E1-C50D-47AA-BBBC-DEC84CBD030A/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:43:20.214 Where Im At[73786:1776932] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:43:20.215 Where Im At[73786:1776932] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:43:20.217 Where Im At[73786:1776932] Unlimited access to network resources
+2015-02-24 11:43:20.219 Where Im At[73786:1776932] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:43:20.486 Where Im At[73786:1776932] [CDVTimer][file] 3.589988ms
+2015-02-24 11:43:20.486 Where Im At[73786:1776932] [CDVTimer][TotalPluginStartup] 3.863990ms
+2015-02-24 11:43:20.549 Where Im At[73786:1776932] Resetting plugins due to page load.
+2015-02-24 11:43:20.820 Where Im At[73786:1776932] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1FD22A37-AD72-4450-B68F-5CF592C650E5/Where%20Im%20At.app/www/index.html
+2015-02-24 11:43:57.374 Where Im At[74009:1777708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/8237F3DC-43BF-47AC-8CBF-3D355555E816/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:43:57.477 Where Im At[74009:1777708] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:43:57.477 Where Im At[74009:1777708] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:43:57.479 Where Im At[74009:1777708] Unlimited access to network resources
+2015-02-24 11:43:57.482 Where Im At[74009:1777708] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:43:57.707 Where Im At[74009:1777708] [CDVTimer][file] 3.031969ms
+2015-02-24 11:43:57.707 Where Im At[74009:1777708] [CDVTimer][TotalPluginStartup] 3.228009ms
+2015-02-24 11:43:57.836 Where Im At[74009:1777708] Resetting plugins due to page load.
+2015-02-24 11:43:58.258 Where Im At[74009:1777708] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/8DBE8533-A6C0-4B53-BB7A-8D481FFB242C/Where%20Im%20At.app/www/index.html
+2015-02-24 11:45:53.117 Where Im At[74233:1779060] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/9FC0729C-A232-4EE5-B899-6EC2666A0CB5/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:45:53.220 Where Im At[74233:1779060] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:45:53.221 Where Im At[74233:1779060] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:45:53.222 Where Im At[74233:1779060] Unlimited access to network resources
+2015-02-24 11:45:53.225 Where Im At[74233:1779060] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:45:53.475 Where Im At[74233:1779060] [CDVTimer][file] 4.254997ms
+2015-02-24 11:45:53.475 Where Im At[74233:1779060] [CDVTimer][TotalPluginStartup] 4.458010ms
+2015-02-24 11:45:53.534 Where Im At[74233:1779060] Resetting plugins due to page load.
+2015-02-24 11:45:53.794 Where Im At[74233:1779060] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/100C0CED-5C70-4D30-A7F2-D3C5CC1111D0/Where%20Im%20At.app/www/index.html
+2015-02-24 11:46:33.214 Where Im At[74457:1779851] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/61D45755-F4BC-44D6-A6C2-124F3C270433/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:46:33.402 Where Im At[74457:1779851] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:46:33.402 Where Im At[74457:1779851] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:46:33.404 Where Im At[74457:1779851] Unlimited access to network resources
+2015-02-24 11:46:33.406 Where Im At[74457:1779851] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:46:33.670 Where Im At[74457:1779851] [CDVTimer][file] 2.563000ms
+2015-02-24 11:46:33.670 Where Im At[74457:1779851] [CDVTimer][TotalPluginStartup] 2.758026ms
+2015-02-24 11:46:33.734 Where Im At[74457:1779851] Resetting plugins due to page load.
+2015-02-24 11:46:34.044 Where Im At[74457:1779851] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/49225ABD-B014-4E73-869B-92FE31BE20A2/Where%20Im%20At.app/www/index.html
+2015-02-24 11:47:48.389 Where Im At[74683:1781049] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/25219B03-9AE0-4B21-AA46-AB317FBC5546/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:47:48.499 Where Im At[74683:1781049] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:47:48.500 Where Im At[74683:1781049] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:47:48.502 Where Im At[74683:1781049] Unlimited access to network resources
+2015-02-24 11:47:48.504 Where Im At[74683:1781049] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:47:48.926 Where Im At[74683:1781049] [CDVTimer][file] 2.959013ms
+2015-02-24 11:47:48.926 Where Im At[74683:1781049] [CDVTimer][TotalPluginStartup] 3.153980ms
+2015-02-24 11:47:48.992 Where Im At[74683:1781049] Resetting plugins due to page load.
+2015-02-24 11:47:49.292 Where Im At[74683:1781049] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/B069FB90-40AE-40E3-9006-86529A39F32A/Where%20Im%20At.app/www/index.html
+2015-02-24 11:48:08.916 Where Im At[74904:1781731] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/6C72B172-D470-4819-A417-8298254241BE/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:48:09.020 Where Im At[74904:1781731] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:48:09.020 Where Im At[74904:1781731] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:48:09.022 Where Im At[74904:1781731] Unlimited access to network resources
+2015-02-24 11:48:09.024 Where Im At[74904:1781731] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:48:09.298 Where Im At[74904:1781731] [CDVTimer][file] 3.777027ms
+2015-02-24 11:48:09.298 Where Im At[74904:1781731] [CDVTimer][TotalPluginStartup] 4.050016ms
+2015-02-24 11:48:09.370 Where Im At[74904:1781731] Resetting plugins due to page load.
+2015-02-24 11:48:09.689 Where Im At[74904:1781731] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/6DF5CE41-4981-4232-AD34-75DA4F6EB215/Where%20Im%20At.app/www/index.html
+2015-02-24 11:49:23.736 Where Im At[75127:1782913] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D8937F1F-4D91-4B4C-B804-E0AAE9B5A9EC/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:49:23.913 Where Im At[75127:1782913] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:49:23.913 Where Im At[75127:1782913] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:49:23.915 Where Im At[75127:1782913] Unlimited access to network resources
+2015-02-24 11:49:23.917 Where Im At[75127:1782913] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:49:24.180 Where Im At[75127:1782913] [CDVTimer][file] 2.523005ms
+2015-02-24 11:49:24.180 Where Im At[75127:1782913] [CDVTimer][TotalPluginStartup] 2.709985ms
+2015-02-24 11:49:24.262 Where Im At[75127:1782913] Resetting plugins due to page load.
+2015-02-24 11:49:24.575 Where Im At[75127:1782913] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/BFAF1EE4-3784-44F3-811C-B479C4DD5A2F/Where%20Im%20At.app/www/index.html
+2015-02-24 11:51:57.724 Where Im At[75356:1784614] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/33412A85-3868-4B24-A6C3-F912FF32D50F/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:51:57.841 Where Im At[75356:1784614] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:51:57.841 Where Im At[75356:1784614] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:51:57.843 Where Im At[75356:1784614] Unlimited access to network resources
+2015-02-24 11:51:57.846 Where Im At[75356:1784614] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:51:58.106 Where Im At[75356:1784614] [CDVTimer][file] 3.840983ms
+2015-02-24 11:51:58.107 Where Im At[75356:1784614] [CDVTimer][TotalPluginStartup] 4.037023ms
+2015-02-24 11:51:58.166 Where Im At[75356:1784614] Resetting plugins due to page load.
+2015-02-24 11:51:58.469 Where Im At[75356:1784614] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/7E826EBA-F0D5-48FC-98D4-EEC51132D8D0/Where%20Im%20At.app/www/index.html
+2015-02-24 11:53:00.079 Where Im At[75580:1785625] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E24D0872-D55A-49B9-85B9-E5624A04FA2B/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:53:00.263 Where Im At[75580:1785625] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:53:00.263 Where Im At[75580:1785625] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:53:00.265 Where Im At[75580:1785625] Unlimited access to network resources
+2015-02-24 11:53:00.267 Where Im At[75580:1785625] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:53:00.598 Where Im At[75580:1785625] [CDVTimer][file] 2.839029ms
+2015-02-24 11:53:00.599 Where Im At[75580:1785625] [CDVTimer][TotalPluginStartup] 3.018022ms
+2015-02-24 11:53:00.662 Where Im At[75580:1785625] Resetting plugins due to page load.
+2015-02-24 11:53:00.909 Where Im At[75580:1785625] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/CC45DA5B-3F0F-4135-86BD-D12CE1885B68/Where%20Im%20At.app/www/index.html
+2015-02-24 11:53:17.436 Where Im At[75801:1786279] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/150E257A-56A3-4390-8340-458A731B78AA/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:53:17.533 Where Im At[75801:1786279] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:53:17.534 Where Im At[75801:1786279] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:53:17.536 Where Im At[75801:1786279] Unlimited access to network resources
+2015-02-24 11:53:17.538 Where Im At[75801:1786279] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:53:17.762 Where Im At[75801:1786279] [CDVTimer][file] 3.898025ms
+2015-02-24 11:53:17.762 Where Im At[75801:1786279] [CDVTimer][TotalPluginStartup] 4.186988ms
+2015-02-24 11:53:17.843 Where Im At[75801:1786279] Resetting plugins due to page load.
+2015-02-24 11:53:18.143 Where Im At[75801:1786279] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C0D8D123-F2F4-4755-B352-D1CFE8AFA76E/Where%20Im%20At.app/www/index.html
+2015-02-24 11:53:40.654 Where Im At[76022:1787095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E2DB0200-9847-4CCA-8C38-C5E84E6A2891/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:53:40.757 Where Im At[76022:1787095] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:53:40.758 Where Im At[76022:1787095] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:53:40.759 Where Im At[76022:1787095] Unlimited access to network resources
+2015-02-24 11:53:40.762 Where Im At[76022:1787095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:53:41.022 Where Im At[76022:1787095] [CDVTimer][file] 3.154993ms
+2015-02-24 11:53:41.022 Where Im At[76022:1787095] [CDVTimer][TotalPluginStartup] 3.374994ms
+2015-02-24 11:53:41.084 Where Im At[76022:1787095] Resetting plugins due to page load.
+2015-02-24 11:53:41.408 Where Im At[76022:1787095] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/988C79A2-5E61-4589-989E-F1B66A20A90C/Where%20Im%20At.app/www/index.html
+2015-02-24 11:55:47.088 Where Im At[76247:1788482] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/27622F80-769C-470D-ABAD-5E4E53CE2A24/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:55:47.190 Where Im At[76247:1788482] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:55:47.190 Where Im At[76247:1788482] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:55:47.192 Where Im At[76247:1788482] Unlimited access to network resources
+2015-02-24 11:55:47.194 Where Im At[76247:1788482] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:55:47.420 Where Im At[76247:1788482] [CDVTimer][file] 4.179001ms
+2015-02-24 11:55:47.421 Where Im At[76247:1788482] [CDVTimer][TotalPluginStartup] 4.444003ms
+2015-02-24 11:55:47.504 Where Im At[76247:1788482] Resetting plugins due to page load.
+2015-02-24 11:55:47.780 Where Im At[76247:1788482] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1DC8B680-E604-421A-9A29-B762D7CEAF83/Where%20Im%20At.app/www/index.html
+2015-02-24 11:58:56.003 Where Im At[76484:1790140] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4394BCAD-8677-4297-9889-AA95CBA38EA7/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:58:56.123 Where Im At[76484:1790140] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:58:56.123 Where Im At[76484:1790140] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:58:56.125 Where Im At[76484:1790140] Unlimited access to network resources
+2015-02-24 11:58:56.127 Where Im At[76484:1790140] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:58:56.562 Where Im At[76484:1790140] [CDVTimer][file] 3.616989ms
+2015-02-24 11:58:56.563 Where Im At[76484:1790140] [CDVTimer][TotalPluginStartup] 3.838956ms
+2015-02-24 11:58:56.630 Where Im At[76484:1790140] Resetting plugins due to page load.
+2015-02-24 11:58:56.974 Where Im At[76484:1790140] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/97CC88C1-52C8-4DA1-92F0-10CA800D314E/Where%20Im%20At.app/www/index.html
+2015-02-24 11:59:28.814 Where Im At[76712:1790935] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/2BD54645-C5FE-4BF8-BCB8-AF1F31C962E2/Library/Cookies/Cookies.binarycookies
+2015-02-24 11:59:28.941 Where Im At[76712:1790935] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 11:59:28.942 Where Im At[76712:1790935] Multi-tasking -> Device: YES, App: YES
+2015-02-24 11:59:28.944 Where Im At[76712:1790935] Unlimited access to network resources
+2015-02-24 11:59:28.947 Where Im At[76712:1790935] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 11:59:29.195 Where Im At[76712:1790935] [CDVTimer][file] 2.534986ms
+2015-02-24 11:59:29.195 Where Im At[76712:1790935] [CDVTimer][TotalPluginStartup] 2.737999ms
+2015-02-24 11:59:29.253 Where Im At[76712:1790935] Resetting plugins due to page load.
+2015-02-24 11:59:29.559 Where Im At[76712:1790935] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/EE3DCE1E-43C1-4F40-8BF9-ABB9EF5CEE73/Where%20Im%20At.app/www/index.html
+2015-02-24 12:00:57.188 Where Im At[76941:1792102] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/427D52FA-183B-4876-86FF-37DD82B7A694/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:00:57.353 Where Im At[76941:1792102] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:00:57.353 Where Im At[76941:1792102] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:00:57.355 Where Im At[76941:1792102] Unlimited access to network resources
+2015-02-24 12:00:57.358 Where Im At[76941:1792102] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:00:57.578 Where Im At[76941:1792102] [CDVTimer][file] 3.359020ms
+2015-02-24 12:00:57.578 Where Im At[76941:1792102] [CDVTimer][TotalPluginStartup] 3.542006ms
+2015-02-24 12:00:57.647 Where Im At[76941:1792102] Resetting plugins due to page load.
+2015-02-24 12:00:57.983 Where Im At[76941:1792102] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/BA11EED9-85C2-4A3A-8C85-98706A18ED09/Where%20Im%20At.app/www/index.html
+2015-02-24 12:02:34.043 Where Im At[77173:1793259] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/08C71C17-D998-4D71-9341-B75CE5E2C29E/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:02:34.215 Where Im At[77173:1793259] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:02:34.216 Where Im At[77173:1793259] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:02:34.218 Where Im At[77173:1793259] Unlimited access to network resources
+2015-02-24 12:02:34.220 Where Im At[77173:1793259] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:02:34.501 Where Im At[77173:1793259] [CDVTimer][file] 2.578020ms
+2015-02-24 12:02:34.501 Where Im At[77173:1793259] [CDVTimer][TotalPluginStartup] 2.779007ms
+2015-02-24 12:02:34.568 Where Im At[77173:1793259] Resetting plugins due to page load.
+2015-02-24 12:02:34.890 Where Im At[77173:1793259] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/70D43A26-0AFA-43D2-84C0-C08FD9C23AA8/Where%20Im%20At.app/www/index.html
+2015-02-24 12:04:32.589 Where Im At[77405:1794654] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/A580923B-B6D5-4B0A-A6F2-2109A458DDB5/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:04:32.685 Where Im At[77405:1794654] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:04:32.686 Where Im At[77405:1794654] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:04:32.688 Where Im At[77405:1794654] Unlimited access to network resources
+2015-02-24 12:04:32.691 Where Im At[77405:1794654] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:04:32.964 Where Im At[77405:1794654] [CDVTimer][file] 2.745032ms
+2015-02-24 12:04:32.964 Where Im At[77405:1794654] [CDVTimer][TotalPluginStartup] 2.953947ms
+2015-02-24 12:04:33.023 Where Im At[77405:1794654] Resetting plugins due to page load.
+2015-02-24 12:04:33.341 Where Im At[77405:1794654] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1DF2CFB3-C639-487F-888A-7A57B5B52EB9/Where%20Im%20At.app/www/index.html
+2015-02-24 12:05:59.193 Where Im At[77634:1795607] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/04E90D9F-19E1-421E-9E6D-BA62CC043AC2/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:05:59.342 Where Im At[77634:1795607] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:05:59.342 Where Im At[77634:1795607] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:05:59.344 Where Im At[77634:1795607] Unlimited access to network resources
+2015-02-24 12:05:59.346 Where Im At[77634:1795607] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:05:59.577 Where Im At[77634:1795607] [CDVTimer][file] 2.758026ms
+2015-02-24 12:05:59.577 Where Im At[77634:1795607] [CDVTimer][TotalPluginStartup] 2.954006ms
+2015-02-24 12:05:59.644 Where Im At[77634:1795607] Resetting plugins due to page load.
+2015-02-24 12:05:59.951 Where Im At[77634:1795607] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/49A68A95-7840-45F7-8D48-F2F39FA726ED/Where%20Im%20At.app/www/index.html
+2015-02-24 12:06:26.136 Where Im At[77861:1796361] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/A89901DB-1E7C-4F89-A463-7C067D3FFDA6/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:06:26.258 Where Im At[77861:1796361] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:06:26.258 Where Im At[77861:1796361] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:06:26.260 Where Im At[77861:1796361] Unlimited access to network resources
+2015-02-24 12:06:26.262 Where Im At[77861:1796361] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:06:26.505 Where Im At[77861:1796361] [CDVTimer][file] 4.334986ms
+2015-02-24 12:06:26.506 Where Im At[77861:1796361] [CDVTimer][TotalPluginStartup] 4.611969ms
+2015-02-24 12:06:26.592 Where Im At[77861:1796361] Resetting plugins due to page load.
+2015-02-24 12:06:26.982 Where Im At[77861:1796361] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/B95E44FD-6AEB-41F8-9AB0-934F9A877032/Where%20Im%20At.app/www/index.html
+2015-02-24 12:06:27.101 Where Im At[77861:1796361] THREAD WARNING: ['Geolocation'] took '51.703125' ms. Plugin should use a background thread.
+2015-02-24 12:07:41.493 Where Im At[78090:1797478] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/F6A69C8E-21C3-4A03-8148-4673AA9D8681/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:07:41.633 Where Im At[78090:1797478] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:07:41.634 Where Im At[78090:1797478] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:07:41.636 Where Im At[78090:1797478] Unlimited access to network resources
+2015-02-24 12:07:41.639 Where Im At[78090:1797478] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:07:41.889 Where Im At[78090:1797478] [CDVTimer][file] 2.550006ms
+2015-02-24 12:07:41.889 Where Im At[78090:1797478] [CDVTimer][TotalPluginStartup] 2.743006ms
+2015-02-24 12:07:41.959 Where Im At[78090:1797478] Resetting plugins due to page load.
+2015-02-24 12:07:42.292 Where Im At[78090:1797478] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/EE6C98C3-0E23-4024-9B47-EC8632FCBF37/Where%20Im%20At.app/www/index.html
+2015-02-24 12:08:02.104 Where Im At[78316:1798154] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/235D1E5F-6CFE-4289-8BB4-BC7FAF47C0C1/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:08:02.249 Where Im At[78316:1798154] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:08:02.250 Where Im At[78316:1798154] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:08:02.252 Where Im At[78316:1798154] Unlimited access to network resources
+2015-02-24 12:08:02.254 Where Im At[78316:1798154] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:08:02.483 Where Im At[78316:1798154] [CDVTimer][file] 3.265977ms
+2015-02-24 12:08:02.483 Where Im At[78316:1798154] [CDVTimer][TotalPluginStartup] 3.494024ms
+2015-02-24 12:08:02.556 Where Im At[78316:1798154] Resetting plugins due to page load.
+2015-02-24 12:08:02.869 Where Im At[78316:1798154] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/0D0B89C5-7B6E-40E9-AA28-3CD8F6AD3C5C/Where%20Im%20At.app/www/index.html
+2015-02-24 12:17:09.754 Where Im At[78575:1802427] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/938E73C9-DD61-46A1-81D2-769B1C9F8642/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:17:09.902 Where Im At[78575:1802427] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:17:09.903 Where Im At[78575:1802427] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:17:09.905 Where Im At[78575:1802427] Unlimited access to network resources
+2015-02-24 12:17:09.907 Where Im At[78575:1802427] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:17:10.182 Where Im At[78575:1802427] [CDVTimer][file] 3.271997ms
+2015-02-24 12:17:10.183 Where Im At[78575:1802427] [CDVTimer][TotalPluginStartup] 3.548980ms
+2015-02-24 12:17:10.264 Where Im At[78575:1802427] Resetting plugins due to page load.
+2015-02-24 12:17:10.570 Where Im At[78575:1802427] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/BC61D077-15A8-4734-8200-5AF16DB23E09/Where%20Im%20At.app/www/index.html
+2015-02-24 12:20:24.195 Where Im At[78910:1804797] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D73F5EEC-5B0F-4A32-990C-F7C2A0F90B27/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:20:24.354 Where Im At[78910:1804797] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:20:24.355 Where Im At[78910:1804797] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:20:24.357 Where Im At[78910:1804797] Unlimited access to network resources
+2015-02-24 12:20:24.380 Where Im At[78910:1804797] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:20:24.607 Where Im At[78910:1804797] [CDVTimer][file] 9.734988ms
+2015-02-24 12:20:24.608 Where Im At[78910:1804797] [CDVTimer][TotalPluginStartup] 9.925008ms
+2015-02-24 12:20:24.700 Where Im At[78910:1804797] Resetting plugins due to page load.
+2015-02-24 12:20:24.986 Where Im At[78910:1804797] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/90CECFB3-BDC2-4F8E-81B0-E1B4BFB7CFA2/Where%20Im%20At.app/www/index.html
+2015-02-24 12:20:49.113 Where Im At[79136:1805462] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/814C189A-FF08-44C7-B478-C9B9083F61FE/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:20:49.286 Where Im At[79136:1805462] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:20:49.286 Where Im At[79136:1805462] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:20:49.288 Where Im At[79136:1805462] Unlimited access to network resources
+2015-02-24 12:20:49.307 Where Im At[79136:1805462] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:20:49.528 Where Im At[79136:1805462] [CDVTimer][file] 15.406013ms
+2015-02-24 12:20:49.528 Where Im At[79136:1805462] [CDVTimer][TotalPluginStartup] 15.733957ms
+2015-02-24 12:20:49.615 Where Im At[79136:1805462] Resetting plugins due to page load.
+2015-02-24 12:20:49.921 Where Im At[79136:1805462] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/B6122E93-000E-4E1F-A668-E9584F90D834/Where%20Im%20At.app/www/index.html
+2015-02-24 12:21:17.439 Where Im At[79364:1806220] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/47AB1B71-AC7C-486A-B060-F770D9139116/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:21:17.609 Where Im At[79364:1806220] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:21:17.609 Where Im At[79364:1806220] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:21:17.611 Where Im At[79364:1806220] Unlimited access to network resources
+2015-02-24 12:21:17.633 Where Im At[79364:1806220] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:21:17.852 Where Im At[79364:1806220] [CDVTimer][file] 6.003022ms
+2015-02-24 12:21:17.852 Where Im At[79364:1806220] [CDVTimer][TotalPluginStartup] 6.188989ms
+2015-02-24 12:21:17.941 Where Im At[79364:1806220] Resetting plugins due to page load.
+2015-02-24 12:21:18.252 Where Im At[79364:1806220] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1708CC47-534D-4B32-AC59-D36C10C72586/Where%20Im%20At.app/www/index.html
+2015-02-24 12:21:46.683 Where Im At[79591:1806968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/022EE208-AECA-4643-8F08-C96CD8BA1D76/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:21:46.855 Where Im At[79591:1806968] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:21:46.855 Where Im At[79591:1806968] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:21:46.857 Where Im At[79591:1806968] Unlimited access to network resources
+2015-02-24 12:21:46.875 Where Im At[79591:1806968] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:21:47.087 Where Im At[79591:1806968] [CDVTimer][file] 8.305013ms
+2015-02-24 12:21:47.087 Where Im At[79591:1806968] [CDVTimer][TotalPluginStartup] 8.500993ms
+2015-02-24 12:21:47.167 Where Im At[79591:1806968] Resetting plugins due to page load.
+2015-02-24 12:21:47.470 Where Im At[79591:1806968] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/EE6CC506-0FA7-4EB9-81CA-9B3C9B498779/Where%20Im%20At.app/www/index.html
+2015-02-24 12:22:17.153 Where Im At[79818:1807734] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/354488AA-E23E-4A0F-A257-A2D278D0BD0A/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:22:17.325 Where Im At[79818:1807734] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:22:17.326 Where Im At[79818:1807734] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:22:17.328 Where Im At[79818:1807734] Unlimited access to network resources
+2015-02-24 12:22:17.330 Where Im At[79818:1807734] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:22:17.691 Where Im At[79818:1807734] [CDVTimer][file] 3.023982ms
+2015-02-24 12:22:17.692 Where Im At[79818:1807734] [CDVTimer][TotalPluginStartup] 3.190994ms
+2015-02-24 12:22:17.753 Where Im At[79818:1807734] Resetting plugins due to page load.
+2015-02-24 12:22:18.060 Where Im At[79818:1807734] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/30497F9F-7048-45D1-B23D-4A8112ACBB2A/Where%20Im%20At.app/www/index.html
+2015-02-24 12:25:19.775 Where Im At[80054:1810057] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/72C92FCB-77A3-4A3E-9145-43C2769BF358/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:25:19.967 Where Im At[80054:1810057] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:25:19.967 Where Im At[80054:1810057] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:25:19.969 Where Im At[80054:1810057] Unlimited access to network resources
+2015-02-24 12:25:19.986 Where Im At[80054:1810057] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:25:20.225 Where Im At[80054:1810057] [CDVTimer][file] 13.163984ms
+2015-02-24 12:25:20.225 Where Im At[80054:1810057] [CDVTimer][TotalPluginStartup] 13.486981ms
+2015-02-24 12:25:20.317 Where Im At[80054:1810057] Resetting plugins due to page load.
+2015-02-24 12:25:20.653 Where Im At[80054:1810057] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1491FFF6-940C-4910-8FF0-F8A6D478F8B9/Where%20Im%20At.app/www/index.html
+2015-02-24 12:26:04.155 Where Im At[80282:1810884] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/6BF96518-0081-4E59-B26F-67FCD45A0C28/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:26:04.325 Where Im At[80282:1810884] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:26:04.325 Where Im At[80282:1810884] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:26:04.327 Where Im At[80282:1810884] Unlimited access to network resources
+2015-02-24 12:26:04.348 Where Im At[80282:1810884] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:26:04.577 Where Im At[80282:1810884] [CDVTimer][file] 18.388033ms
+2015-02-24 12:26:04.578 Where Im At[80282:1810884] [CDVTimer][TotalPluginStartup] 18.822968ms
+2015-02-24 12:26:04.666 Where Im At[80282:1810884] Resetting plugins due to page load.
+2015-02-24 12:26:04.985 Where Im At[80282:1810884] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FAD209AC-BC0A-46FD-9D68-32FDA69CBE70/Where%20Im%20At.app/www/index.html
+2015-02-24 12:26:39.693 Where Im At[80508:1811633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E1F64AE3-FEC1-4A7E-B178-1DD28BB9D59C/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:26:39.866 Where Im At[80508:1811633] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:26:39.867 Where Im At[80508:1811633] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:26:39.868 Where Im At[80508:1811633] Unlimited access to network resources
+2015-02-24 12:26:39.890 Where Im At[80508:1811633] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:26:40.120 Where Im At[80508:1811633] [CDVTimer][file] 10.255992ms
+2015-02-24 12:26:40.120 Where Im At[80508:1811633] [CDVTimer][TotalPluginStartup] 10.580957ms
+2015-02-24 12:26:40.205 Where Im At[80508:1811633] Resetting plugins due to page load.
+2015-02-24 12:26:40.544 Where Im At[80508:1811633] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/7DBD334F-B1DC-4044-B6F1-5E2CD51399AC/Where%20Im%20At.app/www/index.html
+2015-02-24 12:27:13.904 Where Im At[80735:1812486] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/CB6A468E-D08D-404B-89CA-EB32C316B8C6/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:27:14.060 Where Im At[80735:1812486] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:27:14.060 Where Im At[80735:1812486] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:27:14.062 Where Im At[80735:1812486] Unlimited access to network resources
+2015-02-24 12:27:14.083 Where Im At[80735:1812486] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:27:14.320 Where Im At[80735:1812486] [CDVTimer][file] 17.096996ms
+2015-02-24 12:27:14.320 Where Im At[80735:1812486] [CDVTimer][TotalPluginStartup] 17.292976ms
+2015-02-24 12:27:14.438 Where Im At[80735:1812486] Resetting plugins due to page load.
+2015-02-24 12:27:14.779 Where Im At[80735:1812486] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C553BBF5-496E-4700-B167-BC7EE08D1111/Where%20Im%20At.app/www/index.html
+2015-02-24 12:43:48.325 Where Im At[81076:1822087] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/B86DA68C-DCA6-434F-98B2-44A1E7539AC6/Library/Cookies/Cookies.binarycookies
+2015-02-24 12:43:49.001 Where Im At[81076:1822087] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 12:43:49.001 Where Im At[81076:1822087] Multi-tasking -> Device: YES, App: YES
+2015-02-24 12:43:49.003 Where Im At[81076:1822087] Unlimited access to network resources
+2015-02-24 12:43:49.026 Where Im At[81076:1822087] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 12:43:49.290 Where Im At[81076:1822087] [CDVTimer][file] 20.130038ms
+2015-02-24 12:43:49.290 Where Im At[81076:1822087] [CDVTimer][TotalPluginStartup] 20.545959ms
+2015-02-24 12:43:49.423 Where Im At[81076:1822087] Resetting plugins due to page load.
+2015-02-24 12:43:49.839 Where Im At[81076:1822087] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D5E15E2A-6E45-4E90-8903-CA3BF314E270/Where%20Im%20At.app/www/index.html
+2015-02-24 13:19:43.290 Where Im At[81333:1825273] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/394FD216-FDDB-473F-AC24-16EE636EE549/Library/Cookies/Cookies.binarycookies
+2015-02-24 13:19:43.402 Where Im At[81333:1825273] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 13:19:43.402 Where Im At[81333:1825273] Multi-tasking -> Device: YES, App: YES
+2015-02-24 13:19:43.404 Where Im At[81333:1825273] Unlimited access to network resources
+2015-02-24 13:19:43.406 Where Im At[81333:1825273] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 13:19:43.814 Where Im At[81333:1825273] [CDVTimer][file] 4.199982ms
+2015-02-24 13:19:43.815 Where Im At[81333:1825273] [CDVTimer][TotalPluginStartup] 4.471958ms
+2015-02-24 13:19:43.889 Where Im At[81333:1825273] Resetting plugins due to page load.
+2015-02-24 13:19:44.217 Where Im At[81333:1825273] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/7CBB86A9-1CCC-4E79-9644-A762C1DC8347/Where%20Im%20At.app/www/index.html
+2015-02-24 13:20:07.210 Where Im At[81559:1826107] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/8E52A97D-AE22-4E92-9E6C-BB849478EDCD/Library/Cookies/Cookies.binarycookies
+2015-02-24 13:20:07.370 Where Im At[81559:1826107] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 13:20:07.371 Where Im At[81559:1826107] Multi-tasking -> Device: YES, App: YES
+2015-02-24 13:20:07.374 Where Im At[81559:1826107] Unlimited access to network resources
+2015-02-24 13:20:07.377 Where Im At[81559:1826107] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 13:20:07.652 Where Im At[81559:1826107] [CDVTimer][file] 2.617002ms
+2015-02-24 13:20:07.652 Where Im At[81559:1826107] [CDVTimer][TotalPluginStartup] 2.800047ms
+2015-02-24 13:20:07.713 Where Im At[81559:1826107] Resetting plugins due to page load.
+2015-02-24 13:20:08.047 Where Im At[81559:1826107] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FAB00B1C-B5CF-45BC-9515-B77EC64EC1AD/Where%20Im%20At.app/www/index.html
+2015-02-24 13:20:42.958 Where Im At[81785:1826976] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/47ACDE46-130B-4411-9BA1-0D1A82FA32F8/Library/Cookies/Cookies.binarycookies
+2015-02-24 13:20:43.076 Where Im At[81785:1826976] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 13:20:43.077 Where Im At[81785:1826976] Multi-tasking -> Device: YES, App: YES
+2015-02-24 13:20:43.078 Where Im At[81785:1826976] Unlimited access to network resources
+2015-02-24 13:20:43.080 Where Im At[81785:1826976] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 13:20:43.292 Where Im At[81785:1826976] [CDVTimer][file] 3.390014ms
+2015-02-24 13:20:43.292 Where Im At[81785:1826976] [CDVTimer][TotalPluginStartup] 3.588021ms
+2015-02-24 13:20:43.361 Where Im At[81785:1826976] Resetting plugins due to page load.
+2015-02-24 13:20:43.699 Where Im At[81785:1826976] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3C0E5936-1A9E-4C5E-B6BE-E829688103FC/Where%20Im%20At.app/www/index.html
+2015-02-24 13:25:41.797 Where Im At[82020:1829132] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D41C63F0-0B4C-4D1A-86E7-2D021A866D86/Library/Cookies/Cookies.binarycookies
+2015-02-24 13:25:41.909 Where Im At[82020:1829132] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 13:25:41.910 Where Im At[82020:1829132] Multi-tasking -> Device: YES, App: YES
+2015-02-24 13:25:41.911 Where Im At[82020:1829132] Unlimited access to network resources
+2015-02-24 13:25:41.914 Where Im At[82020:1829132] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-24 13:25:42.195 Where Im At[82020:1829132] [CDVTimer][file] 2.649009ms
+2015-02-24 13:25:42.195 Where Im At[82020:1829132] [CDVTimer][TotalPluginStartup] 2.851009ms
+2015-02-24 13:25:42.256 Where Im At[82020:1829132] Resetting plugins due to page load.
+2015-02-24 13:25:42.602 Where Im At[82020:1829132] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/F0EA1CF0-1439-4101-9AB5-4418B7630A43/Where%20Im%20At.app/www/index.html
+2015-03-02 02:20:35.057 Where Im At[12260:439507] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/636D305D-4534-4B23-A730-17B421CF6A3D/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:20:35.567 Where Im At[12260:439507] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:20:35.568 Where Im At[12260:439507] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:20:35.585 Where Im At[12260:439507] Unlimited access to network resources
+2015-03-02 02:20:35.637 Where Im At[12260:439507] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:20:36.556 Where Im At[12260:439507] [CDVTimer][file] 53.314984ms
+2015-03-02 02:20:36.556 Where Im At[12260:439507] [CDVTimer][TotalPluginStartup] 53.542018ms
+2015-03-02 02:20:36.756 Where Im At[12260:439507] Resetting plugins due to page load.
+2015-03-02 02:20:37.316 Where Im At[12260:439507] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/04A0CFAC-5201-454D-8721-2AF3CEBAFED0/Where%20Im%20At.app/www/index.html
+2015-03-02 02:20:37.401 Where Im At[12260:439507] locationManager::didFailWithError (null)
+2015-03-02 02:22:29.923 Where Im At[12503:440715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/36147F97-F96D-48EE-AE19-4A2FECA33E23/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:22:30.069 Where Im At[12503:440715] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:22:30.069 Where Im At[12503:440715] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:22:30.072 Where Im At[12503:440715] Unlimited access to network resources
+2015-03-02 02:22:30.076 Where Im At[12503:440715] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:22:30.375 Where Im At[12503:440715] [CDVTimer][file] 3.910005ms
+2015-03-02 02:22:30.375 Where Im At[12503:440715] [CDVTimer][TotalPluginStartup] 4.188001ms
+2015-03-02 02:22:30.462 Where Im At[12503:440715] Resetting plugins due to page load.
+2015-03-02 02:22:30.866 Where Im At[12503:440715] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3EDC2CE1-3C8D-4963-917C-4353C02A3D05/Where%20Im%20At.app/www/index.html
+2015-03-02 02:22:30.913 Where Im At[12503:440715] locationManager::didFailWithError (null)
+2015-03-02 02:23:13.047 Where Im At[12738:441495] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/18D990EB-C7DC-4DC1-A672-2A91937C8D8A/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:23:13.193 Where Im At[12738:441495] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:23:13.193 Where Im At[12738:441495] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:23:13.195 Where Im At[12738:441495] Unlimited access to network resources
+2015-03-02 02:23:13.198 Where Im At[12738:441495] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:23:13.435 Where Im At[12738:441495] [CDVTimer][file] 3.502965ms
+2015-03-02 02:23:13.435 Where Im At[12738:441495] [CDVTimer][TotalPluginStartup] 3.720999ms
+2015-03-02 02:23:13.500 Where Im At[12738:441495] Resetting plugins due to page load.
+2015-03-02 02:23:13.865 Where Im At[12738:441495] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/0E7984C3-9DE3-4004-8511-93C62DD701B4/Where%20Im%20At.app/www/index.html
+2015-03-02 02:23:13.943 Where Im At[12738:441495] locationManager::didFailWithError (null)
+2015-03-02 02:24:39.736 Where Im At[13002:442574] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/ADA647D6-10A4-4710-99A5-BCF19BCA64AC/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:24:39.888 Where Im At[13002:442574] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:24:39.889 Where Im At[13002:442574] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:24:39.890 Where Im At[13002:442574] Unlimited access to network resources
+2015-03-02 02:24:39.893 Where Im At[13002:442574] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:24:40.141 Where Im At[13002:442574] [CDVTimer][file] 3.515005ms
+2015-03-02 02:24:40.141 Where Im At[13002:442574] [CDVTimer][TotalPluginStartup] 3.717005ms
+2015-03-02 02:24:40.210 Where Im At[13002:442574] Resetting plugins due to page load.
+2015-03-02 02:24:40.568 Where Im At[13002:442574] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/30A0EB23-7BDA-453E-A07F-7EDCF3EB724B/Where%20Im%20At.app/www/index.html
+2015-03-02 02:24:40.600 Where Im At[13002:442574] locationManager::didFailWithError (null)
+2015-03-02 02:30:04.683 Where Im At[13251:444838] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/B5EA03DE-3312-407A-9A66-30CB7BE29452/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:30:04.856 Where Im At[13251:444838] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:30:04.857 Where Im At[13251:444838] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:30:04.859 Where Im At[13251:444838] Unlimited access to network resources
+2015-03-02 02:30:04.861 Where Im At[13251:444838] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:30:05.199 Where Im At[13251:444838] [CDVTimer][file] 4.174948ms
+2015-03-02 02:30:05.199 Where Im At[13251:444838] [CDVTimer][TotalPluginStartup] 4.498005ms
+2015-03-02 02:30:05.273 Where Im At[13251:444838] Resetting plugins due to page load.
+2015-03-02 02:30:05.654 Where Im At[13251:444838] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/97C371FF-51E8-49EF-8BD1-3D6CB3A608A1/Where%20Im%20At.app/www/index.html
+2015-03-02 02:34:00.586 Where Im At[13491:446393] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/29C3F43C-8AB4-4D3C-945C-9E18E169F098/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:34:00.767 Where Im At[13491:446393] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:34:00.768 Where Im At[13491:446393] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:34:00.770 Where Im At[13491:446393] Unlimited access to network resources
+2015-03-02 02:34:00.772 Where Im At[13491:446393] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:34:01.030 Where Im At[13491:446393] [CDVTimer][file] 2.588034ms
+2015-03-02 02:34:01.030 Where Im At[13491:446393] [CDVTimer][TotalPluginStartup] 2.858043ms
+2015-03-02 02:34:01.093 Where Im At[13491:446393] Resetting plugins due to page load.
+2015-03-02 02:34:01.417 Where Im At[13491:446393] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C39CA232-D520-4841-9CD0-2C7D72D5C37C/Where%20Im%20At.app/www/index.html
+2015-03-02 02:34:49.146 Where Im At[13728:447198] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/825CE1BF-F3CA-4848-9F94-FF042FBBDD10/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:34:49.286 Where Im At[13728:447198] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:34:49.286 Where Im At[13728:447198] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:34:49.288 Where Im At[13728:447198] Unlimited access to network resources
+2015-03-02 02:34:49.291 Where Im At[13728:447198] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:34:49.559 Where Im At[13728:447198] [CDVTimer][file] 2.538025ms
+2015-03-02 02:34:49.560 Where Im At[13728:447198] [CDVTimer][TotalPluginStartup] 2.728999ms
+2015-03-02 02:34:49.626 Where Im At[13728:447198] Resetting plugins due to page load.
+2015-03-02 02:34:49.976 Where Im At[13728:447198] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/E46AE246-DD54-47EC-8A4B-3758C10D08DC/Where%20Im%20At.app/www/index.html
+2015-03-02 02:38:23.653 Where Im At[13989:449252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E609E9C6-913E-4730-A051-4DF375D4C0B9/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:38:23.733 Where Im At[13989:449252] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:38:23.734 Where Im At[13989:449252] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:38:23.736 Where Im At[13989:449252] Unlimited access to network resources
+2015-03-02 02:38:23.738 Where Im At[13989:449252] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:38:23.935 Where Im At[13989:449252] [CDVTimer][file] 2.357006ms
+2015-03-02 02:38:23.935 Where Im At[13989:449252] [CDVTimer][TotalPluginStartup] 2.537012ms
+2015-03-02 02:38:23.983 Where Im At[13989:449252] Resetting plugins due to page load.
+2015-03-02 02:38:24.315 Where Im At[13989:449252] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/960EADB7-03F6-4EC3-BD49-0F1DED331D81/Where%20Im%20At.app/www/index.html
+2015-03-02 02:38:24.352 Where Im At[13989:449252] javascript ready
+2015-03-02 02:38:24.352 Where Im At[13989:449252] {"supportedAudioModes":[],"supportedImageModes":[],"supportedVideoModes":[]}
+2015-03-02 02:43:55.941 Where Im At[14235:451764] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0F69F984-DE5D-4461-AE7B-143C835A42E9/Library/Cookies/Cookies.binarycookies
+2015-03-02 02:43:56.056 Where Im At[14235:451764] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 02:43:56.056 Where Im At[14235:451764] Multi-tasking -> Device: YES, App: YES
+2015-03-02 02:43:56.059 Where Im At[14235:451764] Unlimited access to network resources
+2015-03-02 02:43:56.061 Where Im At[14235:451764] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-02 02:43:56.348 Where Im At[14235:451764] [CDVTimer][file] 3.427029ms
+2015-03-02 02:43:56.349 Where Im At[14235:451764] [CDVTimer][TotalPluginStartup] 3.629029ms
+2015-03-02 02:43:56.406 Where Im At[14235:451764] Resetting plugins due to page load.
+2015-03-02 02:43:56.764 Where Im At[14235:451764] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/68F303AF-4D47-4AA3-AAAA-B3B749BE7613/Where%20Im%20At.app/www/index.html
+2015-03-02 02:43:56.812 Where Im At[14235:451764] javascript ready
+2015-03-02 02:43:56.812 Where Im At[14235:451764] {"supportedAudioModes":[],"supportedImageModes":[],"supportedVideoModes":[]}
+2015-03-02 02:43:59.607 Where Im At[14235:451764] THREAD WARNING: ['Capture'] took '10.741211' ms. Plugin should use a background thread.

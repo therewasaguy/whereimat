@@ -1,0 +1,21 @@
+.circle {
+  width: 200px;
+  height: 200px;
+  background: red;
+  padding: auto;
+  margin: auto;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 100px;
+  -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 1);
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 1);
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+[data-role=page]{height: 100% !important; position:relative !important;}
+[data-role=footer]{bottom:0; position:absolute !important; top: auto !important; width:100%;}
