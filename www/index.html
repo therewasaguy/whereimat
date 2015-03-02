@@ -73,24 +73,39 @@
                 //       'Timestamp: '         + position.timestamp                + '\n');
             }
 
+            /****************************************
+            audio
+            ******/
             var recInterval = null;
+            var recState = 0;
+            var mediaRec = null;
+            var mediaSrc = "";
+            var recordings = [];
 
             function startRecording() {
-                var src = "myrecording.wav";
-                var mediaRec = new Media(src, audioSuccess, audioError);
+                if (recState === 1) {
+                    alert('already recording');
+                    return;
+                }
+                var now = new Date().getTime();
+                mediaSrc = myLocation + now + ".wav";
+                mediaRec = new Media(mediaSrc, audioSuccess, audioError);
                 mediaRec.startRecord();
-
                 $("#recbutt").css('background', '#f39b9b').removeClass('shadow');
-                recordState = 1;
+                recState = 1;
 
                 // stop recording after 10 seconds
                 var recTime = 0;
-                var recInterval = setInterval(function() {
+                if (recInterval) {
+                    clearInterval(recInterval);
+                }
+
+                recInterval = setInterval(function() {
                     recTime = recTime + 1;
                     setAudioPosition(recTime + " sec");
-                    if (recTime >=10) {
+                    if (recTime >=10 || recState === 0) {
                         clearInterval(recInterval);
-                        mediaRec.stopRecord();
+                        stopRecording();
                     }
                 }, 1000);
 
@@ -98,15 +113,18 @@
 
             function stopRecording() {
                 $("#recbutt").css('background', '#c8fba7').addClass('shadow');
-                recordState = 0;
+                recState = 0;
+                document.getElementById('audio_position').innerHTML = "you tagged " +myLocation ;
 
-                if (recInterval !== null) {
+                if (recInterval) {
                     clearInterval(recInterval);
                     mediaRec.stopRecord();
                     recInterval = null;
                 }
 
-                document.getElementById('audio_position').innerHTML = "";
+                recordings.push({"src": mediaSrc, "location": myLocation, "audio": mediaRec, "user": "notLoggedIn"});
+
+                addAudios(recordings);
             }
 
 
@@ -141,6 +159,29 @@
                     $( "#myloc" ).text(myLocation);
                     $( "#changeLocation" ).dialog( "close" );
                 });
+            }
+
+            function addAudios(audioList) {
+                var items = [];
+                $.each(audioList, function(i, audioItem) {
+                    // alert(loc);
+                    items.push('<li><a href="#" data-src="'+audioItem.src+'" data-audio="'+audioItem.audio+' "data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
+                });
+                $('#nearbyUL').empty( );
+                $('#nearbyUL').append( items.join('') );
+
+                $("#nearbyUL li").click(function(event) {
+                    // TO DO: play sound
+                    var playSrc = $(event.target).attr('data-src');
+                    playSound(playSrc);
+                    $( "#nearby" ).dialog( "close" );
+                });
+            }
+
+            function playSound(src) {
+                var myMedia = new Media(src, function() {alert('sound loaded')}, function(e) {alert('error loading sound')
+                });
+                myMedia.play();
             }
 
         </script>
@@ -181,7 +222,7 @@
                 <div data-role="navbar">
                     <ul>
                         <li>
-                            <a href="#" data-icon="home">Nearby</a>
+                            <a href="#nearby" data-icon="home">Nearby</a>
                         </li>
                         <li>
                             <a href="#" data-icon="star">Friends</a>
@@ -206,6 +247,16 @@
                     </li>
                 </ul>
             </div>
+
+        <!-- nearby -->
+        <div data-role="dialog" id="nearby">
+            <ul id="nearbyUL" data-role="listview" data-filter="true" data-filter-placeholder="Find nearby sounds..." data-inset="true">
+                <li>
+                    <a href="#">Two Boots</a>
+                </li>
+            </ul>
+
+        </div>
 
     </body>
 </html>

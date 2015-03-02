@@ -39,6 +39,9 @@
         <param name="ios-package" value="CDVCamera" />
     </feature>
     <preference name="CameraUsesGeolocation" value="false" />
+    <feature name="Media">
+        <param name="ios-package" value="CDVSound" />
+    </feature>
     <name>Where Im At</name>
     <description>
         Hello !
@@ -110,7 +113,4 @@
         <scheme>foursquare</scheme>
         <scheme>spotify</scheme>
     </gap:url-scheme>
-    <feature name="Media">
-        <param name="ios-package" value="CDVSound" />
-    </feature>
 </widget>
