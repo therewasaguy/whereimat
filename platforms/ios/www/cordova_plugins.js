@@ -341,6 +341,20 @@ module.exports = [
         "clobbers": [
             "CameraPopoverHandle"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.media/www/MediaError.js",
+        "id": "org.apache.cordova.media.MediaError",
+        "clobbers": [
+            "window.MediaError"
+        ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.media/www/Media.js",
+        "id": "org.apache.cordova.media.Media",
+        "clobbers": [
+            "window.Media"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -351,7 +365,8 @@ module.exports.metadata =
     "org.apache.cordova.file": "1.3.3",
     "org.apache.cordova.geolocation": "0.3.12",
     "org.apache.cordova.media-capture": "0.3.6",
-    "org.apache.cordova.camera": "0.3.5"
+    "org.apache.cordova.camera": "0.3.5",
+    "org.apache.cordova.media": "0.2.16"
 }
 // BOTTOM OF METADATA
 });

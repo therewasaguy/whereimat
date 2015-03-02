@@ -35,6 +35,10 @@
                         {
                             "xml": "<preference name=\"CameraUsesGeolocation\" value=\"false\" />",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Media\"><param name=\"ios-package\" value=\"CDVSound\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -114,6 +118,9 @@
             "PACKAGE_NAME": "com.phonegap.whereimat"
         },
         "org.apache.cordova.camera": {
+            "PACKAGE_NAME": "com.phonegap.whereimat"
+        },
+        "org.apache.cordova.media": {
             "PACKAGE_NAME": "com.phonegap.whereimat"
         }
     },

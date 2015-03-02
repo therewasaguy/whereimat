@@ -68,6 +68,11 @@
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
+    <feature name="Media">
+        <param name="android-package" value="org.apache.cordova.media.AudioHandler" />
+        <param name="ios-package" value="CDVSound" />
+    </feature>
+
     <gap:url-scheme name="com.phonegap.whereimat" role="None">
       <scheme>foursquare</scheme>
       <scheme>spotify</scheme>

@@ -73,29 +73,9 @@
                 //       'Timestamp: '         + position.timestamp                + '\n');
             }
 
-            // var recordState = 0;
-
-            // function toggleRecord() {
-            //     switch(recordState){
-            //         case 0: {
-            //             $("#recbutt").css('background', '#c8fba7').addClass('shadow');
-            //             recordState = 1;
-            //             break;
-            //         }
-            //         case 1: {
-            //             $("#recbutt").css('background', '#f39b9b').removeClass('shadow');
-            //             recordState = 0;
-            //             break;
-            //         }
-            //     }
-            // }
-
             function startRecording() {
-
                 $("#recbutt").css('background', '#f39b9b').removeClass('shadow');
                 recordState = 1;
-                // var audioOptions = {limit: 1, duration: 10};
-                // navigator.device.capture.captureAudio(audioSuccess, audioError, audioOptions);
             }
 
             function stopRecording() {
