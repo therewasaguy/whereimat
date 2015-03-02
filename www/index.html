@@ -73,24 +73,54 @@
                 //       'Timestamp: '         + position.timestamp                + '\n');
             }
 
+            var recInterval = null;
+
             function startRecording() {
+                var src = "myrecording.wav";
+                var mediaRec = new Media(src, audioSuccess, audioError);
+                mediaRec.startRecord();
+
                 $("#recbutt").css('background', '#f39b9b').removeClass('shadow');
                 recordState = 1;
+
+                // stop recording after 10 seconds
+                var recTime = 0;
+                var recInterval = setInterval(function() {
+                    recTime = recTime + 1;
+                    setAudioPosition(recTime + " sec");
+                    if (recTime >=10) {
+                        clearInterval(recInterval);
+                        mediaRec.stopRecord();
+                    }
+                }, 1000);
+
             }
 
             function stopRecording() {
                 $("#recbutt").css('background', '#c8fba7').addClass('shadow');
                 recordState = 0;
+
+                if (recInterval !== null) {
+                    clearInterval(recInterval);
+                    mediaRec.stopRecord();
+                    recInterval = null;
+                }
+
+                document.getElementById('audio_position').innerHTML = "";
             }
+
 
             function audioSuccess() {
                 alert('success!');
             }
 
-            function audioError() {
+            function audioError(error) {
                 alert('audio error!');
             }
 
+            function setAudioPosition(position) {
+                document.getElementById('audio_position').innerHTML = position;
+            }
 
             // add locations to the list of nearb locations
             function addLocations(locList) {
@@ -142,6 +172,8 @@
                     <div id="recbutt" class="circle centered shadow"></div>
                     <p>
                     <a href="#changeLocation" id="myloc">@ Brad's</a>
+                    </p>
+                    <span id="audio_position"></span>
                 </p>
             </div>
 
