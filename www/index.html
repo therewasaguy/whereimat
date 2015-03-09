@@ -18,16 +18,18 @@
         <script src="js/jquery-2.1.3.min.js"></script>
         <script src="js/jquery.mobile-1.4.5.min.js"></script>
 
+        <script type="text/javascript" src="js/secret_.js"></script>
+        <script type="text/javascript" src="js/foursq_.js"></script>
+
         <!-- Cordova magically appears -->
         <script type="text/javascript" src="cordova.js"></script>
-
-        <!-- <script type="text/javascript" src="js/secret.js"></script> -->
-        <!-- <script type="text/javascript" src="js/foursq.js"></script> -->
 
         <script>
             var myPosition = {};
             var myLocation = "Brad's"
-            var nearbyLocations = ['Mr Kiwi', 'Other Music', 'CVS', 'ITP', 'Lighting Plus', 'Canal Plastics', 'Bus Stop', 'Union Square', 'St Marks', 'Bleeker Bob\'s', 'Two Boots', "Brad's"];
+            var nearbyLocations = [ {'name': 'Mr Kiwi'}, {'name': 'Other Music'} ];
+
+            //'CVS', 'ITP', 'Lighting Plus', 'Canal Plastics', 'Bus Stop', 'Union Square', 'St Marks', 'Bleeker Bob\'s', 'Two Boots', "Brad's"];
 
             document.addEventListener("deviceready", onDeviceReady, false);
 
@@ -48,12 +50,7 @@
             // });
 
             function onDeviceReady() {
-
                 navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
-                // login2FourSquare();
-                // getContacts();
-                console.log('javascript ready');
-                console.log(navigator.device.capture);
             }
 
             function onGeoError(error) {
@@ -63,18 +60,19 @@
             function onGeoSuccess(position) {
                 // set global;
                 myPosition = position;
-                // alert('Latitude: '          + position.coords.latitude          + '\n' +
-                //       'Longitude: '         + position.coords.longitude         + '\n' +
-                //       'Altitude: '          + position.coords.altitude          + '\n' +
-                //       'Accuracy: '          + position.coords.accuracy          + '\n' +
-                //       'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
-                //       'Heading: '           + position.coords.heading           + '\n' +
-                //       'Speed: '             + position.coords.speed             + '\n' +
-                //       'Timestamp: '         + position.timestamp                + '\n');
+                getNearbyLocations(myPosition.coords.latitude, myPosition.coords.longitude);
+                alert('Latitude: '          + position.coords.latitude          + '\n' +
+                      'Longitude: '         + position.coords.longitude         + '\n' +
+                      'Altitude: '          + position.coords.altitude          + '\n' +
+                      'Accuracy: '          + position.coords.accuracy          + '\n' +
+                      'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+                      'Heading: '           + position.coords.heading           + '\n' +
+                      'Speed: '             + position.coords.speed             + '\n' +
+                      'Timestamp: '         + position.timestamp                + '\n');
             }
 
-            /****************************************
-            audio
+            /******
+             audio
             ******/
             var recInterval = null;
             var recState = 0;
@@ -129,7 +127,7 @@
 
 
             function audioSuccess() {
-                alert('success!');
+                // alert('success!');
             }
 
             function audioError(error) {
@@ -146,7 +144,7 @@
                 var items = [];
                 $.each(locList, function(i, loc) {
                     // alert(loc);
-                    items.push('<li><a href="#" data-loc="'+loc+'">' + loc + '</a></li>');
+                    items.push('<li><a href="#" data-loc="'+loc.name+'">' + loc.name + '</a></li>');
                 });
 
                 $('#locationsUL').empty( );
@@ -164,7 +162,6 @@
             function addAudios(audioList) {
                 var items = [];
                 $.each(audioList, function(i, audioItem) {
-                    // alert(loc);
                     items.push('<li><a href="#" data-src="'+audioItem.src+'" data-audio="'+audioItem.audio+' "data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
                 });
                 $('#nearbyUL').empty( );
@@ -179,7 +176,7 @@
             }
 
             function playSound(src) {
-                var myMedia = new Media(src, function() {alert('sound loaded')}, function(e) {alert('error loading sound')
+                var myMedia = new Media(src, function() {}, function(e) {alert('error loading sound');
                 });
                 myMedia.play();
             }

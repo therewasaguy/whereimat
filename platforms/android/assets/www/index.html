@@ -5,9 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=0.5">
         <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
         <link rel="stylesheet" href="css/jquery.mobile.icons.min.css" />
+
+        <link rel="stylesheet" href="css/jquery.mobile.external-png-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.inline-png-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.inline-svg-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.structure-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/jquery.mobile.theme-1.4.5.min.css" />
+
         <link rel="stylesheet" href="css/myTheme1.css" />
         <link rel="stylesheet" href="css/custom.css" />
-
 
         <script src="js/jquery-2.1.3.min.js"></script>
         <script src="js/jquery.mobile-1.4.5.min.js"></script>
@@ -15,43 +21,39 @@
         <!-- Cordova magically appears -->
         <script type="text/javascript" src="cordova.js"></script>
 
-        <script type="text/javascript" src="js/secret.js"></script>
-        <script type="text/javascript" src="js/foursq.js"></script>
+        <!-- <script type="text/javascript" src="js/secret.js"></script> -->
+        <!-- <script type="text/javascript" src="js/foursq.js"></script> -->
 
         <script>
             var myPosition = {};
+            var myLocation = "Brad's"
+            var nearbyLocations = ['Mr Kiwi', 'Other Music', 'CVS', 'ITP', 'Lighting Plus', 'Canal Plastics', 'Bus Stop', 'Union Square', 'St Marks', 'Bleeker Bob\'s', 'Two Boots', "Brad's"];
 
             document.addEventListener("deviceready", onDeviceReady, false);
 
             $(document).on("pagecreate", "#rec1", function() {
-                $("#recbutt").on("tap", function() {
-                    toggleRecord();
+                $("#recbutt").on("touchstart", function(e) {
+                    e.preventDefault();
+                    startRecording();
                 });
+                $("#recbutt").on("touchend", function(e) {
+                    e.preventDefault();
+                    stopRecording();
+                });
+                addLocations(nearbyLocations);
             });
-            // $(document).on("pagecreate","#page1",function(){
-            //   $("div").on("swipeleft",function(){
-            //     alert("You swiped left!");
-            //   });
+
+            // $(document).on("pagecreate", "#changeLocation", function() {
+            //     addLocations(nearbyLocations);
             // });
 
-            // $(document).on("pagecreate","#rec1",function(){
-            // });
-            
             function onDeviceReady() {
-                alert('ready!');
-                toggleRecord();
 
                 navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
-                login2FourSquare();
+                // login2FourSquare();
                 // getContacts();
-            }
-
-            function onContactsSuccess(contacts) {
-                alert('Found ' + contacts.length + ' contacts.');
-            }
-
-            function onContactsError(contactError) {
-                alert('onError!');
+                console.log('javascript ready');
+                console.log(navigator.device.capture);
             }
 
             function onGeoError(error) {
@@ -61,47 +63,127 @@
             function onGeoSuccess(position) {
                 // set global;
                 myPosition = position;
-                alert('Latitude: '          + position.coords.latitude          + '\n' +
-                      'Longitude: '         + position.coords.longitude         + '\n' +
-                      'Altitude: '          + position.coords.altitude          + '\n' +
-                      'Accuracy: '          + position.coords.accuracy          + '\n' +
-                      'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
-                      'Heading: '           + position.coords.heading           + '\n' +
-                      'Speed: '             + position.coords.speed             + '\n' +
-                      'Timestamp: '         + position.timestamp                + '\n');
+                // alert('Latitude: '          + position.coords.latitude          + '\n' +
+                //       'Longitude: '         + position.coords.longitude         + '\n' +
+                //       'Altitude: '          + position.coords.altitude          + '\n' +
+                //       'Accuracy: '          + position.coords.accuracy          + '\n' +
+                //       'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+                //       'Heading: '           + position.coords.heading           + '\n' +
+                //       'Speed: '             + position.coords.speed             + '\n' +
+                //       'Timestamp: '         + position.timestamp                + '\n');
             }
 
-            var recordState = 0;
+            /****************************************
+            audio
+            ******/
+            var recInterval = null;
+            var recState = 0;
+            var mediaRec = null;
+            var mediaSrc = "";
+            var recordings = [];
 
-            function toggleRecord() {
-                switch(recordState){
-                    case 0: {
-                        $("#recbutt").css('background', 'green');
-                        recordState = 1;
-                        break;
-                    }
-                    case 1: {
-                        $("#recbutt").css('background', 'red');
-                        recordState = 0;
-                        break;
-                    }
+            function startRecording() {
+                if (recState === 1) {
+                    alert('already recording');
+                    return;
                 }
+                var now = new Date().getTime();
+                mediaSrc = myLocation + now + ".wav";
+                mediaRec = new Media(mediaSrc, audioSuccess, audioError);
+                mediaRec.startRecord();
+                $("#recbutt").css('background', '#f39b9b').removeClass('shadow');
+                recState = 1;
+
+                // stop recording after 10 seconds
+                var recTime = 0;
+                if (recInterval) {
+                    clearInterval(recInterval);
+                }
+
+                recInterval = setInterval(function() {
+                    recTime = recTime + 1;
+                    setAudioPosition(recTime + " sec");
+                    if (recTime >=10 || recState === 0) {
+                        clearInterval(recInterval);
+                        stopRecording();
+                    }
+                }, 1000);
+
             }
 
-            // not in use at the moment
-            function getContacts() {
-                var contactFindOptions = new ContactFindOptions();
-                contactFindOptions.filter = "John";
-                contactFindOptions.multiple = true;
-                contactFindOptions.desiredFields = [navigator.contacts.fieldType.id];
-                
-                var searchFields = [navigator.contacts.fieldType.displayName, navigator.contacts.fieldType.name];
-                navigator.contacts.find(searchFields, onContactsSuccess, onContactsError, contactFindOptions);
+            function stopRecording() {
+                $("#recbutt").css('background', '#c8fba7').addClass('shadow');
+                recState = 0;
+                document.getElementById('audio_position').innerHTML = "you tagged " +myLocation ;
+
+                if (recInterval) {
+                    clearInterval(recInterval);
+                    mediaRec.stopRecord();
+                    recInterval = null;
+                }
+
+                recordings.push({"src": mediaSrc, "location": myLocation, "audio": mediaRec, "user": "notLoggedIn"});
+
+                addAudios(recordings);
             }
 
+
+            function audioSuccess() {
+                // alert('success!');
+            }
+
+            function audioError(error) {
+                alert('audio error!');
+            }
+
+            function setAudioPosition(position) {
+                document.getElementById('audio_position').innerHTML = position;
+            }
+
+            // add locations to the list of nearb locations
+            function addLocations(locList) {
+                // alert(locList);
+                var items = [];
+                $.each(locList, function(i, loc) {
+                    // alert(loc);
+                    items.push('<li><a href="#" data-loc="'+loc+'">' + loc + '</a></li>');
+                });
+
+                $('#locationsUL').empty( );
+                $('#locationsUL').append( items.join('') );
+
+                $("#locationsUL li").click(function(event) {
+                    // alert(this.id); // id of clicked li by directly accessing DOMElement property
+                    // alert($(event.target).attr('data-loc'));
+                    myLocation = $(event.target).attr('data-loc');
+                    $( "#myloc" ).text(myLocation);
+                    $( "#changeLocation" ).dialog( "close" );
+                });
+            }
+
+            function addAudios(audioList) {
+                var items = [];
+                $.each(audioList, function(i, audioItem) {
+                    items.push('<li><a href="#" data-src="'+audioItem.src+'" data-audio="'+audioItem.audio+' "data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
+                });
+                $('#nearbyUL').empty( );
+                $('#nearbyUL').append( items.join('') );
+
+                $("#nearbyUL li").click(function(event) {
+                    // TO DO: play sound
+                    var playSrc = $(event.target).attr('data-src');
+                    playSound(playSrc);
+                    $( "#nearby" ).dialog( "close" );
+                });
+            }
+
+            function playSound(src) {
+                var myMedia = new Media(src, function() {}, function(e) {alert('error loading sound');
+                });
+                myMedia.play();
+            }
 
         </script>
-
 
 
     </head>
@@ -116,73 +198,64 @@
                     <h1 class="ui-title" />
                     Where I'm At
                     </h1>
-<!--                     <ul>
+                    <ul>
+                        <li>
+<!--                         $.mobile.page.prototype.options.backBtnText = "previous";
+ --><!--                     <ul>
                         <li><a href="#home">Home</a></li>
                     </ul>
  -->                </div>
             </div>
 
-            <div role="main" class="ui-content center">
+            <div role="main" class="ui-content centered">
                 <p>
-                    <div id="recbutt" class="circle center"></div>
+                    <div id="recbutt" class="circle centered shadow"></div>
                     <p>
-                    <a href="#" class="mylocation" id="myloc">@ Brad's yo</a></div>
+                    <a href="#changeLocation" id="myloc">@ Brad's</a>
                     </p>
-                    <div id="relocate" class="ui-btn">Relocate</div>
+                    <span id="audio_position"></span>
                 </p>
             </div>
 
-            <div data-role="footer"><h4>Footer</h4></div>
-            <!-- end record1 -->
-
-
-            <!-- footer -->
-            <div data-role="footer" data-position="fixed">
-            </div>
-        </div> 
-
-        <!-- page 1 
-        <div data-role="page" data-dialog="true" id="page1">
-            <div data-role="header">
+            <div data-role="footer">
                 <div data-role="navbar">
-                  <ul>
-                    <li><a href="#page1">Home</a></li>
-                    <li><a href="#page2">Page Two</a></li>
-                    <li><a href="#page3">Dialog</a></li>
-                  </ul>
+                    <ul>
+                        <li>
+                            <a href="#nearby" data-icon="home">Nearby</a>
+                        </li>
+                        <li>
+                            <a href="#" data-icon="star">Friends</a>
+                        </li>
+                        <li>
+                            <a href="#" data-icon="check" class="ui-btn-active ui-state-persist">Tag</a>
+                        </li>
+                        <li>
+                            <a href="#" data-icon="gear">Options</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            <div role="main" class="ui-content">
-                Page 1 Content<br />
-                <a href="#page2">Link to Page 2</a>
+
+        </div>  <!-- end record1 -->
+
+            <!-- change location-->
+            <div data-role="dialog" id="changeLocation">
+                <ul id="locationsUL" data-role="listview" data-filter="true" data-filter-placeholder="Search nearby..." data-inset="true">
+                    <li>
+                        <a href="#">Two Boots</a>
+                    </li>
+                </ul>
             </div>
-            <div data-role="footer">Page 1 Footer</div>
+
+        <!-- nearby -->
+        <div data-role="dialog" id="nearby">
+            <ul id="nearbyUL" data-role="listview" data-filter="true" data-filter-placeholder="Find nearby sounds..." data-inset="true">
+                <li>
+                    <a href="#">Two Boots</a>
+                </li>
+            </ul>
+
         </div>
-        -->
-
-        <!-- page 2
-        <div data-role="page" id="page2">
-            <div data-role="header">Page 2 Header</div>
-            <div role="main" class="ui-content">
-                Page 2 Content
-                <a href="#page3" class="ui-btn">Go to Page Three</a>
-                <a href="#page1" data-transition="flip">Link to Page 1</a> 
-            </div>
-            <div data-role="footer">Page 2 Footer</div>
-        </div>
-        -->
-
-        <!-- page 3
-        <div data-role="page" data-dialog="true" id="page3">
-          <div data-role="header">
-            <h1>Dialog Header</h1>
-          </div>
-
-          <div data-role="main" class="ui-content">
-            <p>Hi</p>
-            <a href="#page1">Go to Page 1</a>
-          </div>
-          -->
 
     </body>
 </html>
