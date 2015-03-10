@@ -3502,3 +3502,1150 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-03-09 23:19:49.037 Where Im At[89179:2520106] Finished recording audio sample '1425957587029.wav'
 2015-03-09 23:19:52.651 Where Im At[89179:2520106] THREAD WARNING: ['FileTransfer'] took '49.133789' ms. Plugin should use a background thread.
 2015-03-09 23:19:53.436 Where Im At[89179:2520291] File Transfer Finished with response code 200
+2015-03-09 23:21:58.187 Where Im At[89449:2522049] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/15EAAD5E-B3BF-4634-B646-755812A7E107/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:21:58.333 Where Im At[89449:2522049] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:21:58.333 Where Im At[89449:2522049] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:21:58.335 Where Im At[89449:2522049] Unlimited access to network resources
+2015-03-09 23:21:58.338 Where Im At[89449:2522049] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:21:58.635 Where Im At[89449:2522049] [CDVTimer][file] 2.493024ms
+2015-03-09 23:21:58.635 Where Im At[89449:2522049] [CDVTimer][TotalPluginStartup] 2.676010ms
+2015-03-09 23:21:58.685 Where Im At[89449:2522049] Resetting plugins due to page load.
+2015-03-09 23:21:59.196 Where Im At[89449:2522049] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/CE85F035-379C-43FB-93F2-410BF655773A/Where%20Im%20At.app/www/index.html
+2015-03-09 23:21:59.286 Where Im At[89449:2522049] THREAD WARNING: ['Geolocation'] took '11.708984' ms. Plugin should use a background thread.
+2015-03-09 23:22:11.609 Where Im At[89449:2522049] Started recording audio sample '1425957731527.wav'
+2015-03-09 23:22:11.611 Where Im At[89449:2522049] THREAD WARNING: ['Media'] took '78.341797' ms. Plugin should use a background thread.
+2015-03-09 23:22:12.714 Where Im At[89449:2522049] Stopped recording audio sample '1425957731527.wav'
+2015-03-09 23:22:12.715 Where Im At[89449:2522049] {"src":"1425957731527.wav","location":"Brad's","audio":{"id":"5597586e-d6f7-d634-3687-e6c99dd2c52c","src":"1425957731527.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-09 23:22:12.716 Where Im At[89449:2522049] Finished recording audio sample '1425957731527.wav'
+2015-03-09 23:28:26.231 Where Im At[89449:2522082] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-09 23:28:26.310 Where Im At[89449:2522049] THREAD WARNING: ['FileTransfer'] took '29.802734' ms. Plugin should use a background thread.
+2015-03-09 23:28:35.519 Where Im At[89449:2525332] File Transfer Finished with response code 200
+2015-03-09 23:28:49.129 Where Im At[89717:2525987] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/25F09770-236D-4BBA-A2E9-347DBD066EF2/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:28:49.288 Where Im At[89717:2525987] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:28:49.288 Where Im At[89717:2525987] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:28:49.290 Where Im At[89717:2525987] Unlimited access to network resources
+2015-03-09 23:28:49.292 Where Im At[89717:2525987] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:28:49.532 Where Im At[89717:2525987] [CDVTimer][file] 11.770964ms
+2015-03-09 23:28:49.532 Where Im At[89717:2525987] [CDVTimer][TotalPluginStartup] 12.044013ms
+2015-03-09 23:28:49.609 Where Im At[89717:2525987] Resetting plugins due to page load.
+2015-03-09 23:28:49.933 Where Im At[89717:2525987] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/40D41D4D-56BB-43AB-873E-9C8DCC6F0C04/Where%20Im%20At.app/www/index.html
+2015-03-09 23:28:52.656 Where Im At[89717:2525987] Started recording audio sample '1425958132539.wav'
+2015-03-09 23:28:52.657 Where Im At[89717:2525987] THREAD WARNING: ['Media'] took '113.450928' ms. Plugin should use a background thread.
+2015-03-09 23:28:54.528 Where Im At[89717:2525987] Stopped recording audio sample '1425958132539.wav'
+2015-03-09 23:28:54.529 Where Im At[89717:2525987] {"src":"1425958132539.wav","location":"Brad's","audio":{"id":"4d6bfa4f-c6a3-952b-6fb2-b91d512e43fe","src":"1425958132539.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-09 23:28:54.529 Where Im At[89717:2525987] Finished recording audio sample '1425958132539.wav'
+2015-03-09 23:28:57.435 Where Im At[89717:2525987] THREAD WARNING: ['FileTransfer'] took '51.243164' ms. Plugin should use a background thread.
+2015-03-09 23:28:58.536 Where Im At[89717:2526149] File Transfer Finished with response code 200
+2015-03-09 23:29:45.062 Where Im At[89717:2525987] Started recording audio sample '1425958185054.wav'
+2015-03-09 23:29:47.474 Where Im At[89717:2525987] Stopped recording audio sample '1425958185054.wav'
+2015-03-09 23:29:47.476 Where Im At[89717:2525987] {"src":"1425958185054.wav","location":"Brad's","audio":{"id":"2236b9fb-75a8-0427-b3f9-81d9a0eb9b44","src":"1425958185054.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-09 23:29:47.476 Where Im At[89717:2525987] Finished recording audio sample '1425958185054.wav'
+2015-03-09 23:29:49.326 Where Im At[89717:2525987] THREAD WARNING: ['FileTransfer'] took '64.022949' ms. Plugin should use a background thread.
+2015-03-09 23:29:51.355 Where Im At[89717:2526802] File Transfer Finished with response code 200
+2015-03-09 23:30:25.488 Where Im At[89717:2525987] Started recording audio sample '1425958225477.wav'
+2015-03-09 23:30:26.146 Where Im At[89717:2525987] Stopped recording audio sample '1425958225477.wav'
+2015-03-09 23:30:26.147 Where Im At[89717:2525987] {"src":"1425958225477.wav","location":"Brad's","audio":{"id":"0a0f30c3-6701-78d5-51d4-2a5c9de11ae9","src":"1425958225477.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-09 23:30:26.148 Where Im At[89717:2525987] Finished recording audio sample '1425958225477.wav'
+2015-03-09 23:30:29.993 Where Im At[89717:2525987] THREAD WARNING: ['FileTransfer'] took '22.527100' ms. Plugin should use a background thread.
+2015-03-09 23:30:30.307 Where Im At[89717:2527323] File Transfer Finished with response code 200
+2015-03-09 23:30:32.472 Where Im At[89967:2527830] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/98827E6B-5B4A-4618-8782-F6BE82A9FA44/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:30:32.625 Where Im At[89967:2527830] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:30:32.625 Where Im At[89967:2527830] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:30:32.628 Where Im At[89967:2527830] Unlimited access to network resources
+2015-03-09 23:30:32.632 Where Im At[89967:2527830] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:30:32.858 Where Im At[89967:2527830] [CDVTimer][file] 2.451956ms
+2015-03-09 23:30:32.858 Where Im At[89967:2527830] [CDVTimer][TotalPluginStartup] 2.632022ms
+2015-03-09 23:30:32.907 Where Im At[89967:2527830] Resetting plugins due to page load.
+2015-03-09 23:30:33.210 Where Im At[89967:2527830] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/59B868F1-0BEA-44B5-9E23-B994027FF26D/Where%20Im%20At.app/www/index.html
+2015-03-09 23:30:41.738 Where Im At[89967:2527830] Started recording audio sample '1425958241667.wav'
+2015-03-09 23:30:41.738 Where Im At[89967:2527830] THREAD WARNING: ['Media'] took '67.380127' ms. Plugin should use a background thread.
+2015-03-09 23:30:42.825 Where Im At[89967:2527830] Stopped recording audio sample '1425958241667.wav'
+2015-03-09 23:30:42.825 Where Im At[89967:2527830] {"src":"1425958241667.wav","location":"Brad's","audio":{"id":"f0d145dd-f071-7ea4-210e-0a5f6266bb56","src":"1425958241667.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-09 23:30:42.826 Where Im At[89967:2527830] Finished recording audio sample '1425958241667.wav'
+2015-03-09 23:30:45.634 Where Im At[89967:2527830] THREAD WARNING: ['FileTransfer'] took '32.468018' ms. Plugin should use a background thread.
+2015-03-09 23:30:46.120 Where Im At[89967:2527968] File Transfer Finished with response code 200
+2015-03-10 00:14:03.540 Where Im At[89967:2527830] Started recording audio sample '1425960843524.wav'
+2015-03-10 00:14:04.066 Where Im At[89967:2527830] THREAD WARNING: ['Media'] took '538.333008' ms. Plugin should use a background thread.
+2015-03-10 00:14:05.839 Where Im At[89967:2527830] Stopped recording audio sample '1425960843524.wav'
+2015-03-10 00:14:05.840 Where Im At[89967:2527830] {"src":"1425960843524.wav","location":"Brad's","audio":{"id":"bde15ba5-7d30-597f-0e36-09e61de579e4","src":"1425960843524.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:14:05.840 Where Im At[89967:2527830] Finished recording audio sample '1425960843524.wav'
+2015-03-10 00:14:08.105 Where Im At[89967:2527830] THREAD WARNING: ['FileTransfer'] took '528.593018' ms. Plugin should use a background thread.
+2015-03-10 00:14:08.899 Where Im At[89967:2545265] File Transfer Finished with response code 200
+2015-03-10 00:15:09.635 Where Im At[89967:2527830] Started recording audio sample '1425960909625.wav'
+2015-03-10 00:15:12.912 Where Im At[89967:2527830] Stopped recording audio sample '1425960909625.wav'
+2015-03-10 00:15:12.913 Where Im At[89967:2527830] {"src":"1425960909625.wav","location":"Brad's","audio":{"id":"751cc1a8-9b0f-dbb1-b004-7724d0e96459","src":"1425960909625.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:15:12.914 Where Im At[89967:2527830] Finished recording audio sample '1425960909625.wav'
+2015-03-10 00:15:14.863 Where Im At[89967:2527830] THREAD WARNING: ['FileTransfer'] took '220.162842' ms. Plugin should use a background thread.
+2015-03-10 00:15:15.879 Where Im At[89967:2546082] File Transfer Finished with response code 200
+2015-03-10 00:16:19.155 Where Im At[89967:2527830] Started recording audio sample '1425960979147.wav'
+2015-03-10 00:16:19.425 Where Im At[89967:2527830] THREAD WARNING: ['Media'] took '275.216064' ms. Plugin should use a background thread.
+2015-03-10 00:16:21.401 Where Im At[89967:2527830] Stopped recording audio sample '1425960979147.wav'
+2015-03-10 00:16:21.402 Where Im At[89967:2527830] {"src":"1425960979147.wav","location":"Brad's","audio":{"id":"34e8b50c-752b-e948-8185-ec633e7f65fd","src":"1425960979147.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:16:21.402 Where Im At[89967:2527830] Finished recording audio sample '1425960979147.wav'
+2015-03-10 00:16:23.051 Where Im At[89967:2527830] THREAD WARNING: ['FileTransfer'] took '43.922852' ms. Plugin should use a background thread.
+2015-03-10 00:16:23.814 Where Im At[89967:2548985] File Transfer Finished with response code 200
+2015-03-10 00:16:41.817 Where Im At[89967:2527830] Started recording audio sample '1425961001810.wav'
+2015-03-10 00:16:44.207 Where Im At[89967:2527830] Stopped recording audio sample '1425961001810.wav'
+2015-03-10 00:16:44.208 Where Im At[89967:2527830] {"src":"1425961001810.wav","location":"Brad's","audio":{"id":"08dbbe55-6b0e-0a7c-1e00-b6185cbd63b6","src":"1425961001810.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:16:44.208 Where Im At[89967:2527830] Finished recording audio sample '1425961001810.wav'
+2015-03-10 00:16:45.805 Where Im At[89967:2527830] THREAD WARNING: ['FileTransfer'] took '35.468018' ms. Plugin should use a background thread.
+2015-03-10 00:16:46.574 Where Im At[89967:2549205] File Transfer Finished with response code 200
+2015-03-10 00:27:42.295 Where Im At[92573:2555115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/EE224003-BF4D-4FD8-A920-2D45F4501746/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:27:42.491 Where Im At[92573:2555115] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:27:42.492 Where Im At[92573:2555115] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:27:42.493 Where Im At[92573:2555115] Unlimited access to network resources
+2015-03-10 00:27:42.514 Where Im At[92573:2555115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:27:42.803 Where Im At[92573:2555115] [CDVTimer][file] 26.697040ms
+2015-03-10 00:27:42.803 Where Im At[92573:2555115] [CDVTimer][TotalPluginStartup] 26.898980ms
+2015-03-10 00:27:42.880 Where Im At[92573:2555115] Resetting plugins due to page load.
+2015-03-10 00:27:43.226 Where Im At[92573:2555115] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/75D4F857-96C3-44C8-A221-2E02689D1D0D/Where%20Im%20At.app/www/index.html
+2015-03-10 00:27:51.026 Where Im At[92573:2555115] Started recording audio sample '1425961670866.wav'
+2015-03-10 00:27:51.027 Where Im At[92573:2555115] THREAD WARNING: ['Media'] took '158.182129' ms. Plugin should use a background thread.
+2015-03-10 00:27:53.243 Where Im At[92573:2555115] Stopped recording audio sample '1425961670866.wav'
+2015-03-10 00:27:53.244 Where Im At[92573:2555115] {"src":"1425961670866.wav","location":"Brad's","audio":{"id":"654dfd96-2c41-4fb7-98dd-8d24c4699bcc","src":"1425961670866.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:27:53.245 Where Im At[92573:2555115] Finished recording audio sample '1425961670866.wav'
+2015-03-10 00:27:53.363 Where Im At[92573:2555115] THREAD WARNING: ['FileTransfer'] took '27.394043' ms. Plugin should use a background thread.
+2015-03-10 00:27:54.093 Where Im At[92573:2555436] File Transfer Finished with response code 200
+2015-03-10 00:29:02.418 Where Im At[92826:2556553] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/D4DFC7E0-DE7E-4A15-8162-A45F652BA1D6/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:29:02.535 Where Im At[92826:2556553] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:29:02.535 Where Im At[92826:2556553] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:29:02.537 Where Im At[92826:2556553] Unlimited access to network resources
+2015-03-10 00:29:02.540 Where Im At[92826:2556553] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:29:02.752 Where Im At[92826:2556553] [CDVTimer][file] 2.415001ms
+2015-03-10 00:29:02.752 Where Im At[92826:2556553] [CDVTimer][TotalPluginStartup] 2.600968ms
+2015-03-10 00:29:02.804 Where Im At[92826:2556553] Resetting plugins due to page load.
+2015-03-10 00:29:03.140 Where Im At[92826:2556553] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D87B63FB-5168-4F28-8285-5D7CD84860FE/Where%20Im%20At.app/www/index.html
+2015-03-10 00:29:04.657 Where Im At[92826:2556553] Started recording audio sample '1425961744580.wav'
+2015-03-10 00:29:04.657 Where Im At[92826:2556553] THREAD WARNING: ['Media'] took '73.364990' ms. Plugin should use a background thread.
+2015-03-10 00:29:06.983 Where Im At[92826:2556553] Stopped recording audio sample '1425961744580.wav'
+2015-03-10 00:29:06.983 Where Im At[92826:2556553] {"src":"1425961744580.wav","location":"Brad's","audio":{"id":"315f4bcb-bf62-0026-9440-f6148427dc06","src":"1425961744580.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:29:06.984 Where Im At[92826:2556553] Finished recording audio sample '1425961744580.wav'
+2015-03-10 00:29:07.091 Where Im At[92826:2556553] THREAD WARNING: ['FileTransfer'] took '16.180908' ms. Plugin should use a background thread.
+2015-03-10 00:29:07.872 Where Im At[92826:2556595] File Transfer Finished with response code 200
+2015-03-10 00:29:11.678 Where Im At[92826:2556553] Will attempt to use file resource '(null)'
+2015-03-10 00:29:11.680 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:11.681 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:11.681 Where Im At[92826:2556553] Error in Success callbackId: Media1670546826 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:29:11.681 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:11.681 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:25.218 Where Im At[92826:2556553] Started recording audio sample '1425961765207.wav'
+2015-03-10 00:29:27.600 Where Im At[92826:2556553] Stopped recording audio sample '1425961765207.wav'
+2015-03-10 00:29:27.601 Where Im At[92826:2556553] {"src":"1425961765207.wav","location":"Brad's","audio":{"id":"bb48bfb4-bfa6-b310-9972-90ca2a9df368","src":"1425961765207.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:29:27.602 Where Im At[92826:2556553] Finished recording audio sample '1425961765207.wav'
+2015-03-10 00:29:27.699 Where Im At[92826:2556553] THREAD WARNING: ['FileTransfer'] took '10.673096' ms. Plugin should use a background thread.
+2015-03-10 00:29:28.520 Where Im At[92826:2556908] File Transfer Finished with response code 200
+2015-03-10 00:29:31.562 Where Im At[92826:2556553] Will attempt to use file resource '(null)'
+2015-03-10 00:29:31.563 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:31.563 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:31.564 Where Im At[92826:2556553] Error in Success callbackId: Media1670546833 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:29:31.564 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:31.564 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:40.857 Where Im At[92826:2556553] Started recording audio sample '1425961780847.wav'
+2015-03-10 00:29:44.936 Where Im At[92826:2556553] Stopped recording audio sample '1425961780847.wav'
+2015-03-10 00:29:44.936 Where Im At[92826:2556553] {"src":"1425961780847.wav","location":"Dumpling Kingdom","audio":{"id":"fd35adb3-581f-bc94-36c4-02e22fd50721","src":"1425961780847.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:29:44.937 Where Im At[92826:2556553] Finished recording audio sample '1425961780847.wav'
+2015-03-10 00:29:45.058 Where Im At[92826:2556553] THREAD WARNING: ['FileTransfer'] took '31.528076' ms. Plugin should use a background thread.
+2015-03-10 00:29:46.467 Where Im At[92826:2557060] File Transfer Finished with response code 200
+2015-03-10 00:29:52.325 Where Im At[92826:2556553] Will attempt to use file resource '(null)'
+2015-03-10 00:29:52.327 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:52.327 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:52.328 Where Im At[92826:2556553] Error in Success callbackId: Media1670546840 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:29:52.328 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:29:52.328 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:30:28.910 Where Im At[92826:2556553] Started recording audio sample '1425961828898.wav'
+2015-03-10 00:30:30.847 Where Im At[92826:2556553] Stopped recording audio sample '1425961828898.wav'
+2015-03-10 00:30:30.849 Where Im At[92826:2556553] {"src":"1425961828898.wav","location":"Dumpling Kingdom","audio":{"id":"f22b9b29-6f35-cee4-2a95-dc416fd35b53","src":"1425961828898.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:30:30.849 Where Im At[92826:2556553] Finished recording audio sample '1425961828898.wav'
+2015-03-10 00:30:31.368 Where Im At[92826:2556553] THREAD WARNING: ['FileTransfer'] took '429.271973' ms. Plugin should use a background thread.
+2015-03-10 00:30:32.086 Where Im At[92826:2557617] File Transfer Finished with response code 200
+2015-03-10 00:30:35.670 Where Im At[92826:2556553] Will attempt to use file resource '(null)'
+2015-03-10 00:30:35.672 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:30:35.672 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:30:35.672 Where Im At[92826:2556553] Error in Success callbackId: Media1670546847 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:30:35.672 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:30:35.672 Where Im At[92826:2556553] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:31:28.803 Where Im At[93081:2558442] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/9A09ECFD-93F7-4D6B-B509-1F412CC44B1C/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:31:28.993 Where Im At[93081:2558442] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:31:28.993 Where Im At[93081:2558442] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:31:28.995 Where Im At[93081:2558442] Unlimited access to network resources
+2015-03-10 00:31:28.997 Where Im At[93081:2558442] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:31:29.258 Where Im At[93081:2558442] [CDVTimer][file] 27.858973ms
+2015-03-10 00:31:29.259 Where Im At[93081:2558442] [CDVTimer][TotalPluginStartup] 28.200030ms
+2015-03-10 00:31:29.348 Where Im At[93081:2558442] Resetting plugins due to page load.
+2015-03-10 00:31:29.691 Where Im At[93081:2558442] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/AA733060-F707-45C6-A8CD-9CD70D23B6B8/Where%20Im%20At.app/www/index.html
+2015-03-10 00:31:40.282 Where Im At[93081:2558442] Started recording audio sample '1425961899923.wav'
+2015-03-10 00:31:40.283 Where Im At[93081:2558442] THREAD WARNING: ['Media'] took '353.912109' ms. Plugin should use a background thread.
+2015-03-10 00:31:42.475 Where Im At[93081:2558442] Stopped recording audio sample '1425961899923.wav'
+2015-03-10 00:31:42.476 Where Im At[93081:2558442] {"src":"1425961899923.wav","location":"Dumpling Kingdom","audio":{"id":"59887c2d-8828-2949-e17b-e29fbfd3b479","src":"1425961899923.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:31:42.477 Where Im At[93081:2558442] Finished recording audio sample '1425961899923.wav'
+2015-03-10 00:31:42.580 Where Im At[93081:2558442] THREAD WARNING: ['FileTransfer'] took '12.955811' ms. Plugin should use a background thread.
+2015-03-10 00:31:43.280 Where Im At[93081:2558485] File Transfer Finished with response code 200
+2015-03-10 00:31:56.378 Where Im At[93081:2558442] Will attempt to use file resource '(null)'
+2015-03-10 00:31:56.384 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:31:56.384 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:31:56.384 Where Im At[93081:2558442] Error in Success callbackId: Media1217295340 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:31:56.384 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:31:56.384 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:32:23.539 Where Im At[93081:2558442] Started recording audio sample '1425961943528.wav'
+2015-03-10 00:32:26.699 Where Im At[93081:2558442] Stopped recording audio sample '1425961943528.wav'
+2015-03-10 00:32:26.701 Where Im At[93081:2558442] {"src":"1425961943528.wav","location":"Dumpling Kingdom","audio":{"id":"df7b118d-e750-80cf-03ed-8e3960a696df","src":"1425961943528.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:32:26.701 Where Im At[93081:2558442] Finished recording audio sample '1425961943528.wav'
+2015-03-10 00:32:26.812 Where Im At[93081:2558442] THREAD WARNING: ['FileTransfer'] took '23.779053' ms. Plugin should use a background thread.
+2015-03-10 00:32:27.845 Where Im At[93081:2558940] File Transfer Finished with response code 200
+2015-03-10 00:32:34.281 Where Im At[93081:2558442] Will attempt to use file resource '(null)'
+2015-03-10 00:32:34.285 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:32:34.285 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:32:34.285 Where Im At[93081:2558442] Error in Success callbackId: Media1217295347 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:32:34.286 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:32:34.286 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:33:32.978 Where Im At[93081:2558442] Started recording audio sample '1425962012968.wav'
+2015-03-10 00:33:34.728 Where Im At[93081:2558442] Stopped recording audio sample '1425962012968.wav'
+2015-03-10 00:33:34.729 Where Im At[93081:2558442] {"src":"1425962012968.wav","location":"Dumpling Kingdom","audio":{"id":"cb0a9fa4-6883-2af3-ac08-5fff7930b654","src":"1425962012968.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:33:34.729 Where Im At[93081:2558442] Finished recording audio sample '1425962012968.wav'
+2015-03-10 00:33:34.845 Where Im At[93081:2558442] THREAD WARNING: ['FileTransfer'] took '15.988037' ms. Plugin should use a background thread.
+2015-03-10 00:33:35.537 Where Im At[93081:2559565] File Transfer Finished with response code 200
+2015-03-10 00:33:50.600 Where Im At[93081:2558442] Will attempt to use file resource '(null)'
+2015-03-10 00:33:50.603 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:33:50.603 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:33:50.603 Where Im At[93081:2558442] Error in Success callbackId: Media1217295354 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:33:50.604 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:33:50.604 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:34:43.867 Where Im At[93081:2558442] Started recording audio sample '1425962083856.wav'
+2015-03-10 00:34:46.176 Where Im At[93081:2558442] Stopped recording audio sample '1425962083856.wav'
+2015-03-10 00:34:46.177 Where Im At[93081:2558442] {"src":"1425962083856.wav","location":"Dumpling Kingdom","audio":{"id":"46e3c739-0ee2-b54a-50dc-9e8cf1bfad23","src":"1425962083856.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:34:46.178 Where Im At[93081:2558442] Finished recording audio sample '1425962083856.wav'
+2015-03-10 00:34:47.093 Where Im At[93081:2560429] File Transfer Finished with response code 200
+2015-03-10 00:34:51.530 Where Im At[93081:2558442] Will attempt to use file resource '(null)'
+2015-03-10 00:34:51.534 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:34:51.534 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:34:51.534 Where Im At[93081:2558442] Error in Success callbackId: Media1217295361 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:34:51.535 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:34:51.535 Where Im At[93081:2558442] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:37:08.066 Where Im At[93342:2561844] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/656E539F-8549-4313-8776-16EE9F7F9047/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:37:08.219 Where Im At[93342:2561844] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:37:08.219 Where Im At[93342:2561844] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:37:08.221 Where Im At[93342:2561844] Unlimited access to network resources
+2015-03-10 00:37:08.223 Where Im At[93342:2561844] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:37:08.464 Where Im At[93342:2561844] [CDVTimer][file] 21.994948ms
+2015-03-10 00:37:08.464 Where Im At[93342:2561844] [CDVTimer][TotalPluginStartup] 22.411048ms
+2015-03-10 00:37:08.545 Where Im At[93342:2561844] Resetting plugins due to page load.
+2015-03-10 00:37:08.873 Where Im At[93342:2561844] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/58BAEF5F-3CC9-4698-A012-ADC37FE6733C/Where%20Im%20At.app/www/index.html
+2015-03-10 00:37:09.587 Where Im At[93342:2561844] Started recording audio sample '1425962229467.wav'
+2015-03-10 00:37:09.587 Where Im At[93342:2561844] THREAD WARNING: ['Media'] took '94.291748' ms. Plugin should use a background thread.
+2015-03-10 00:37:11.790 Where Im At[93342:2561844] Stopped recording audio sample '1425962229467.wav'
+2015-03-10 00:37:11.791 Where Im At[93342:2561844] {"src":"1425962229467.wav","location":"Brad's","audio":{"id":"c34f5d20-8e6c-2248-700f-7e319aebf81b","src":"1425962229467.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:37:11.792 Where Im At[93342:2561844] Finished recording audio sample '1425962229467.wav'
+2015-03-10 00:37:11.900 Where Im At[93342:2561844] THREAD WARNING: ['FileTransfer'] took '16.479980' ms. Plugin should use a background thread.
+2015-03-10 00:37:12.616 Where Im At[93342:2561965] File Transfer Finished with response code 200
+2015-03-10 00:40:51.340 Where Im At[93602:2564370] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/0FF88648-1D87-42E3-808C-B804E4233CEC/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:40:51.518 Where Im At[93602:2564370] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:40:51.518 Where Im At[93602:2564370] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:40:51.520 Where Im At[93602:2564370] Unlimited access to network resources
+2015-03-10 00:40:51.522 Where Im At[93602:2564370] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:40:51.764 Where Im At[93602:2564370] [CDVTimer][file] 19.576013ms
+2015-03-10 00:40:51.764 Where Im At[93602:2564370] [CDVTimer][TotalPluginStartup] 19.911051ms
+2015-03-10 00:40:51.864 Where Im At[93602:2564370] Resetting plugins due to page load.
+2015-03-10 00:40:52.182 Where Im At[93602:2564370] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A37F0E4F-F7F8-4761-B762-89EB97F65E4A/Where%20Im%20At.app/www/index.html
+2015-03-10 00:40:53.136 Where Im At[93602:2564370] Started recording audio sample '1425962453009.wav'
+2015-03-10 00:40:53.137 Where Im At[93602:2564370] THREAD WARNING: ['Media'] took '104.067139' ms. Plugin should use a background thread.
+2015-03-10 00:40:55.343 Where Im At[93602:2564370] Stopped recording audio sample '1425962453009.wav'
+2015-03-10 00:40:55.344 Where Im At[93602:2564370] {"src":"1425962453009.wav","location":"Brad's","audio":{"id":"a4959c84-b6a5-084a-7794-6121b02dc54c","src":"1425962453009.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:40:55.344 Where Im At[93602:2564370] Finished recording audio sample '1425962453009.wav'
+2015-03-10 00:40:55.446 Where Im At[93602:2564370] THREAD WARNING: ['FileTransfer'] took '10.370850' ms. Plugin should use a background thread.
+2015-03-10 00:40:56.157 Where Im At[93602:2564422] File Transfer Finished with response code 200
+2015-03-10 00:41:00.984 Where Im At[93602:2564370] Will attempt to use file resource '(null)'
+2015-03-10 00:41:00.987 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:41:00.988 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:41:00.988 Where Im At[93602:2564370] Error in Success callbackId: Media156604785 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:41:00.988 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:41:00.988 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:41:54.461 Where Im At[93602:2564370] Started recording audio sample '1425962514446.wav'
+2015-03-10 00:41:54.462 Where Im At[93602:2564370] THREAD WARNING: ['Media'] took '12.549805' ms. Plugin should use a background thread.
+2015-03-10 00:41:56.761 Where Im At[93602:2564370] Stopped recording audio sample '1425962514446.wav'
+2015-03-10 00:41:56.762 Where Im At[93602:2564370] {"src":"1425962514446.wav","location":"Brad's","audio":{"id":"379bf3d9-8a50-e566-d4a2-2468c535d9a4","src":"1425962514446.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:41:56.762 Where Im At[93602:2564370] Finished recording audio sample '1425962514446.wav'
+2015-03-10 00:41:56.862 Where Im At[93602:2564370] THREAD WARNING: ['FileTransfer'] took '10.095947' ms. Plugin should use a background thread.
+2015-03-10 00:41:57.669 Where Im At[93602:2565234] File Transfer Finished with response code 200
+2015-03-10 00:42:03.470 Where Im At[93602:2564370] Will attempt to use file resource '(null)'
+2015-03-10 00:42:03.472 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:42:03.472 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:42:03.472 Where Im At[93602:2564370] Error in Success callbackId: Media156604792 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:42:03.473 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:42:03.473 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:12.675 Where Im At[93602:2564370] Started recording audio sample '1425962712656.wav'
+2015-03-10 00:45:15.171 Where Im At[93602:2564370] Stopped recording audio sample '1425962712656.wav'
+2015-03-10 00:45:15.172 Where Im At[93602:2564370] {"src":"1425962712656.wav","location":"Brad's","audio":{"id":"5e0dab6e-fa55-354c-e18d-2c9189a4fd8b","src":"1425962712656.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:45:15.173 Where Im At[93602:2564370] Finished recording audio sample '1425962712656.wav'
+2015-03-10 00:45:15.288 Where Im At[93602:2564370] THREAD WARNING: ['FileTransfer'] took '25.154785' ms. Plugin should use a background thread.
+2015-03-10 00:45:16.155 Where Im At[93602:2567044] File Transfer Finished with response code 200
+2015-03-10 00:45:21.878 Where Im At[93602:2564370] Will attempt to use file resource '(null)'
+2015-03-10 00:45:21.880 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:21.880 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:21.880 Where Im At[93602:2564370] Error in Success callbackId: Media156604799 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:45:21.880 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:21.880 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:40.643 Where Im At[93602:2564370] Started recording audio sample '1425962740629.wav'
+2015-03-10 00:45:40.645 Where Im At[93602:2564370] THREAD WARNING: ['Media'] took '12.104980' ms. Plugin should use a background thread.
+2015-03-10 00:45:43.848 Where Im At[93602:2564370] Stopped recording audio sample '1425962740629.wav'
+2015-03-10 00:45:43.849 Where Im At[93602:2564370] {"src":"1425962740629.wav","location":"Brad's","audio":{"id":"73d5e1ac-d45f-8908-9ca5-37bda286f0a4","src":"1425962740629.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:45:43.850 Where Im At[93602:2564370] Finished recording audio sample '1425962740629.wav'
+2015-03-10 00:45:44.989 Where Im At[93602:2567439] File Transfer Finished with response code 200
+2015-03-10 00:45:49.567 Where Im At[93602:2564370] Will attempt to use file resource '(null)'
+2015-03-10 00:45:49.569 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:49.569 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:49.569 Where Im At[93602:2564370] Error in Success callbackId: Media156604806 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:45:49.569 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:45:49.569 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:46:26.792 Where Im At[93602:2564370] Started recording audio sample '1425962786788.wav'
+2015-03-10 00:46:28.752 Where Im At[93602:2564370] Stopped recording audio sample '1425962786788.wav'
+2015-03-10 00:46:28.753 Where Im At[93602:2564370] {"src":"1425962786788.wav","location":"Brad's","audio":{"id":"5717fca2-ba20-0af8-3c13-af0212f85342","src":"1425962786788.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:46:28.754 Where Im At[93602:2564370] Finished recording audio sample '1425962786788.wav'
+2015-03-10 00:46:28.860 Where Im At[93602:2564370] THREAD WARNING: ['FileTransfer'] took '16.924805' ms. Plugin should use a background thread.
+2015-03-10 00:46:29.547 Where Im At[93602:2567971] File Transfer Finished with response code 200
+2015-03-10 00:46:35.256 Where Im At[93602:2564370] Will attempt to use file resource '(null)'
+2015-03-10 00:46:35.257 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:46:35.257 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:46:35.257 Where Im At[93602:2564370] Error in Success callbackId: Media156604813 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:46:35.257 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:46:35.258 Where Im At[93602:2564370] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:50:02.374 Where Im At[93858:2569786] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/2F91756D-84D6-4CF3-A423-3E066E230B16/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:50:02.515 Where Im At[93858:2569786] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:50:02.515 Where Im At[93858:2569786] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:50:02.518 Where Im At[93858:2569786] Unlimited access to network resources
+2015-03-10 00:50:02.521 Where Im At[93858:2569786] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:50:02.883 Where Im At[93858:2569786] [CDVTimer][file] 3.766000ms
+2015-03-10 00:50:02.884 Where Im At[93858:2569786] [CDVTimer][TotalPluginStartup] 4.109979ms
+2015-03-10 00:50:02.955 Where Im At[93858:2569786] Resetting plugins due to page load.
+2015-03-10 00:50:03.282 Where Im At[93858:2569786] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/AE85248F-BFDD-4B78-A49F-DEB948A9FAD4/Where%20Im%20At.app/www/index.html
+2015-03-10 00:50:08.615 Where Im At[93858:2569786] Started recording audio sample '1425963008545.wav'
+2015-03-10 00:50:08.616 Where Im At[93858:2569786] THREAD WARNING: ['Media'] took '68.803955' ms. Plugin should use a background thread.
+2015-03-10 00:50:09.978 Where Im At[93858:2569786] Stopped recording audio sample '1425963008545.wav'
+2015-03-10 00:50:09.979 Where Im At[93858:2569786] {"src":"1425963008545.wav","location":"Brad's","audio":{"id":"7b8a8610-15a1-adb7-a4b4-21d734bcc757","src":"1425963008545.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:50:09.979 Where Im At[93858:2569786] Finished recording audio sample '1425963008545.wav'
+2015-03-10 00:50:10.081 Where Im At[93858:2569786] THREAD WARNING: ['FileTransfer'] took '11.726074' ms. Plugin should use a background thread.
+2015-03-10 00:50:10.580 Where Im At[93858:2569816] File Transfer Finished with response code 200
+2015-03-10 00:50:25.420 Where Im At[93858:2569786] Will attempt to use file resource '(null)'
+2015-03-10 00:50:25.422 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:50:25.422 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:50:25.422 Where Im At[93858:2569786] Error in Success callbackId: Media1523832787 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:50:25.422 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:50:25.423 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:50:58.223 Where Im At[93858:2569786] Started recording audio sample '1425963058214.wav'
+2015-03-10 00:51:00.222 Where Im At[93858:2569786] Stopped recording audio sample '1425963058214.wav'
+2015-03-10 00:51:00.223 Where Im At[93858:2569786] {"src":"1425963058214.wav","location":"Brad's","audio":{"id":"c02a825e-5e85-bf0c-47ff-cdb4b3149d83","src":"1425963058214.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:51:00.223 Where Im At[93858:2569786] Finished recording audio sample '1425963058214.wav'
+2015-03-10 00:51:00.328 Where Im At[93858:2569786] THREAD WARNING: ['FileTransfer'] took '15.522949' ms. Plugin should use a background thread.
+2015-03-10 00:51:00.996 Where Im At[93858:2570606] File Transfer Finished with response code 200
+2015-03-10 00:51:06.393 Where Im At[93858:2569786] Will attempt to use file resource '(null)'
+2015-03-10 00:51:06.394 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:51:06.394 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:51:06.394 Where Im At[93858:2569786] Error in Success callbackId: Media1523832794 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:51:06.394 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:51:06.395 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:52:59.999 Where Im At[93858:2569786] Started recording audio sample '1425963179989.wav'
+2015-03-10 00:53:01.602 Where Im At[93858:2569786] Stopped recording audio sample '1425963179989.wav'
+2015-03-10 00:53:01.603 Where Im At[93858:2569786] {"src":"1425963179989.wav","location":"Brad's","audio":{"id":"bf4d8f5b-e2a5-c6c2-4d04-6ed344c10108","src":"1425963179989.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:53:01.604 Where Im At[93858:2569786] Finished recording audio sample '1425963179989.wav'
+2015-03-10 00:53:01.713 Where Im At[93858:2569786] THREAD WARNING: ['FileTransfer'] took '21.650146' ms. Plugin should use a background thread.
+2015-03-10 00:53:02.446 Where Im At[93858:2571496] File Transfer Finished with response code 200
+2015-03-10 00:53:13.171 Where Im At[93858:2569786] Will attempt to use file resource '(null)'
+2015-03-10 00:53:13.173 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:53:13.173 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:53:13.173 Where Im At[93858:2569786] Error in Success callbackId: Media1523832801 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:53:13.173 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:53:13.173 Where Im At[93858:2569786] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:56:57.374 Where Im At[94127:2573773] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/059ACC0D-C111-4B86-A0E3-A5E1126444FD/Library/Cookies/Cookies.binarycookies
+2015-03-10 00:56:57.583 Where Im At[94127:2573773] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 00:56:57.584 Where Im At[94127:2573773] Multi-tasking -> Device: YES, App: YES
+2015-03-10 00:56:57.585 Where Im At[94127:2573773] Unlimited access to network resources
+2015-03-10 00:56:57.588 Where Im At[94127:2573773] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 00:56:57.834 Where Im At[94127:2573773] [CDVTimer][file] 27.193010ms
+2015-03-10 00:56:57.834 Where Im At[94127:2573773] [CDVTimer][TotalPluginStartup] 27.520001ms
+2015-03-10 00:56:57.918 Where Im At[94127:2573773] Resetting plugins due to page load.
+2015-03-10 00:56:58.199 Where Im At[94127:2573773] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D5D12BE9-9C7B-4A19-8DCB-C0E4E137139C/Where%20Im%20At.app/www/index.html
+2015-03-10 00:57:20.623 Where Im At[94127:2573773] Started recording audio sample '1425963440488.wav'
+2015-03-10 00:57:20.624 Where Im At[94127:2573773] THREAD WARNING: ['Media'] took '130.487061' ms. Plugin should use a background thread.
+2015-03-10 00:57:22.478 Where Im At[94127:2573773] Stopped recording audio sample '1425963440488.wav'
+2015-03-10 00:57:22.479 Where Im At[94127:2573773] {"src":"1425963440488.wav","location":"Brad's","audio":{"id":"ef5d1823-79a6-003f-2887-25f16d1d7286","src":"1425963440488.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 00:57:22.479 Where Im At[94127:2573773] Finished recording audio sample '1425963440488.wav'
+2015-03-10 00:57:23.242 Where Im At[94127:2574231] File Transfer Finished with response code 200
+2015-03-10 00:57:28.735 Where Im At[94127:2573773] Will attempt to use file resource '(null)'
+2015-03-10 00:57:28.737 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:57:28.737 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:57:28.737 Where Im At[94127:2573773] Error in Success callbackId: Media89353554 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 00:57:28.737 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 00:57:28.737 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:02:33.008 Where Im At[94127:2573773] Started recording audio sample '1425963753002.wav'
+2015-03-10 01:02:35.335 Where Im At[94127:2573773] Stopped recording audio sample '1425963753002.wav'
+2015-03-10 01:02:35.337 Where Im At[94127:2573773] {"src":"1425963753002.wav","location":"Brad's","audio":{"id":"f37359aa-ab6e-bdfc-8922-b24b59411834","src":"1425963753002.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:02:35.337 Where Im At[94127:2573773] Finished recording audio sample '1425963753002.wav'
+2015-03-10 01:02:36.191 Where Im At[94127:2577137] File Transfer Finished with response code 200
+2015-03-10 01:02:41.146 Where Im At[94127:2573773] Will attempt to use file resource '(null)'
+2015-03-10 01:02:41.148 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:02:41.148 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:02:41.149 Where Im At[94127:2573773] Error in Success callbackId: Media89353561 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:02:41.149 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:02:41.149 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:02:56.332 Where Im At[94127:2573773] Started recording audio sample '1425963776325.wav'
+2015-03-10 01:02:58.239 Where Im At[94127:2573773] Stopped recording audio sample '1425963776325.wav'
+2015-03-10 01:02:58.240 Where Im At[94127:2573773] {"src":"1425963776325.wav","location":"Brad's","audio":{"id":"5eec45c8-d766-c90c-de25-ad93da79dce5","src":"1425963776325.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:02:58.241 Where Im At[94127:2573773] Finished recording audio sample '1425963776325.wav'
+2015-03-10 01:02:58.340 Where Im At[94127:2573773] THREAD WARNING: ['FileTransfer'] took '11.634033' ms. Plugin should use a background thread.
+2015-03-10 01:02:59.044 Where Im At[94127:2577446] File Transfer Finished with response code 200
+2015-03-10 01:03:03.736 Where Im At[94127:2573773] Will attempt to use file resource '(null)'
+2015-03-10 01:03:03.738 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:03:03.738 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:03:03.738 Where Im At[94127:2573773] Error in Success callbackId: Media89353568 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:03:03.738 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:03:03.738 Where Im At[94127:2573773] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:03:43.186 Where Im At[94407:2578661] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/FBEB0F02-0BBB-4E46-8D6A-54E3621CBF2E/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:03:43.366 Where Im At[94407:2578661] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:03:43.367 Where Im At[94407:2578661] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:03:43.368 Where Im At[94407:2578661] Unlimited access to network resources
+2015-03-10 01:03:43.386 Where Im At[94407:2578661] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:03:43.625 Where Im At[94407:2578661] [CDVTimer][file] 26.392996ms
+2015-03-10 01:03:43.625 Where Im At[94407:2578661] [CDVTimer][TotalPluginStartup] 26.849985ms
+2015-03-10 01:03:43.711 Where Im At[94407:2578661] Resetting plugins due to page load.
+2015-03-10 01:03:44.126 Where Im At[94407:2578661] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A27C0AC1-F575-40D5-9616-F554E987449B/Where%20Im%20At.app/www/index.html
+2015-03-10 01:03:55.340 Where Im At[94407:2578661] Started recording audio sample '1425963835213.wav'
+2015-03-10 01:03:55.341 Where Im At[94407:2578661] THREAD WARNING: ['Media'] took '115.720215' ms. Plugin should use a background thread.
+2015-03-10 01:03:56.865 Where Im At[94407:2578661] Stopped recording audio sample '1425963835213.wav'
+2015-03-10 01:03:56.866 Where Im At[94407:2578661] {"src":"1425963835213.wav","location":"Brad's","audio":{"id":"80f8227a-1089-203f-99f2-9dab8add1d76","src":"1425963835213.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:03:56.866 Where Im At[94407:2578661] Finished recording audio sample '1425963835213.wav'
+2015-03-10 01:03:56.964 Where Im At[94407:2578661] THREAD WARNING: ['FileTransfer'] took '10.833008' ms. Plugin should use a background thread.
+2015-03-10 01:03:57.542 Where Im At[94407:2578914] File Transfer Finished with response code 200
+2015-03-10 01:04:02.649 Where Im At[94407:2578661] Will attempt to use file resource '(null)'
+2015-03-10 01:04:02.651 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:02.651 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:02.652 Where Im At[94407:2578661] Error in Success callbackId: Media730455776 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:04:02.652 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:02.652 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:48.616 Where Im At[94407:2578661] Started recording audio sample '1425963888607.wav'
+2015-03-10 01:04:50.898 Where Im At[94407:2578661] Stopped recording audio sample '1425963888607.wav'
+2015-03-10 01:04:50.900 Where Im At[94407:2578661] {"src":"1425963888607.wav","location":"Brad's","audio":{"id":"4f7c3434-8ca6-c12d-b05e-ceeb36d8b9d9","src":"1425963888607.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:04:50.900 Where Im At[94407:2578661] Finished recording audio sample '1425963888607.wav'
+2015-03-10 01:04:51.001 Where Im At[94407:2578661] THREAD WARNING: ['FileTransfer'] took '11.260010' ms. Plugin should use a background thread.
+2015-03-10 01:04:51.800 Where Im At[94407:2579567] File Transfer Finished with response code 200
+2015-03-10 01:04:57.537 Where Im At[94407:2578661] Will attempt to use file resource '(null)'
+2015-03-10 01:04:57.538 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:57.539 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:57.539 Where Im At[94407:2578661] Error in Success callbackId: Media730455783 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:04:57.539 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:04:57.539 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:05:18.454 Where Im At[94407:2578661] Started recording audio sample '1425963918448.wav'
+2015-03-10 01:05:20.838 Where Im At[94407:2578661] Stopped recording audio sample '1425963918448.wav'
+2015-03-10 01:05:20.840 Where Im At[94407:2578661] {"src":"1425963918448.wav","location":"Brad's","audio":{"id":"bccd0716-6206-cd73-bafd-acb48ec2a0d0","src":"1425963918448.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:05:20.840 Where Im At[94407:2578661] Finished recording audio sample '1425963918448.wav'
+2015-03-10 01:05:20.950 Where Im At[94407:2578661] THREAD WARNING: ['FileTransfer'] took '18.833252' ms. Plugin should use a background thread.
+2015-03-10 01:05:21.712 Where Im At[94407:2579833] File Transfer Finished with response code 200
+2015-03-10 01:05:28.284 Where Im At[94407:2578661] Will attempt to use file resource '(null)'
+2015-03-10 01:05:28.287 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:05:28.287 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:05:28.287 Where Im At[94407:2578661] Error in Success callbackId: Media730455790 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:05:28.288 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:05:28.288 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:06:03.453 Where Im At[94407:2578661] Started recording audio sample '1425963963443.wav'
+2015-03-10 01:06:04.961 Where Im At[94407:2578661] Stopped recording audio sample '1425963963443.wav'
+2015-03-10 01:06:04.962 Where Im At[94407:2578661] {"src":"1425963963443.wav","location":"Brad's","audio":{"id":"6bbcaf83-f29c-42d2-3988-110d2ae40933","src":"1425963963443.wav","_duration":-1,"_position":-1},"user":"notLoggedIn"}
+2015-03-10 01:06:04.962 Where Im At[94407:2578661] Finished recording audio sample '1425963963443.wav'
+2015-03-10 01:06:05.070 Where Im At[94407:2578661] THREAD WARNING: ['FileTransfer'] took '19.975830' ms. Plugin should use a background thread.
+2015-03-10 01:06:05.650 Where Im At[94407:2580328] File Transfer Finished with response code 200
+2015-03-10 01:06:11.110 Where Im At[94407:2578661] Will attempt to use file resource '(null)'
+2015-03-10 01:06:11.111 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:06:11.111 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:06:11.112 Where Im At[94407:2578661] Error in Success callbackId: Media730455797 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:06:11.112 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:06:11.112 Where Im At[94407:2578661] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:10:10.310 Where Im At[94667:2583031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/FBAD8A2D-B2BF-43E4-B343-DF2732C4B3A9/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:10:10.516 Where Im At[94667:2583031] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:10:10.517 Where Im At[94667:2583031] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:10:10.519 Where Im At[94667:2583031] Unlimited access to network resources
+2015-03-10 01:10:10.536 Where Im At[94667:2583031] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:10:10.774 Where Im At[94667:2583031] [CDVTimer][file] 19.460022ms
+2015-03-10 01:10:10.774 Where Im At[94667:2583031] [CDVTimer][TotalPluginStartup] 19.786000ms
+2015-03-10 01:10:10.860 Where Im At[94667:2583031] Resetting plugins due to page load.
+2015-03-10 01:10:11.179 Where Im At[94667:2583031] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/801BEDA9-534B-48EA-BCE8-EBC2638EA9B7/Where%20Im%20At.app/www/index.html
+2015-03-10 01:10:12.241 Where Im At[94667:2583031] Started recording audio sample '1425964212070.wav'
+2015-03-10 01:10:12.242 Where Im At[94667:2583031] THREAD WARNING: ['Media'] took '167.962158' ms. Plugin should use a background thread.
+2015-03-10 01:10:14.494 Where Im At[94667:2583031] Stopped recording audio sample '1425964212070.wav'
+2015-03-10 01:10:14.960 Where Im At[94667:2583031] THREAD WARNING: ['Media'] took '465.600098' ms. Plugin should use a background thread.
+2015-03-10 01:10:14.960 Where Im At[94667:2583031] Finished recording audio sample '1425964212070.wav'
+2015-03-10 01:10:15.292 Where Im At[94667:2583031] THREAD WARNING: ['FileTransfer'] took '326.812012' ms. Plugin should use a background thread.
+2015-03-10 01:10:16.074 Where Im At[94667:2583081] File Transfer Finished with response code 200
+2015-03-10 01:11:52.818 Where Im At[94667:2583031] Started recording audio sample '1425964312804.wav'
+2015-03-10 01:11:52.848 Where Im At[94667:2583031] THREAD WARNING: ['Media'] took '41.531006' ms. Plugin should use a background thread.
+2015-03-10 01:11:54.763 Where Im At[94667:2583031] Stopped recording audio sample '1425964312804.wav'
+2015-03-10 01:11:54.764 Where Im At[94667:2583031] Finished recording audio sample '1425964312804.wav'
+2015-03-10 01:11:54.860 Where Im At[94667:2583031] THREAD WARNING: ['FileTransfer'] took '11.000732' ms. Plugin should use a background thread.
+2015-03-10 01:11:55.496 Where Im At[94667:2584290] File Transfer Finished with response code 200
+2015-03-10 01:13:01.955 Where Im At[94667:2583031] Started recording audio sample '1425964381946.wav'
+2015-03-10 01:13:03.502 Where Im At[94667:2583031] Stopped recording audio sample '1425964381946.wav'
+2015-03-10 01:13:03.504 Where Im At[94667:2583031] Finished recording audio sample '1425964381946.wav'
+2015-03-10 01:13:03.607 Where Im At[94667:2583031] THREAD WARNING: ['FileTransfer'] took '11.098145' ms. Plugin should use a background thread.
+2015-03-10 01:13:04.141 Where Im At[94667:2584947] File Transfer Finished with response code 200
+2015-03-10 01:14:51.012 Where Im At[94924:2586249] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/375E8139-F6BB-4DD5-9F1F-07ECDA8B27ED/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:14:51.206 Where Im At[94924:2586249] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:14:51.206 Where Im At[94924:2586249] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:14:51.208 Where Im At[94924:2586249] Unlimited access to network resources
+2015-03-10 01:14:51.229 Where Im At[94924:2586249] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:14:51.532 Where Im At[94924:2586249] [CDVTimer][file] 19.526958ms
+2015-03-10 01:14:51.532 Where Im At[94924:2586249] [CDVTimer][TotalPluginStartup] 19.719005ms
+2015-03-10 01:14:51.622 Where Im At[94924:2586249] Resetting plugins due to page load.
+2015-03-10 01:14:52.012 Where Im At[94924:2586249] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/5A9A5F7B-0D54-45BD-9ECA-B3E8B3FCC34B/Where%20Im%20At.app/www/index.html
+2015-03-10 01:14:52.923 Where Im At[94924:2586249] Started recording audio sample '1425964492798.wav'
+2015-03-10 01:14:52.923 Where Im At[94924:2586249] THREAD WARNING: ['Media'] took '98.744873' ms. Plugin should use a background thread.
+2015-03-10 01:14:54.128 Where Im At[94924:2586249] Stopped recording audio sample '1425964492798.wav'
+2015-03-10 01:14:54.129 Where Im At[94924:2586249] Finished recording audio sample '1425964492798.wav'
+2015-03-10 01:14:54.229 Where Im At[94924:2586249] THREAD WARNING: ['FileTransfer'] took '11.941895' ms. Plugin should use a background thread.
+2015-03-10 01:14:54.682 Where Im At[94924:2586287] File Transfer Finished with response code 200
+2015-03-10 01:15:42.845 Where Im At[94924:2586249] Started recording audio sample '1425964542841.wav'
+2015-03-10 01:15:44.906 Where Im At[94924:2586249] Stopped recording audio sample '1425964542841.wav'
+2015-03-10 01:15:44.907 Where Im At[94924:2586249] Finished recording audio sample '1425964542841.wav'
+2015-03-10 01:15:45.014 Where Im At[94924:2586249] THREAD WARNING: ['FileTransfer'] took '17.372314' ms. Plugin should use a background thread.
+2015-03-10 01:15:45.719 Where Im At[94924:2586973] File Transfer Finished with response code 200
+2015-03-10 01:16:53.703 Where Im At[95185:2588308] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/5BF3292B-45C9-443C-9574-C6B66FE59C08/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:16:53.912 Where Im At[95185:2588308] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:16:53.912 Where Im At[95185:2588308] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:16:53.915 Where Im At[95185:2588308] Unlimited access to network resources
+2015-03-10 01:16:53.937 Where Im At[95185:2588308] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:16:54.187 Where Im At[95185:2588308] [CDVTimer][file] 27.096987ms
+2015-03-10 01:16:54.187 Where Im At[95185:2588308] [CDVTimer][TotalPluginStartup] 27.533948ms
+2015-03-10 01:16:54.269 Where Im At[95185:2588308] Resetting plugins due to page load.
+2015-03-10 01:16:54.601 Where Im At[95185:2588308] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/514CB8D3-8CD3-46BF-A558-2BE1363B5251/Where%20Im%20At.app/www/index.html
+2015-03-10 01:16:55.453 Where Im At[95185:2588308] Started recording audio sample '1425964615313.wav'
+2015-03-10 01:16:55.454 Where Im At[95185:2588308] THREAD WARNING: ['Media'] took '116.386963' ms. Plugin should use a background thread.
+2015-03-10 01:16:57.726 Where Im At[95185:2588308] Stopped recording audio sample '1425964615313.wav'
+2015-03-10 01:16:57.728 Where Im At[95185:2588308] Finished recording audio sample '1425964615313.wav'
+2015-03-10 01:16:57.851 Where Im At[95185:2588308] THREAD WARNING: ['FileTransfer'] took '31.358398' ms. Plugin should use a background thread.
+2015-03-10 01:16:58.607 Where Im At[95185:2588349] File Transfer Finished with response code 200
+2015-03-10 01:17:13.866 Where Im At[95185:2588308] Started recording audio sample '1425964633861.wav'
+2015-03-10 01:17:15.579 Where Im At[95185:2588308] Stopped recording audio sample '1425964633861.wav'
+2015-03-10 01:17:15.581 Where Im At[95185:2588308] Finished recording audio sample '1425964633861.wav'
+2015-03-10 01:17:15.975 Where Im At[95185:2588308] THREAD WARNING: ['FileTransfer'] took '306.450928' ms. Plugin should use a background thread.
+2015-03-10 01:17:16.553 Where Im At[95185:2588587] File Transfer Finished with response code 200
+2015-03-10 01:23:48.520 Where Im At[95446:2591709] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/15F7B4E2-C2C8-4732-B92C-F9AD3E6D3F8E/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:23:48.712 Where Im At[95446:2591709] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:23:48.712 Where Im At[95446:2591709] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:23:48.714 Where Im At[95446:2591709] Unlimited access to network resources
+2015-03-10 01:23:48.739 Where Im At[95446:2591709] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:23:48.969 Where Im At[95446:2591709] [CDVTimer][file] 15.139997ms
+2015-03-10 01:23:48.969 Where Im At[95446:2591709] [CDVTimer][TotalPluginStartup] 15.534997ms
+2015-03-10 01:23:49.054 Where Im At[95446:2591709] Resetting plugins due to page load.
+2015-03-10 01:23:49.393 Where Im At[95446:2591709] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/921214C7-9F24-4D0D-94FB-957BF15196E7/Where%20Im%20At.app/www/index.html
+2015-03-10 01:24:23.940 Where Im At[95694:2592623] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/BBBC23AD-FF97-4022-8654-24FCA180A4B4/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:24:24.085 Where Im At[95694:2592623] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:24:24.085 Where Im At[95694:2592623] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:24:24.088 Where Im At[95694:2592623] Unlimited access to network resources
+2015-03-10 01:24:24.107 Where Im At[95694:2592623] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:24:24.333 Where Im At[95694:2592623] [CDVTimer][file] 12.179971ms
+2015-03-10 01:24:24.333 Where Im At[95694:2592623] [CDVTimer][TotalPluginStartup] 12.516022ms
+2015-03-10 01:24:24.423 Where Im At[95694:2592623] Resetting plugins due to page load.
+2015-03-10 01:24:24.738 Where Im At[95694:2592623] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/70D50393-158C-48C7-830C-5C5CAA6FF2D4/Where%20Im%20At.app/www/index.html
+2015-03-10 01:24:47.254 Where Im At[95942:2593402] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/C436FEB3-A6D9-4884-88F1-9B8983C8A6D4/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:24:47.343 Where Im At[95942:2593402] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:24:47.343 Where Im At[95942:2593402] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:24:47.345 Where Im At[95942:2593402] Unlimited access to network resources
+2015-03-10 01:24:47.347 Where Im At[95942:2593402] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:24:47.564 Where Im At[95942:2593402] [CDVTimer][file] 2.752006ms
+2015-03-10 01:24:47.564 Where Im At[95942:2593402] [CDVTimer][TotalPluginStartup] 2.937019ms
+2015-03-10 01:24:47.615 Where Im At[95942:2593402] Resetting plugins due to page load.
+2015-03-10 01:24:47.933 Where Im At[95942:2593402] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/D6CC005E-A790-4CFD-B599-40851DA00A1D/Where%20Im%20At.app/www/index.html
+2015-03-10 01:24:47.982 Where Im At[95942:2593402] THREAD WARNING: ['Geolocation'] took '13.773193' ms. Plugin should use a background thread.
+2015-03-10 01:24:50.353 Where Im At[95942:2593402] Started recording audio sample '1425965089205.wav'
+2015-03-10 01:24:50.354 Where Im At[95942:2593402] THREAD WARNING: ['Media'] took '1146.569092' ms. Plugin should use a background thread.
+2015-03-10 01:24:50.357 Where Im At[95942:2593402] Stopped recording audio sample '1425965089205.wav'
+2015-03-10 01:24:50.365 Where Im At[95942:2593402] Started recording audio sample '1425965090361.wav'
+2015-03-10 01:24:50.366 Where Im At[95942:2593402] Finished recording audio sample '1425965089205.wav'
+2015-03-10 01:24:50.494 Where Im At[95942:2593402] Stopped recording audio sample '1425965090361.wav'
+2015-03-10 01:24:50.495 Where Im At[95942:2593402] Finished recording audio sample '1425965090361.wav'
+2015-03-10 01:24:50.574 Where Im At[95942:2593465] File Transfer Finished with response code 200
+2015-03-10 01:24:52.254 Where Im At[95942:2593402] THREAD WARNING: ['FileTransfer'] took '13.024902' ms. Plugin should use a background thread.
+2015-03-10 01:24:52.422 Where Im At[95942:2593443] File Transfer Finished with response code 200
+2015-03-10 01:24:56.205 Where Im At[95942:2593402] Started recording audio sample '1425965096198.wav'
+2015-03-10 01:24:56.292 Where Im At[95942:2593402] Stopped recording audio sample '1425965096198.wav'
+2015-03-10 01:24:56.293 Where Im At[95942:2593402] Finished recording audio sample '1425965096198.wav'
+2015-03-10 01:24:56.462 Where Im At[95942:2593464] File Transfer Finished with response code 200
+2015-03-10 01:25:01.371 Where Im At[95942:2593402] Started recording audio sample '1425965101363.wav'
+2015-03-10 01:25:04.013 Where Im At[95942:2593402] Stopped recording audio sample '1425965101363.wav'
+2015-03-10 01:25:04.014 Where Im At[95942:2593402] Finished recording audio sample '1425965101363.wav'
+2015-03-10 01:25:04.117 Where Im At[95942:2593402] THREAD WARNING: ['FileTransfer'] took '13.210205' ms. Plugin should use a background thread.
+2015-03-10 01:25:05.045 Where Im At[95942:2593747] File Transfer Finished with response code 200
+2015-03-10 01:25:57.376 Where Im At[96198:2594709] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/DC5375EE-CEF7-4D6B-844C-89FD3161CD97/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:25:57.637 Where Im At[96198:2594709] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:25:57.638 Where Im At[96198:2594709] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:25:57.639 Where Im At[96198:2594709] Unlimited access to network resources
+2015-03-10 01:25:57.664 Where Im At[96198:2594709] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:25:57.920 Where Im At[96198:2594709] [CDVTimer][file] 27.305007ms
+2015-03-10 01:25:57.921 Where Im At[96198:2594709] [CDVTimer][TotalPluginStartup] 27.634978ms
+2015-03-10 01:25:58.004 Where Im At[96198:2594709] Resetting plugins due to page load.
+2015-03-10 01:25:58.340 Where Im At[96198:2594709] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/1610BB35-43B8-4F69-94DE-A166F1E10AF5/Where%20Im%20At.app/www/index.html
+2015-03-10 01:26:31.079 Where Im At[96445:2595662] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/E40AFD4C-193D-4FCB-A6B8-E4E80D8E4F61/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:26:31.219 Where Im At[96445:2595662] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:26:31.219 Where Im At[96445:2595662] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:26:31.222 Where Im At[96445:2595662] Unlimited access to network resources
+2015-03-10 01:26:31.225 Where Im At[96445:2595662] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:26:31.580 Where Im At[96445:2595662] [CDVTimer][file] 2.412021ms
+2015-03-10 01:26:31.580 Where Im At[96445:2595662] [CDVTimer][TotalPluginStartup] 2.600014ms
+2015-03-10 01:26:31.631 Where Im At[96445:2595662] Resetting plugins due to page load.
+2015-03-10 01:26:31.943 Where Im At[96445:2595662] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FEC0B5AB-1C22-430B-B27A-B1195C7379E8/Where%20Im%20At.app/www/index.html
+2015-03-10 01:26:38.926 Where Im At[96445:2595662] Started recording audio sample '1425965197807.wav'
+2015-03-10 01:26:38.927 Where Im At[96445:2595662] THREAD WARNING: ['Media'] took '1114.302734' ms. Plugin should use a background thread.
+2015-03-10 01:26:38.934 Where Im At[96445:2595662] Stopped recording audio sample '1425965197807.wav'
+2015-03-10 01:26:38.937 Where Im At[96445:2595662] Finished recording audio sample '1425965197807.wav'
+2015-03-10 01:26:39.123 Where Im At[96445:2595662] Started recording audio sample '1425965199110.wav'
+2015-03-10 01:26:39.158 Where Im At[96445:2595712] File Transfer Finished with response code 200
+2015-03-10 01:26:52.327 Where Im At[96445:2595662] Stopped recording audio sample '1425965199110.wav'
+2015-03-10 01:26:52.328 Where Im At[96445:2595662] Finished recording audio sample '1425965199110.wav'
+2015-03-10 01:26:52.536 Where Im At[96445:2595662] THREAD WARNING: ['FileTransfer'] took '107.883301' ms. Plugin should use a background thread.
+2015-03-10 01:26:56.261 Where Im At[96445:2596025] File Transfer Finished with response code 200
+2015-03-10 01:27:02.528 Where Im At[96445:2595662] Started recording audio sample '1425965222520.wav'
+2015-03-10 01:27:04.996 Where Im At[96445:2595662] Stopped recording audio sample '1425965222520.wav'
+2015-03-10 01:27:04.998 Where Im At[96445:2595662] Finished recording audio sample '1425965222520.wav'
+2015-03-10 01:27:05.903 Where Im At[96445:2596219] File Transfer Finished with response code 200
+2015-03-10 01:39:50.333 Where Im At[96718:2601206] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/03EE6024-B663-4F39-A271-1CA40B6A5BBE/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:39:50.415 Where Im At[96718:2601206] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:39:50.415 Where Im At[96718:2601206] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:39:50.417 Where Im At[96718:2601206] Unlimited access to network resources
+2015-03-10 01:39:50.419 Where Im At[96718:2601206] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:39:50.628 Where Im At[96718:2601206] [CDVTimer][file] 2.708018ms
+2015-03-10 01:39:50.629 Where Im At[96718:2601206] [CDVTimer][TotalPluginStartup] 2.893984ms
+2015-03-10 01:39:50.677 Where Im At[96718:2601206] Resetting plugins due to page load.
+2015-03-10 01:39:50.972 Where Im At[96718:2601206] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/4F309192-9705-41D4-BCB9-68D8A2FDEE43/Where%20Im%20At.app/www/index.html
+2015-03-10 01:40:20.864 Where Im At[96971:2602187] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/6CA63717-222C-49FF-8A27-E50B33A69450/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:40:20.965 Where Im At[96971:2602187] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:40:20.965 Where Im At[96971:2602187] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:40:20.967 Where Im At[96971:2602187] Unlimited access to network resources
+2015-03-10 01:40:20.970 Where Im At[96971:2602187] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:40:21.263 Where Im At[96971:2602187] [CDVTimer][file] 2.638996ms
+2015-03-10 01:40:21.263 Where Im At[96971:2602187] [CDVTimer][TotalPluginStartup] 2.855003ms
+2015-03-10 01:40:21.327 Where Im At[96971:2602187] Resetting plugins due to page load.
+2015-03-10 01:40:21.760 Where Im At[96971:2602187] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/130EFBA0-0F74-4104-AF63-7F4D6CD8EFF5/Where%20Im%20At.app/www/index.html
+2015-03-10 01:40:35.231 Where Im At[96971:2602187] Started recording audio sample '1425966034150.wav'
+2015-03-10 01:40:35.232 Where Im At[96971:2602187] THREAD WARNING: ['Media'] took '1077.348877' ms. Plugin should use a background thread.
+2015-03-10 01:40:35.235 Where Im At[96971:2602187] Stopped recording audio sample '1425966034150.wav'
+2015-03-10 01:40:35.254 Where Im At[96971:2602187] Started recording audio sample '1425966035240.wav'
+2015-03-10 01:40:35.254 Where Im At[96971:2602187] THREAD WARNING: ['Media'] took '12.250244' ms. Plugin should use a background thread.
+2015-03-10 01:40:35.254 Where Im At[96971:2602187] Finished recording audio sample '1425966034150.wav'
+2015-03-10 01:40:35.308 Where Im At[96971:2602187] Stopped recording audio sample '1425966035240.wav'
+2015-03-10 01:40:35.308 Where Im At[96971:2602187] Finished recording audio sample '1425966035240.wav'
+2015-03-10 01:40:35.450 Where Im At[96971:2602288] File Transfer Finished with response code 200
+2015-03-10 01:40:35.549 Where Im At[96971:2602248] File Transfer Finished with response code 200
+2015-03-10 01:40:55.560 Where Im At[96971:2602187] Started recording audio sample '1425966055552.wav'
+2015-03-10 01:40:57.868 Where Im At[96971:2602187] Stopped recording audio sample '1425966055552.wav'
+2015-03-10 01:40:57.870 Where Im At[96971:2602187] Finished recording audio sample '1425966055552.wav'
+2015-03-10 01:40:57.976 Where Im At[96971:2602187] THREAD WARNING: ['FileTransfer'] took '16.785889' ms. Plugin should use a background thread.
+2015-03-10 01:40:58.761 Where Im At[96971:2602682] File Transfer Finished with response code 200
+2015-03-10 01:41:27.452 Where Im At[96971:2602187] Started recording audio sample '1425966087439.wav'
+2015-03-10 01:41:27.452 Where Im At[96971:2602187] THREAD WARNING: ['Media'] took '11.272949' ms. Plugin should use a background thread.
+2015-03-10 01:41:30.185 Where Im At[96971:2602187] Stopped recording audio sample '1425966087439.wav'
+2015-03-10 01:41:30.186 Where Im At[96971:2602187] Finished recording audio sample '1425966087439.wav'
+2015-03-10 01:41:30.296 Where Im At[96971:2602187] THREAD WARNING: ['FileTransfer'] took '20.866211' ms. Plugin should use a background thread.
+2015-03-10 01:41:31.301 Where Im At[96971:2603066] File Transfer Finished with response code 200
+2015-03-10 01:48:48.719 Where Im At[97229:2606594] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/5E44C3F8-FD64-46DA-A17E-5DE1A3819066/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:48:48.911 Where Im At[97229:2606594] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:48:48.912 Where Im At[97229:2606594] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:48:48.913 Where Im At[97229:2606594] Unlimited access to network resources
+2015-03-10 01:48:48.936 Where Im At[97229:2606594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:48:49.159 Where Im At[97229:2606594] [CDVTimer][file] 11.861026ms
+2015-03-10 01:48:49.160 Where Im At[97229:2606594] [CDVTimer][TotalPluginStartup] 12.190998ms
+2015-03-10 01:48:49.252 Where Im At[97229:2606594] Resetting plugins due to page load.
+2015-03-10 01:48:49.587 Where Im At[97229:2606594] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/FE822B96-4B79-4388-9ECB-F1FC525E437A/Where%20Im%20At.app/www/index.html
+2015-03-10 01:48:59.896 Where Im At[97229:2606594] Started recording audio sample '1425966539700.wav'
+2015-03-10 01:48:59.897 Where Im At[97229:2606594] THREAD WARNING: ['Media'] took '190.928955' ms. Plugin should use a background thread.
+2015-03-10 01:49:01.173 Where Im At[97229:2606594] Stopped recording audio sample '1425966539700.wav'
+2015-03-10 01:49:01.174 Where Im At[97229:2606594] Finished recording audio sample '1425966539700.wav'
+2015-03-10 01:49:01.277 Where Im At[97229:2606594] THREAD WARNING: ['FileTransfer'] took '14.370850' ms. Plugin should use a background thread.
+2015-03-10 01:49:01.742 Where Im At[97229:2606784] File Transfer Finished with response code 200
+2015-03-10 01:49:04.787 Where Im At[97229:2606594] Will attempt to use file resource '(null)'
+2015-03-10 01:49:04.790 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:04.790 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:04.790 Where Im At[97229:2606594] Error in Success callbackId: Media1750319447 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:49:04.790 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:04.790 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:49.248 Where Im At[97229:2606594] Started recording audio sample '1425966589235.wav'
+2015-03-10 01:49:49.248 Where Im At[97229:2606594] THREAD WARNING: ['Media'] took '11.722900' ms. Plugin should use a background thread.
+2015-03-10 01:49:51.503 Where Im At[97229:2606594] Stopped recording audio sample '1425966589235.wav'
+2015-03-10 01:49:51.504 Where Im At[97229:2606594] Finished recording audio sample '1425966589235.wav'
+2015-03-10 01:49:51.618 Where Im At[97229:2606594] THREAD WARNING: ['FileTransfer'] took '21.708984' ms. Plugin should use a background thread.
+2015-03-10 01:49:52.360 Where Im At[97229:2607436] File Transfer Finished with response code 200
+2015-03-10 01:49:55.665 Where Im At[97229:2606594] Will attempt to use file resource '(null)'
+2015-03-10 01:49:55.667 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:55.667 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:55.667 Where Im At[97229:2606594] Error in Success callbackId: Media1750319454 : TypeError: undefined is not a function (evaluating 'success(p)')
+2015-03-10 01:49:55.667 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:49:55.668 Where Im At[97229:2606594] ERROR: Received Media.onStatus callback for unknown media :: (null)
+2015-03-10 01:50:46.890 Where Im At[97481:2608302] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/9C0A47B0-D8A2-4956-9496-7843324B28BE/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:50:47.036 Where Im At[97481:2608302] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:50:47.036 Where Im At[97481:2608302] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:50:47.039 Where Im At[97481:2608302] Unlimited access to network resources
+2015-03-10 01:50:47.043 Where Im At[97481:2608302] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:50:47.300 Where Im At[97481:2608302] [CDVTimer][file] 2.349019ms
+2015-03-10 01:50:47.300 Where Im At[97481:2608302] [CDVTimer][TotalPluginStartup] 2.532005ms
+2015-03-10 01:50:47.354 Where Im At[97481:2608302] Resetting plugins due to page load.
+2015-03-10 01:50:47.685 Where Im At[97481:2608302] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/130A2716-6DAE-4D0E-8F2C-2B71373847BF/Where%20Im%20At.app/www/index.html
+2015-03-10 01:50:48.802 Where Im At[97481:2608302] Started recording audio sample '1425966648730.wav'
+2015-03-10 01:50:48.803 Where Im At[97481:2608302] THREAD WARNING: ['Media'] took '69.051025' ms. Plugin should use a background thread.
+2015-03-10 01:50:50.354 Where Im At[97481:2608302] Stopped recording audio sample '1425966648730.wav'
+2015-03-10 01:50:50.356 Where Im At[97481:2608302] Finished recording audio sample '1425966648730.wav'
+2015-03-10 01:50:51.001 Where Im At[97481:2608321] File Transfer Finished with response code 200
+2015-03-10 01:51:29.030 Where Im At[97481:2608302] Started recording audio sample '1425966689020.wav'
+2015-03-10 01:51:30.501 Where Im At[97481:2608302] Stopped recording audio sample '1425966689020.wav'
+2015-03-10 01:51:30.502 Where Im At[97481:2608302] Finished recording audio sample '1425966689020.wav'
+2015-03-10 01:51:31.108 Where Im At[97481:2608815] File Transfer Finished with response code 200
+2015-03-10 01:51:54.293 Where Im At[97481:2608302] Started recording audio sample '1425966714282.wav'
+2015-03-10 01:51:56.025 Where Im At[97481:2608302] Stopped recording audio sample '1425966714282.wav'
+2015-03-10 01:51:56.026 Where Im At[97481:2608302] Finished recording audio sample '1425966714282.wav'
+2015-03-10 01:51:56.816 Where Im At[97481:2609193] File Transfer Finished with response code 200
+2015-03-10 01:54:11.422 Where Im At[97745:2610883] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/6BB97AC8-6E24-4FC6-8329-B557EC69EB29/Library/Cookies/Cookies.binarycookies
+2015-03-10 01:54:11.568 Where Im At[97745:2610883] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 01:54:11.569 Where Im At[97745:2610883] Multi-tasking -> Device: YES, App: YES
+2015-03-10 01:54:11.571 Where Im At[97745:2610883] Unlimited access to network resources
+2015-03-10 01:54:11.575 Where Im At[97745:2610883] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 01:54:11.853 Where Im At[97745:2610883] [CDVTimer][file] 2.398014ms
+2015-03-10 01:54:11.854 Where Im At[97745:2610883] [CDVTimer][TotalPluginStartup] 2.583027ms
+2015-03-10 01:54:11.912 Where Im At[97745:2610883] Resetting plugins due to page load.
+2015-03-10 01:54:12.241 Where Im At[97745:2610883] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A8F81029-D47C-4E6E-B587-38BCCADB2EAC/Where%20Im%20At.app/www/index.html
+2015-03-10 01:54:16.175 Where Im At[97745:2610883] Started recording audio sample '1425966856103.wav'
+2015-03-10 01:54:16.176 Where Im At[97745:2610883] THREAD WARNING: ['Media'] took '68.867920' ms. Plugin should use a background thread.
+2015-03-10 01:54:17.532 Where Im At[97745:2610883] Stopped recording audio sample '1425966856103.wav'
+2015-03-10 01:54:17.533 Where Im At[97745:2610883] Finished recording audio sample '1425966856103.wav'
+2015-03-10 01:54:17.635 Where Im At[97745:2610883] THREAD WARNING: ['FileTransfer'] took '12.758057' ms. Plugin should use a background thread.
+2015-03-10 01:54:18.148 Where Im At[97745:2610965] File Transfer Finished with response code 200
+2015-03-10 01:56:29.733 Where Im At[97745:2610883] Started recording audio sample '1425966989728.wav'
+2015-03-10 01:56:30.808 Where Im At[97745:2610883] Stopped recording audio sample '1425966989728.wav'
+2015-03-10 01:56:30.809 Where Im At[97745:2610883] Finished recording audio sample '1425966989728.wav'
+2015-03-10 01:56:30.910 Where Im At[97745:2610883] THREAD WARNING: ['FileTransfer'] took '11.986084' ms. Plugin should use a background thread.
+2015-03-10 01:56:31.379 Where Im At[97745:2611859] File Transfer Finished with response code 200
+2015-03-10 01:56:56.158 Where Im At[97745:2610883] Started recording audio sample '1425967016145.wav'
+2015-03-10 01:56:56.159 Where Im At[97745:2610883] THREAD WARNING: ['Media'] took '11.693848' ms. Plugin should use a background thread.
+2015-03-10 01:56:56.927 Where Im At[97745:2610883] Stopped recording audio sample '1425967016145.wav'
+2015-03-10 01:56:56.928 Where Im At[97745:2610883] Finished recording audio sample '1425967016145.wav'
+2015-03-10 01:56:57.033 Where Im At[97745:2610883] THREAD WARNING: ['FileTransfer'] took '12.005127' ms. Plugin should use a background thread.
+2015-03-10 01:56:57.385 Where Im At[97745:2612075] File Transfer Finished with response code 200
+2015-03-10 02:00:01.340 Where Im At[97999:2613614] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/AB2AB408-4ED0-4815-B745-48801CF4D4DA/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:00:01.488 Where Im At[97999:2613614] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:00:01.489 Where Im At[97999:2613614] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:00:01.492 Where Im At[97999:2613614] Unlimited access to network resources
+2015-03-10 02:00:01.496 Where Im At[97999:2613614] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:00:01.743 Where Im At[97999:2613614] [CDVTimer][file] 2.440035ms
+2015-03-10 02:00:01.743 Where Im At[97999:2613614] [CDVTimer][TotalPluginStartup] 2.628982ms
+2015-03-10 02:00:01.796 Where Im At[97999:2613614] Resetting plugins due to page load.
+2015-03-10 02:00:02.150 Where Im At[97999:2613614] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/184EA4F2-7DC6-4DA0-9A79-97EAD7CBCAA6/Where%20Im%20At.app/www/index.html
+2015-03-10 02:00:32.701 Where Im At[98271:2614530] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/EBECA122-5B48-4305-BE7B-D522562F2648/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:00:32.807 Where Im At[98271:2614530] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:00:32.808 Where Im At[98271:2614530] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:00:32.810 Where Im At[98271:2614530] Unlimited access to network resources
+2015-03-10 02:00:32.813 Where Im At[98271:2614530] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:00:33.036 Where Im At[98271:2614530] [CDVTimer][file] 2.822995ms
+2015-03-10 02:00:33.036 Where Im At[98271:2614530] [CDVTimer][TotalPluginStartup] 3.008962ms
+2015-03-10 02:00:33.092 Where Im At[98271:2614530] Resetting plugins due to page load.
+2015-03-10 02:00:33.554 Where Im At[98271:2614530] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/C6D4EE27-2C77-49EC-BE03-9D1698FD3773/Where%20Im%20At.app/www/index.html
+2015-03-10 02:00:56.361 Where Im At[98517:2615266] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/38B32A41-CA13-4935-B3F3-57055B3C6BBF/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:00:56.464 Where Im At[98517:2615266] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:00:56.464 Where Im At[98517:2615266] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:00:56.467 Where Im At[98517:2615266] Unlimited access to network resources
+2015-03-10 02:00:56.470 Where Im At[98517:2615266] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:00:56.736 Where Im At[98517:2615266] [CDVTimer][file] 2.519965ms
+2015-03-10 02:00:56.736 Where Im At[98517:2615266] [CDVTimer][TotalPluginStartup] 2.704978ms
+2015-03-10 02:00:56.802 Where Im At[98517:2615266] Resetting plugins due to page load.
+2015-03-10 02:00:57.183 Where Im At[98517:2615266] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/86AEB636-124F-42D7-A6B1-0317F8BC0E86/Where%20Im%20At.app/www/index.html
+2015-03-10 02:01:42.270 Where Im At[98759:2616199] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/350B0B73-E23F-4268-B5B3-1B899D43AB2D/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:01:42.376 Where Im At[98759:2616199] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:01:42.377 Where Im At[98759:2616199] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:01:42.379 Where Im At[98759:2616199] Unlimited access to network resources
+2015-03-10 02:01:42.382 Where Im At[98759:2616199] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:01:42.653 Where Im At[98759:2616199] [CDVTimer][file] 3.354967ms
+2015-03-10 02:01:42.653 Where Im At[98759:2616199] [CDVTimer][TotalPluginStartup] 3.565013ms
+2015-03-10 02:01:42.714 Where Im At[98759:2616199] Resetting plugins due to page load.
+2015-03-10 02:01:43.142 Where Im At[98759:2616199] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/A6C8B5DD-0AD6-4175-972A-7A22A98FF94E/Where%20Im%20At.app/www/index.html
+2015-03-10 02:02:35.883 Where Im At[99009:2617195] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/016ED137-3E20-4310-8E9D-653083009D90/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:02:36.050 Where Im At[99009:2617195] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:02:36.051 Where Im At[99009:2617195] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:02:36.053 Where Im At[99009:2617195] Unlimited access to network resources
+2015-03-10 02:02:36.057 Where Im At[99009:2617195] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:02:36.369 Where Im At[99009:2617195] [CDVTimer][file] 2.449036ms
+2015-03-10 02:02:36.370 Where Im At[99009:2617195] [CDVTimer][TotalPluginStartup] 2.647042ms
+2015-03-10 02:02:36.430 Where Im At[99009:2617195] Resetting plugins due to page load.
+2015-03-10 02:02:36.753 Where Im At[99009:2617195] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/5BBBFADA-FBD9-4D3C-BF63-931B990C4FB7/Where%20Im%20At.app/www/index.html
+2015-03-10 02:04:05.219 Where Im At[99262:2618286] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/3C84ADE0-0BCC-423E-A353-75C6F31C3838/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:04:05.326 Where Im At[99262:2618286] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:04:05.327 Where Im At[99262:2618286] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:04:05.329 Where Im At[99262:2618286] Unlimited access to network resources
+2015-03-10 02:04:05.332 Where Im At[99262:2618286] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:04:05.607 Where Im At[99262:2618286] [CDVTimer][file] 2.825022ms
+2015-03-10 02:04:05.607 Where Im At[99262:2618286] [CDVTimer][TotalPluginStartup] 3.095984ms
+2015-03-10 02:04:05.671 Where Im At[99262:2618286] Resetting plugins due to page load.
+2015-03-10 02:04:06.203 Where Im At[99262:2618286] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/06D59C2F-7841-45B8-8F89-EC189E5B276B/Where%20Im%20At.app/www/index.html
+2015-03-10 02:04:27.592 Where Im At[99506:2619101] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/4CB5033F-28D5-4F8F-BC6A-BF98A9183FD8/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:04:27.689 Where Im At[99506:2619101] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:04:27.690 Where Im At[99506:2619101] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:04:27.692 Where Im At[99506:2619101] Unlimited access to network resources
+2015-03-10 02:04:27.694 Where Im At[99506:2619101] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:04:27.954 Where Im At[99506:2619101] [CDVTimer][file] 2.992988ms
+2015-03-10 02:04:27.954 Where Im At[99506:2619101] [CDVTimer][TotalPluginStartup] 3.189981ms
+2015-03-10 02:04:28.012 Where Im At[99506:2619101] Resetting plugins due to page load.
+2015-03-10 02:04:28.380 Where Im At[99506:2619101] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/2B3A3625-D3AB-4AE3-A576-1001203339E0/Where%20Im%20At.app/www/index.html
+2015-03-10 02:04:31.184 Where Im At[99506:2619101] Started recording audio sample '1425967470102.wav'
+2015-03-10 02:04:31.185 Where Im At[99506:2619101] THREAD WARNING: ['Media'] took '1079.318115' ms. Plugin should use a background thread.
+2015-03-10 02:04:31.187 Where Im At[99506:2619101] Stopped recording audio sample '1425967470102.wav'
+2015-03-10 02:04:31.196 Where Im At[99506:2619101] Started recording audio sample '1425967471192.wav'
+2015-03-10 02:04:31.196 Where Im At[99506:2619101] Finished recording audio sample '1425967470102.wav'
+2015-03-10 02:04:31.198 Where Im At[99506:2619101] Stopped recording audio sample '1425967471192.wav'
+2015-03-10 02:04:31.204 Where Im At[99506:2619101] Finished recording audio sample '1425967471192.wav'
+2015-03-10 02:04:31.208 Where Im At[99506:2619101] Started recording audio sample '1425967471203.wav'
+2015-03-10 02:04:31.209 Where Im At[99506:2619101] Stopped recording audio sample '1425967471203.wav'
+2015-03-10 02:04:31.211 Where Im At[99506:2619101] Finished recording audio sample '1425967471203.wav'
+2015-03-10 02:04:31.301 Where Im At[99506:2619101] Started recording audio sample '1425967471285.wav'
+2015-03-10 02:04:31.302 Where Im At[99506:2619101] THREAD WARNING: ['Media'] took '14.445068' ms. Plugin should use a background thread.
+2015-03-10 02:04:31.364 Where Im At[99506:2619101] Stopped recording audio sample '1425967471285.wav'
+2015-03-10 02:04:31.365 Where Im At[99506:2619101] Finished recording audio sample '1425967471285.wav'
+2015-03-10 02:04:31.420 Where Im At[99506:2619161] File Transfer Finished with response code 200
+2015-03-10 02:04:31.447 Where Im At[99506:2619120] File Transfer Finished with response code 200
+2015-03-10 02:04:31.474 Where Im At[99506:2619161] File Transfer Finished with response code 200
+2015-03-10 02:04:31.474 Where Im At[99506:2619101] Started recording audio sample '1425967471460.wav'
+2015-03-10 02:04:31.475 Where Im At[99506:2619101] THREAD WARNING: ['Media'] took '11.529297' ms. Plugin should use a background thread.
+2015-03-10 02:04:31.517 Where Im At[99506:2619163] File Transfer Finished with response code 200
+2015-03-10 02:04:31.541 Where Im At[99506:2619101] Stopped recording audio sample '1425967471460.wav'
+2015-03-10 02:04:31.541 Where Im At[99506:2619101] Finished recording audio sample '1425967471460.wav'
+2015-03-10 02:04:31.727 Where Im At[99506:2619163] File Transfer Finished with response code 200
+2015-03-10 02:04:31.916 Where Im At[99506:2619101] Started recording audio sample '1425967471900.wav'
+2015-03-10 02:04:31.916 Where Im At[99506:2619101] THREAD WARNING: ['Media'] took '12.115967' ms. Plugin should use a background thread.
+2015-03-10 02:04:32.350 Where Im At[99506:2619101] Stopped recording audio sample '1425967471900.wav'
+2015-03-10 02:04:32.351 Where Im At[99506:2619101] Finished recording audio sample '1425967471900.wav'
+2015-03-10 02:04:32.455 Where Im At[99506:2619101] THREAD WARNING: ['FileTransfer'] took '10.781006' ms. Plugin should use a background thread.
+2015-03-10 02:04:32.689 Where Im At[99506:2619163] File Transfer Finished with response code 200
+2015-03-10 02:04:35.480 Where Im At[99506:2619101] Started recording audio sample '1425967475469.wav'
+2015-03-10 02:04:36.073 Where Im At[99506:2619101] Stopped recording audio sample '1425967475469.wav'
+2015-03-10 02:04:36.074 Where Im At[99506:2619101] Finished recording audio sample '1425967475469.wav'
+2015-03-10 02:04:36.428 Where Im At[99506:2619128] File Transfer Finished with response code 200
+2015-03-10 02:05:06.601 Where Im At[99754:2619992] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/75AA0CC2-4007-4B36-B5DE-421766C1F982/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:05:06.742 Where Im At[99754:2619992] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:05:06.743 Where Im At[99754:2619992] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:05:06.746 Where Im At[99754:2619992] Unlimited access to network resources
+2015-03-10 02:05:06.751 Where Im At[99754:2619992] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:05:07.033 Where Im At[99754:2619992] [CDVTimer][file] 2.470016ms
+2015-03-10 02:05:07.033 Where Im At[99754:2619992] [CDVTimer][TotalPluginStartup] 2.662957ms
+2015-03-10 02:05:07.083 Where Im At[99754:2619992] Resetting plugins due to page load.
+2015-03-10 02:05:07.364 Where Im At[99754:2619992] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/CB3E3635-4DFE-4A38-9D3C-A9E926D9DFC8/Where%20Im%20At.app/www/index.html
+2015-03-10 02:05:08.553 Where Im At[99754:2619992] Started recording audio sample '1425967508483.wav'
+2015-03-10 02:05:08.554 Where Im At[99754:2619992] THREAD WARNING: ['Media'] took '67.734863' ms. Plugin should use a background thread.
+2015-03-10 02:05:10.813 Where Im At[99754:2619992] Stopped recording audio sample '1425967508483.wav'
+2015-03-10 02:05:10.814 Where Im At[99754:2619992] Finished recording audio sample '1425967508483.wav'
+2015-03-10 02:05:10.918 Where Im At[99754:2619992] THREAD WARNING: ['FileTransfer'] took '11.694092' ms. Plugin should use a background thread.
+2015-03-10 02:05:11.659 Where Im At[99754:2620029] File Transfer Finished with response code 200
+2015-03-10 02:05:15.019 Where Im At[99754:2619992] Started recording audio sample '1425967514522.wav'
+2015-03-10 02:05:15.019 Where Im At[99754:2619992] THREAD WARNING: ['Media'] took '495.568848' ms. Plugin should use a background thread.
+2015-03-10 02:05:15.054 Where Im At[99754:2619992] Stopped recording audio sample '1425967514522.wav'
+2015-03-10 02:05:15.054 Where Im At[99754:2619992] Finished recording audio sample '1425967514522.wav'
+2015-03-10 02:05:15.289 Where Im At[99754:2619992] THREAD WARNING: ['FileTransfer'] took '136.044922' ms. Plugin should use a background thread.
+2015-03-10 02:05:15.407 Where Im At[99754:2620030] File Transfer Finished with response code 200
+2015-03-10 02:05:16.621 Where Im At[99754:2619992] Started recording audio sample '1425967516610.wav'
+2015-03-10 02:05:18.614 Where Im At[99754:2619992] Stopped recording audio sample '1425967516610.wav'
+2015-03-10 02:05:18.615 Where Im At[99754:2619992] Finished recording audio sample '1425967516610.wav'
+2015-03-10 02:05:19.415 Where Im At[99754:2620051] File Transfer Finished with response code 200
+2015-03-10 02:05:25.782 Where Im At[99754:2619992] Started recording audio sample '1425967525768.wav'
+2015-03-10 02:05:25.782 Where Im At[99754:2619992] THREAD WARNING: ['Media'] took '11.663818' ms. Plugin should use a background thread.
+2015-03-10 02:05:28.718 Where Im At[99754:2619992] Stopped recording audio sample '1425967525768.wav'
+2015-03-10 02:05:28.720 Where Im At[99754:2619992] Finished recording audio sample '1425967525768.wav'
+2015-03-10 02:05:29.734 Where Im At[99754:2620029] File Transfer Finished with response code 200
+2015-03-10 02:06:13.520 Where Im At[101:2621172] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Data/Application/1859E07F-8817-4C5B-B691-2848C445A82A/Library/Cookies/Cookies.binarycookies
+2015-03-10 02:06:13.654 Where Im At[101:2621172] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 02:06:13.654 Where Im At[101:2621172] Multi-tasking -> Device: YES, App: YES
+2015-03-10 02:06:13.657 Where Im At[101:2621172] Unlimited access to network resources
+2015-03-10 02:06:13.661 Where Im At[101:2621172] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 02:06:13.886 Where Im At[101:2621172] [CDVTimer][file] 2.860010ms
+2015-03-10 02:06:13.886 Where Im At[101:2621172] [CDVTimer][TotalPluginStartup] 3.040016ms
+2015-03-10 02:06:13.939 Where Im At[101:2621172] Resetting plugins due to page load.
+2015-03-10 02:06:14.258 Where Im At[101:2621172] Finished load of: file:///Users/jasonsigal/Library/Developer/CoreSimulator/Devices/435BBC8B-0EAD-485F-972F-FBC368E1C5ED/data/Containers/Bundle/Application/3D0B95F3-583F-4820-AE80-D07BE5922ADF/Where%20Im%20At.app/www/index.html
+2015-03-10 02:06:15.979 Where Im At[101:2621172] Started recording audio sample '1425967575841.wav'
+2015-03-10 02:06:15.980 Where Im At[101:2621172] THREAD WARNING: ['Media'] took '135.192139' ms. Plugin should use a background thread.
+2015-03-10 02:06:18.165 Where Im At[101:2621172] Stopped recording audio sample '1425967575841.wav'
+2015-03-10 02:06:18.167 Where Im At[101:2621172] Finished recording audio sample '1425967575841.wav'
+2015-03-10 02:06:18.333 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '77.444092' ms. Plugin should use a background thread.
+2015-03-10 02:06:19.066 Where Im At[101:2621211] File Transfer Finished with response code 200
+2015-03-10 02:06:29.760 Where Im At[101:2621172] Started recording audio sample '1425967589752.wav'
+2015-03-10 02:06:32.862 Where Im At[101:2621172] Stopped recording audio sample '1425967589752.wav'
+2015-03-10 02:06:32.863 Where Im At[101:2621172] Finished recording audio sample '1425967589752.wav'
+2015-03-10 02:06:32.966 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '13.618896' ms. Plugin should use a background thread.
+2015-03-10 02:06:34.022 Where Im At[101:2621425] File Transfer Finished with response code 200
+2015-03-10 02:11:14.097 Where Im At[101:2621172] Started recording audio sample '1425967874087.wav'
+2015-03-10 02:11:15.596 Where Im At[101:2621172] Stopped recording audio sample '1425967874087.wav'
+2015-03-10 02:11:15.596 Where Im At[101:2621172] Finished recording audio sample '1425967874087.wav'
+2015-03-10 02:11:16.216 Where Im At[101:2623607] File Transfer Finished with response code 200
+2015-03-10 02:11:58.667 Where Im At[101:2621172] Started recording audio sample '1425967918662.wav'
+2015-03-10 02:12:00.308 Where Im At[101:2621172] Stopped recording audio sample '1425967918662.wav'
+2015-03-10 02:12:00.309 Where Im At[101:2621172] Finished recording audio sample '1425967918662.wav'
+2015-03-10 02:12:00.952 Where Im At[101:2624038] File Transfer Finished with response code 200
+2015-03-10 02:12:04.414 Where Im At[101:2621172] Started recording audio sample '1425967924407.wav'
+2015-03-10 02:12:05.107 Where Im At[101:2621172] Stopped recording audio sample '1425967924407.wav'
+2015-03-10 02:12:05.108 Where Im At[101:2621172] Finished recording audio sample '1425967924407.wav'
+2015-03-10 02:12:05.210 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '11.235840' ms. Plugin should use a background thread.
+2015-03-10 02:12:05.499 Where Im At[101:2624043] File Transfer Finished with response code 200
+2015-03-10 02:12:42.320 Where Im At[101:2621172] Started recording audio sample '1425967962308.wav'
+2015-03-10 02:12:42.321 Where Im At[101:2621172] THREAD WARNING: ['Media'] took '11.012939' ms. Plugin should use a background thread.
+2015-03-10 02:12:44.177 Where Im At[101:2621172] Stopped recording audio sample '1425967962308.wav'
+2015-03-10 02:12:44.178 Where Im At[101:2621172] Finished recording audio sample '1425967962308.wav'
+2015-03-10 02:12:44.283 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '18.470703' ms. Plugin should use a background thread.
+2015-03-10 02:12:44.923 Where Im At[101:2624478] File Transfer Finished with response code 200
+2015-03-10 02:13:20.528 Where Im At[101:2621172] Started recording audio sample '1425968000522.wav'
+2015-03-10 02:13:22.625 Where Im At[101:2621172] Stopped recording audio sample '1425968000522.wav'
+2015-03-10 02:13:22.626 Where Im At[101:2621172] Finished recording audio sample '1425968000522.wav'
+2015-03-10 02:13:23.386 Where Im At[101:2624877] File Transfer Finished with response code 200
+2015-03-10 02:14:00.930 Where Im At[101:2621172] Started recording audio sample '1425968040919.wav'
+2015-03-10 02:14:02.304 Where Im At[101:2621172] Stopped recording audio sample '1425968040919.wav'
+2015-03-10 02:14:02.305 Where Im At[101:2621172] Finished recording audio sample '1425968040919.wav'
+2015-03-10 02:14:02.410 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '14.732178' ms. Plugin should use a background thread.
+2015-03-10 02:14:02.913 Where Im At[101:2625319] File Transfer Finished with response code 200
+2015-03-10 02:14:14.548 Where Im At[101:2621172] Started recording audio sample '1425968054539.wav'
+2015-03-10 02:14:15.563 Where Im At[101:2621172] Stopped recording audio sample '1425968054539.wav'
+2015-03-10 02:14:15.564 Where Im At[101:2621172] Finished recording audio sample '1425968054539.wav'
+2015-03-10 02:14:16.123 Where Im At[101:2625404] File Transfer Finished with response code 200
+2015-03-10 02:15:28.132 Where Im At[101:2621172] Started recording audio sample '1425968128123.wav'
+2015-03-10 02:15:28.990 Where Im At[101:2621172] Stopped recording audio sample '1425968128123.wav'
+2015-03-10 02:15:28.990 Where Im At[101:2621172] Finished recording audio sample '1425968128123.wav'
+2015-03-10 02:15:29.431 Where Im At[101:2626019] File Transfer Finished with response code 200
+2015-03-10 02:17:26.819 Where Im At[101:2621172] Started recording audio sample '1425968246814.wav'
+2015-03-10 02:17:28.830 Where Im At[101:2621172] Stopped recording audio sample '1425968246814.wav'
+2015-03-10 02:17:28.831 Where Im At[101:2621172] Finished recording audio sample '1425968246814.wav'
+2015-03-10 02:17:28.933 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '15.713135' ms. Plugin should use a background thread.
+2015-03-10 02:17:29.585 Where Im At[101:2626940] File Transfer Finished with response code 200
+2015-03-10 02:19:05.108 Where Im At[101:2621172] Started recording audio sample '1425968345099.wav'
+2015-03-10 02:19:05.873 Where Im At[101:2621172] Stopped recording audio sample '1425968345099.wav'
+2015-03-10 02:19:05.873 Where Im At[101:2621172] Finished recording audio sample '1425968345099.wav'
+2015-03-10 02:19:05.974 Where Im At[101:2621172] THREAD WARNING: ['FileTransfer'] took '11.164062' ms. Plugin should use a background thread.
+2015-03-10 02:19:06.435 Where Im At[101:2627779] File Transfer Finished with response code 200
+2015-03-10 02:19:11.923 Where Im At[101:2621172] Started recording audio sample '1425968351917.wav'
+2015-03-10 02:19:12.650 Where Im At[101:2621172] Stopped recording audio sample '1425968351917.wav'
+2015-03-10 02:19:12.651 Where Im At[101:2621172] Finished recording audio sample '1425968351917.wav'
+2015-03-10 02:19:13.091 Where Im At[101:2627782] File Transfer Finished with response code 200

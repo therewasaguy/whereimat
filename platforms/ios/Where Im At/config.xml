@@ -112,6 +112,10 @@
     <gap:splash gap:platform="ios" height="768" src="www/res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
+    <access origin="http://127.0.0.1*" />
+    <access origin="https://example.com" />
+    <access origin="https://example.com" subdomains="true" />
+    <access origin=".*" />
     <gap:url-scheme name="com.phonegap.whereimat" role="None">
         <scheme>foursquare</scheme>
         <scheme>spotify</scheme>

@@ -160,14 +160,17 @@
               var ft = new FileTransfer(),
               path = temporaryStoragePath + mediaSrc,
               // name = encodeURIComponent(myLocation);
-              name = "hello";
-
-              alert('filename: ' + path);
+              name = "hello_" + mediaSrc;
 
               ft.upload(path,
                         pathToMyDomain + "uploader.php",
                         function(result) {
-                          alert('Upload success: ' + result.responseCode + ' ' + result.bytesSent + ' bytes sent');
+                            var data = recordings[recordings.length -1];
+                            data.filePath = path;
+                            data.fileName = name;
+                            updateDB(data);
+
+                            // alert('Upload success: ' + result.responseCode + ' ' + result.bytesSent + ' bytes sent');
                       },
                         function(error) {
                         alert('Error uploading file : ' + error.code + ' ' + error.target + ' ' + error.source);
@@ -175,6 +178,19 @@
                         { fileName: name, fileKey: 'bytes', mimeType: 'audio/wave', chunkedMode: false });
             }
 
+            function updateDB(data) {
+                // alert(Object.keys(data));
+                var postData = {
+                    location: data.location,
+                    audioFile: data.fileName
+                };
+                $.post(pathToMyDomain + "dbaser.php",{
+                    dataString: JSON.stringify(postData, undefined, 2), //'helloWORLD',
+                     success: function(status) {
+                        console.log(status)
+                    }
+                });
+            }
 
             function audioSuccess() {
                 // alert('success!');
