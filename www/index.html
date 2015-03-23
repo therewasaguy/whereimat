@@ -21,6 +21,11 @@
         <script type="text/javascript" src="js/secret_.js"></script>
         <script type="text/javascript" src="js/foursq_.js"></script>
 
+        <script type="text/javascript" src="js/webaudiomonkeypatch.js"></script>
+        <script>
+            console.log(window.AudioContext);
+        </script>
+
         <!-- Cordova magically appears -->
         <script type="text/javascript" src="cordova.js"></script>
 
@@ -29,8 +34,7 @@
             var myLocation = "Brad's"
             var nearbyLocations = [ {'name': 'Mr Kiwi'}, {'name': 'Other Music'} ];
             var temporaryStoragePath = '';
-
-            //'CVS', 'ITP', 'Lighting Plus', 'Canal Plastics', 'Bus Stop', 'Union Square', 'St Marks', 'Bleeker Bob\'s', 'Two Boots', "Brad's"];
+            var databaseObj = {};
 
             document.addEventListener("deviceready", onDeviceReady, false);
 
@@ -43,18 +47,21 @@
                     e.preventDefault();
                     stopRecording();
                 });
+
                 addLocations(nearbyLocations);
+
             });
 
-            // $(document).on("pagecreate", "#changeLocation", function() {
-            //     addLocations(nearbyLocations);
-            // });
 
             function onDeviceReady() {
                 navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
 
                 getTemporaryStoragePath();
+
+                // get data from dB
+                getRemoteData();
             }
+
 
             function getTemporaryStoragePath() {
                 window.requestFileSystem(LocalFileSystem.TEMPORARY, 0, gotFS, failCB);
@@ -70,22 +77,20 @@
                 }
             }
 
+
             function onGeoError(error) {
                 alert('Sorry, location is broken!');
             }
 
+
             function onGeoSuccess(position) {
                 // set global;
                 myPosition = position;
+
+                getNearbyAudio(myPosition.coords.latitude, myPosition.coords.longitude);
                 getNearbyLocations(myPosition.coords.latitude, myPosition.coords.longitude);
                 // alert('Latitude: '          + position.coords.latitude          + '\n' +
                 //       'Longitude: '         + position.coords.longitude         + '\n' +
-                //       'Altitude: '          + position.coords.altitude          + '\n' +
-                //       'Accuracy: '          + position.coords.accuracy          + '\n' +
-                //       'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
-                //       'Heading: '           + position.coords.heading           + '\n' +
-                //       'Speed: '             + position.coords.speed             + '\n' +
-                //       'Timestamp: '         + position.timestamp                + '\n');
             }
 
             /******
@@ -141,11 +146,34 @@
                     recInterval = null;
                 }
 
-                recordings.push({"src": mediaSrc, "location": myLocation, "audio": mediaRec, "user": "notLoggedIn"});
+                // find lat/lng
+                var thisItem;
+                nearbyLocations.forEach(function(item) {
+                    if (item.name === myLocation) {
+                        thisItem = item;
+                        return;
+                    }
+                });
+
+                var lat = thisItem.location.lat;
+                var lng = thisItem.location.lng;
+                var date = new Date();
+                var user = 'anonymous';
+
+
+                recordings.push({
+                    "audioFile": mediaSrc,
+                    "location": myLocation,
+                    /**"audio": mediaRec,**/
+                    "user": user,
+                    "date": date,
+                    "lat": lat,
+                    "lng": lng
+                });
 
                 // upload recording
                 setTimeout(function() {
-                    uploadFile(recordings[recordings.length -1].src, myLocation);
+                    uploadFile(recordings[recordings.length -1].audioFile, myLocation);
                 }, 100);
 
 
@@ -179,10 +207,14 @@
             }
 
             function updateDB(data) {
-                // alert(Object.keys(data));
+
                 var postData = {
                     location: data.location,
-                    audioFile: data.fileName
+                    audioFile: data.fileName,
+                    lat: data.lat,
+                    lng: data.lng,
+                    date: data.date,
+                    user: data.user
                 };
                 $.post(pathToMyDomain + "dbaser.php",{
                     dataString: JSON.stringify(postData, undefined, 2), //'helloWORLD',
@@ -208,6 +240,9 @@
             function addLocations(locList) {
                 // alert(locList);
                 var items = [];
+
+                nearbyLocations = locList;
+
                 $.each(locList, function(i, loc) {
                     // alert(loc);
                     items.push('<li><a href="#" data-loc="'+loc.name+'">' + loc.name + '</a></li>');
@@ -225,10 +260,33 @@
                 });
             }
 
+
+            function getNearbyAudio(lat, lng) {
+                var nearbyAudio = [];
+
+            }
+
+            // get list of audio from the database
+            function getRemoteData() {
+
+                $.getJSON(pathToMyDomain + 'database.json', function(ret) {
+                    recordings = ret;
+                    addAudios(recordings);
+                    // databaseObj = ret;
+                    // alert('retreived ' + databaseObj.length + ' items from the database');
+                });
+            }
+
+            // TO DO
+            function sortByDistance(recordings, myLatLng) {
+
+            }
+
+            // add audio to the list of nearby audio
             function addAudios(audioList) {
                 var items = [];
                 $.each(audioList, function(i, audioItem) {
-                    items.push('<li><a href="#" data-src="'+audioItem.src+'" data-audio="'+audioItem.audio+' "data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
+                    items.push('<li><a href="#" data-src="'+audioItem.audioFile+'"data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
                 });
                 $('#nearbyUL').empty( );
                 $('#nearbyUL').append( items.join('') );
