@@ -22,6 +22,8 @@
         <script type="text/javascript" src="js/foursq_.js"></script>
 
         <script type="text/javascript" src="js/webaudiomonkeypatch.js"></script>
+
+
         <script>
             console.log(window.AudioContext);
         </script>
@@ -148,15 +150,19 @@
 
                 // find lat/lng
                 var thisItem;
+                var lat = myPosition.coords.latitude;
+                var lng = myPosition.coords.longitude;
+
                 nearbyLocations.forEach(function(item) {
                     if (item.name === myLocation) {
                         thisItem = item;
+                        // more precise location if we have it
+                        lat = thisItem.location.lat;
+                        lng = thisItem.location.lng;
                         return;
                     }
                 });
 
-                var lat = thisItem.location.lat;
-                var lng = thisItem.location.lng;
                 var date = new Date();
                 var user = 'anonymous';
 
@@ -300,9 +306,16 @@
             }
 
             function playSound(src) {
+
+                // if file came from the server...
+                if (src.indexOf('hello') > -1) {
+                    src = 'http://104.236.70.236/uploads/'+src;
+                }
+
                 var myMedia = new Media(src, function() {}, function(e) {alert('error loading sound');
                 });
                 myMedia.play();
+
             }
 
         </script>
