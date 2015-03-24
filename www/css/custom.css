@@ -20,5 +20,5 @@
   text-align: center;
 }
 
-[data-role=page]{height: 100% !important; position:relative !important;}
-[data-role=footer]{bottom:40px; position:absolute !important; top: auto !important; width:100%;}
+/*[data-role=page]{height: 100% !important; position:relative !important;}
+[data-role=footer]{bottom:40px; position:absolute !important; top: auto !important; width:100%;}*/

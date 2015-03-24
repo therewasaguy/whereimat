@@ -2,7 +2,8 @@
 <html>
     <head>
         <title>Page Title</title>
-        <meta name="viewport" content="width=device-width, initial-scale=0.5">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+
         <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
         <link rel="stylesheet" href="css/jquery.mobile.icons.min.css" />
 
@@ -23,6 +24,12 @@
 
         <script type="text/javascript" src="js/webaudiomonkeypatch.js"></script>
 
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&language=ja"></script>
+        <script src="js/map.js"></script>
+
+        <style>
+            #map-page, #map-canvas { width: 100%; height: 500px; padding: 0; }
+        </style>
 
         <script>
             console.log(window.AudioContext);
@@ -36,7 +43,6 @@
             var myLocation = "Brad's"
             var nearbyLocations = [ {'name': 'Mr Kiwi'}, {'name': 'Other Music'} ];
             var temporaryStoragePath = '';
-            var databaseObj = {};
 
             document.addEventListener("deviceready", onDeviceReady, false);
 
@@ -49,6 +55,9 @@
                     e.preventDefault();
                     stopRecording();
                 });
+                $("#refreshLocation").on("touchend", function(e) {
+                    refreshLocation();
+                })
 
                 addLocations(nearbyLocations);
 
@@ -56,12 +65,18 @@
 
 
             function onDeviceReady() {
-                navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
+                refreshLocation();
 
                 getTemporaryStoragePath();
 
                 // get data from dB
                 getRemoteData();
+
+                $.mobile.resetActivePageHeight();
+            }
+
+            function refreshLocation() {
+                navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError);
             }
 
 
@@ -89,10 +104,14 @@
                 // set global;
                 myPosition = position;
 
-                getNearbyAudio(myPosition.coords.latitude, myPosition.coords.longitude);
+                // getNearbyAudio(myPosition.coords.latitude, myPosition.coords.longitude);
                 getNearbyLocations(myPosition.coords.latitude, myPosition.coords.longitude);
                 // alert('Latitude: '          + position.coords.latitude          + '\n' +
                 //       'Longitude: '         + position.coords.longitude         + '\n' +
+
+                // set up the maps
+                initializeNearbyAudioMap();
+
             }
 
             /******
@@ -103,10 +122,6 @@
             var mediaRec = null;
             var mediaSrc = "";
             var recordings = [];
-
-            // function stripSpace(someText) {
-            //     return someText.replace(/ /g,'');
-            // }
 
             function startRecording() {
                 if (recState === 1) {
@@ -166,7 +181,6 @@
                 var date = new Date();
                 var user = 'anonymous';
 
-
                 recordings.push({
                     "audioFile": mediaSrc,
                     "location": myLocation,
@@ -183,8 +197,7 @@
                 }, 100);
 
 
-                // TO DO: also send recording to database
-
+                // TO DO: create a new method that adds a recording rather than rewriting
                 // update list of recordings
                 addAudios(recordings);
             }
@@ -264,33 +277,69 @@
                     $( "#myloc" ).text(myLocation);
                     $( "#changeLocation" ).dialog( "close" );
                 });
+
+                // sort and add recordings from the database
+                addAudios(recordings);
+
+                // make first location myLocation
+                myLocation = locList[0].name;
+                $( "#myloc" ).text(myLocation);
+
             }
 
-
-            function getNearbyAudio(lat, lng) {
-                var nearbyAudio = [];
-
-            }
 
             // get list of audio from the database
             function getRemoteData() {
 
                 $.getJSON(pathToMyDomain + 'database.json', function(ret) {
                     recordings = ret;
-                    addAudios(recordings);
-                    // databaseObj = ret;
-                    // alert('retreived ' + databaseObj.length + ' items from the database');
+                    // alert('retreived ' + recordings.length + ' items from the database');
                 });
             }
 
-            // TO DO
-            function sortByDistance(recordings, myLatLng) {
+            // TO DO.
+            // Future: http://stackoverflow.com/questions/26348465/sort-users-by-distance-from-current-user-reactively-in-meteor
+            // function sortByDistance(rList) {
+            //     alert(myPosition.coords.latitude);
+            //     var myLat = myPosition.coords.latitude;
+            //     var myLng = myPosition.coords.longitude;
 
-            }
+            //     for (var i = 0; i < rList.length; i++) {
+            //         var distance;
+            //         var rLat = recordings[i].lat;
+            //         var rLng = recordings[i].lng;
+            //         alert(rLat);
+            //         // if item doesnt have a distance, set it artbitrarily
+            //         if (typeof(rLat) === 'undefined') {
+            //             distance = 10;
+            //         } else {
+            //             distance = Math.sqrt(  Math.pow( (rLat - myLat), 2), Math.pow((rLng - myLng), 2) );
+            //         }
+            //         alert(distance);
+            //         // add to recordings array, which is our local storage
+            //         rList[i].distance = distance
+            //     }
+
+            //     // sort recordings by distance
+            //     var rec = rList.sort(function(a, b) {
+            //         if (a.distance > b.distance) {
+            //             return 1;
+            //         } else {
+            //             return 0;
+            //         }
+            //     });
+            //     alert(rec[0].distance);
+            //     return rec;
+            // }
+
+            ///////////
 
             // add audio to the list of nearby audio
             function addAudios(audioList) {
                 var items = [];
+
+                // audioList = sortByDistance(alist);
+
                 $.each(audioList, function(i, audioItem) {
                     items.push('<li><a href="#" data-src="'+audioItem.audioFile+'"data-loc="'+audioItem.location+'">' + audioItem.location + '</a></li>');
                 });
@@ -324,73 +373,88 @@
     </head>
 
     <body>
-
-          <!-- Record 1 -->
-          <div data-role="page" data-dialog="false" id="rec1">
-
+        <!-- Record 1 -->
+        <div data-role="page" data-dialog="false" id="rec1">
             <div data-role="header" data-id="headerbar" data-position="fixed">
-                <div data-role="navbar">
-                    <h1 class="ui-title" />
-                    Where I'm At
-                    </h1>
-                    <ul>
-                        <li>
-<!--                         $.mobile.page.prototype.options.backBtnText = "previous";
- --><!--                     <ul>
-                        <li><a href="#home">Home</a></li>
-                    </ul>
- -->                </div>
+                <h1 class="ui-title" />
+                Where I'm At
+                </h1>
             </div>
-
             <div role="main" class="ui-content centered">
                 <p>
-                    <div id="recbutt" class="circle centered shadow"></div>
+                    <div id="recbutt" class="circle centered shadow">
+                    </div>
                     <p>
-                    <a href="#changeLocation" id="myloc">@ Brad's</a>
+                        <a href="#changeLocation" id="myloc">@ Brad's</a><br/>
+                        <a href="#" id="refreshLocation" data-role="button" data-icon="refresh" data-iconpos="notext" data-inline="true" class="ui-btn-center" style="text-align:center"></a>
                     </p>
                     <span id="audio_position"></span>
                 </p>
+                <div class="map-container" style="height:50%; width:100%;">
+                    <div id="map-canvas">map go here</div>
+                </div>
             </div>
-
-            <div data-role="footer">
-                <div data-role="navbar">
+            <div data-role="footer" data-position="fixed" data-id="myFooter" role="contentinfo" class="ui-footer ui-bar i-footer-fixed slideup">
+                <div data-role="navbar" data-position="fixed" class="ui-navbar" role="navigation">
                     <ul>
                         <li>
-                            <a href="#nearby" data-icon="home">Nearby</a>
+                            <a href="#nearby" data-prefetch="true" data-icon="home" class="ui-btn">Nearby</a>
                         </li>
-                        <li>
+                        <!--                         <li>
                             <a href="#" data-icon="star">Friends</a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="#" data-icon="check" class="ui-btn-active ui-state-persist">Tag</a>
+                            <a href="#" data-prefetch="true" data-icon="check" class="ui-btn-active ui-state-persist">Tag</a>
                         </li>
-                        <li>
+                        <!--                         <li>
                             <a href="#" data-icon="gear">Options</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
-
         </div>  <!-- end record1 -->
 
-            <!-- change location-->
-            <div data-role="dialog" id="changeLocation">
-                <ul id="locationsUL" data-role="listview" data-filter="true" data-filter-placeholder="Search nearby..." data-inset="true">
-                    <li>
-                        <a href="#">Two Boots</a>
-                    </li>
-                </ul>
+        <!-- change location-->
+        <div data-role="dialog" id="changeLocation">
+            <div data-role="header" class="ui-header ui-bar-e">
+                <h1>Change Location</h1>
             </div>
+            <ul id="locationsUL" data-role="listview" data-filter="true" data-filter-placeholder="Search nearby..." data-inset="true">
+                <li>
+                    <a href="#">Two Boots</a>
+                </li>
+            </ul>
+        </div>
 
-        <!-- nearby -->
-        <div data-role="dialog" id="nearby">
+        <!-- nearby PAGE -->
+        <div data-role="page" id="nearby">
+            <div data-role="header" class="ui-header">
+                <h1>Sonic Graffiti</h1>
+                <a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-btn-center"></a>
+            </div>
             <ul id="nearbyUL" data-role="listview" data-filter="true" data-filter-placeholder="Find nearby sounds..." data-inset="true">
                 <li>
                     <a href="#">Two Boots</a>
                 </li>
             </ul>
-
+            <div data-role="footer" data-position="fixed" data-id="myFooter" role="contentinfo" class="ui-footer ui-bar ui-footer-fixed slideup">
+                <div data-role="navbar" class="ui-navbar" role="navigation">
+                    <ul>
+                        <li class="ui-block-a">
+                            <a href="#" data-prefetch="true" data-icon="home" class="ui-btn-active ui-state-persist">Nearby</a>
+                        </li>
+                        <!--                         <li>
+                            <a href="#" data-icon="star">Friends</a>
+                        </li> -->
+                        <li class="ui-block-b">
+                            <a href="#rec1" data-prefetch="true" data-icon="check" class="ui-btn">Tag</a>
+                        </li>
+                        <!--                         <li>
+                            <a href="#" data-icon="gear">Options</a>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
         </div>
-
     </body>
 </html>
