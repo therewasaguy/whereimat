@@ -1,17 +1,35 @@
 var myMap;
-var locationLayer = new google.maps.Data();
-var audioLayer = new google.maps.Data();
+var locationLayer;
+var audioLayer
 
-locationMarkers = [];
-locationInfos = [];
+var locationMarkers = [];
+var locationInfos = [];
+
+var audioMakers = [];
+var audioInfos = [];
+
+var styles = [
+   {
+     featureType: "poi",
+     stylers: [
+      { visibility: "off" }
+     ]   
+    }
+];
+
+var styledMap = new google.maps.StyledMapType(styles,{name: 'map_style'});
 
 function initializeNearbyAudioMap() {
   var mapOptions = {
     zoom: 18,
-    center: new google.maps.LatLng(Number(myPosition.coords.latitude), Number(myPosition.coords.longitude) )
+    center: new google.maps.LatLng(Number(myPosition.coords.latitude), Number(myPosition.coords.longitude) ),
+    disableDefaultUI: true
   };
   myMap = new google.maps.Map(document.getElementById('map-canvas'),
       mapOptions);
+
+  myMap.mapTypes.set('map_style', styledMap);
+  myMap.setMapTypeId('map_style');
 
   google.maps.event.addListenerOnce(myMap, 'idle', function(){
       // do something only the first time the map is loaded
@@ -21,26 +39,36 @@ function initializeNearbyAudioMap() {
 }
 
 function addAudioToMap(pinArray) {
-  console.log('adding audio to map');
-  alert('adding ' + recordings.length + ' recs to map');
+  console.log('adding ' + recordings.length + ' recs to map');
+
+  audioLayer = {"locations": [] };
+
+  for (var i = 0; i < recordings.length; i++) {
+    if ( typeof(recordings[i].lat) !== 'undefined' ) {
+      console.log(recordings[i].location);
+      audioLayer.locations.push([recordings[i].location, Number(recordings[i].lat), Number(recordings[i].lng) ])
+    }
+  }
+
+  setMarkers(myMap, audioLayer.locations, true);
+
 }
 
 function addLocsToMap(locs) {
   console.log('we have ' + nearbyLocations.length + ' nearby locations');
 
-  audioLayer = {"locations": [] };
+  locationLayer = {"locations": [] };
 
   for (var i = 0; i < nearbyLocations.length; i++) {
     audioLayer.locations.push([nearbyLocations[i].name, nearbyLocations[i].location.lat, nearbyLocations[i].location.lng ])
   }
 
   // myMap.data = audioLayer;
-  setMarkers(myMap, audioLayer.locations);
+  // setMarkers(myMap, locationLayer.locations);
 }
 
 
-function setMarkers(map, locations) {
-  console.log('setting markers');
+function setMarkers(map, locations, isAudio) {
 
   locationInfos = [];
   locationMarkers = [];
@@ -60,14 +88,27 @@ function setMarkers(map, locations) {
     }) );
 
     google.maps.event.addListener(locationMarkers[i], 'mousedown', function() {
-      // alert('you clicked on ' + this.title);
+      var self = this;
       for (var j = 0; j < locationInfos.length; j++) {
         locationInfos[j].close();
       }
       locationInfos[this.index].open(map,this);
+
+      // if it's audio, play on click
+      if (isAudio) {
+
+        function isThisLocation(element) {
+          console.log(element.location, self.title);
+          return element.location === self.title;
+        }
+
+        var recordingsFromThisLocation = recordings.filter(isThisLocation);
+        console.log('there are ' + recordingsFromThisLocation.length + ' recordings made here');
+        playSound(recordingsFromThisLocation[0].audioFile);
+      }
     });
 
   } // end for loop
 
-  console.log('made ' + infoWindows.length + ' infoWindows');
+  console.log('made ' + locationInfos.length + ' infoWindows');
 }
